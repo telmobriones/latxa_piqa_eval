@@ -1,0 +1,6 @@
+
+=== Summary of All Shot Results ===
+qwen3 en 0-shot -> Accuracy: 0.7838 (Correct=1439/1836, Malformed=51)
+qwen3 en 1-shot -> Accuracy: 0.8099 (Correct=1487/1836, Malformed=0)
+qwen3 en 3-shot -> Accuracy: 0.8393 (Correct=1541/1836, Malformed=0)
+qwen3 en 5-shot -> Accuracy: 0.8551 (Correct=1570/1836, Malformed=0)
