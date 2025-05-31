@@ -1,0 +1,80 @@
+====== K-SHOT EVALUATIONS ======
+
+=== Summary of All Shot Results ===
+latxa eu 0-shot -> Accuracy: 0.5158 (Correct=947/1836, Malformed=0)
+latxa eu 1-shot -> Accuracy: 0.6672 (Correct=1225/1836, Malformed=0)
+latxa eu 3-shot -> Accuracy: 0.6743 (Correct=1238/1836, Malformed=0)
+latxa eu 5-shot -> Accuracy: 0.6547 (Correct=1202/1836, Malformed=0)
+
+=== Summary of All Shot Results ===
+latxa en 0-shot -> Accuracy: 0.6275 (Correct=1152/1836, Malformed=0)
+latxa en 1-shot -> Accuracy: 0.7789 (Correct=1430/1836, Malformed=0)
+latxa en 3-shot -> Accuracy: 0.7663 (Correct=1407/1836, Malformed=0)
+latxa en 5-shot -> Accuracy: 0.7609 (Correct=1397/1836, Malformed=1)
+
+=== Summary of All Shot Results ===
+llama eu 0-shot -> Accuracy: 0.3834 (Correct=704/1836, Malformed=510)
+llama eu 1-shot -> Accuracy: 0.5550 (Correct=1019/1836, Malformed=1)
+llama eu 3-shot -> Accuracy: 0.5566 (Correct=1022/1836, Malformed=1)
+llama eu 5-shot -> Accuracy: 0.5599 (Correct=1028/1836, Malformed=1)
+
+=== Summary of All Shot Results ===
+llama en 0-shot -> Accuracy: 0.6770 (Correct=1243/1836, Malformed=165)
+llama en 1-shot -> Accuracy: 0.8088 (Correct=1485/1836, Malformed=0)
+llama en 3-shot -> Accuracy: 0.8192 (Correct=1504/1836, Malformed=1)
+llama en 5-shot -> Accuracy: 0.8224 (Correct=1510/1836, Malformed=3)
+
+=== Summary of All Shot Results ===
+qwen3 eu 0-shot -> Accuracy: 0.5256 (Correct=965/1836, Malformed=102)
+qwen3 eu 1-shot -> Accuracy: 0.5692 (Correct=1045/1836, Malformed=0)
+qwen3 eu 3-shot -> Accuracy: 0.5812 (Correct=1067/1836, Malformed=2)
+qwen3 eu 5-shot -> Accuracy: 0.5741 (Correct=1054/1836, Malformed=0)
+
+=== Summary of All Shot Results ===
+qwen3 en 0-shot -> Accuracy: 0.7838 (Correct=1439/1836, Malformed=51)
+qwen3 en 1-shot -> Accuracy: 0.8099 (Correct=1487/1836, Malformed=0)
+qwen3 en 3-shot -> Accuracy: 0.8393 (Correct=1541/1836, Malformed=0)
+qwen3 en 5-shot -> Accuracy: 0.8551 (Correct=1570/1836, Malformed=0)
+
+================================
+
+
+====== CoT EVALUATIONS ======
+
+=== Summary of All CoT Results ===
+latxa eu 0-shot -> Accuracy: 0.6492 (Correct=1192/1836, Malformed=23)
+latxa eu 1-shot -> Accuracy: 0.6694 (Correct=1229/1836, Malformed=0)
+latxa eu 3-shot -> Accuracy: 0.6705 (Correct=1231/1836, Malformed=1)
+latxa eu 5-shot -> Accuracy: 0.6585 (Correct=1209/1836, Malformed=1)
+
+=== Summary of All CoT Results ===
+latxa en 0-shot -> Accuracy: 0.8077 (Correct=1483/1836, Malformed=10)
+latxa en 1-shot -> Accuracy: 0.8001 (Correct=1469/1836, Malformed=2)
+latxa en 3-shot -> Accuracy: 0.8034 (Correct=1475/1836, Malformed=9)
+latxa en 5-shot -> Accuracy: 0.8312 (Correct=1526/1836, Malformed=8)
+
+=== Summary of All CoT Results ===
+llama eu 0-shot -> Accuracy: 0.5245 (Correct=963/1836, Malformed=93)
+llama eu 1-shot -> Accuracy: 0.5735 (Correct=1053/1836, Malformed=13)
+llama eu 3-shot -> Accuracy: 0.5539 (Correct=1017/1836, Malformed=57)
+llama eu 5-shot -> Accuracy: 0.5430 (Correct=997/1836, Malformed=66)
+
+=== Summary of All CoT Results ===
+llama en 0-shot -> Accuracy: 0.7990 (Correct=1467/1836, Malformed=61)
+llama en 1-shot -> Accuracy: 0.8268 (Correct=1518/1836, Malformed=1)
+llama en 3-shot -> Accuracy: 0.8306 (Correct=1525/1836, Malformed=10)
+llama en 5-shot -> Accuracy: 0.8306 (Correct=1525/1836, Malformed=5)
+
+=== Summary of All Shot Results ===
+qwen3 eu 0-shot -> Accuracy: 0.6187 (Correct=1136/1836, Malformed=46)
+qwen3 eu 1-shot -> Accuracy: 0.6471 (Correct=1188/1836, Malformed=7)
+qwen3 eu 3-shot -> Accuracy: 0.6449 (Correct=1184/1836, Malformed=21)
+qwen3 eu 5-shot -> Accuracy: 0.6324 (Correct=1161/1836, Malformed=28)
+
+=== Summary of All Shot Results ===
+qwen3 en 0-shot -> Accuracy: 0.8981 (Correct=1649/1836, Malformed=11)
+qwen3 en 1-shot -> Accuracy: 0.8905 (Correct=1635/1836, Malformed=10)
+qwen3 en 3-shot -> Accuracy: 0.8932 (Correct=1640/1836, Malformed=14)
+qwen3 en 5-shot -> Accuracy: 0.8943 (Correct=1642/1836, Malformed=11)
+
+=============================
