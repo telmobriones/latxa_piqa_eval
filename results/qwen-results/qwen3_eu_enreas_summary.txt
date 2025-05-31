@@ -1,0 +1,6 @@
+
+=== Summary of All Shot Results ===
+qwen3 eu_enreas 0-shot -> Accuracy: 0.6187 (Correct=1136/1836, Malformed=46)
+qwen3 eu_enreas 1-shot -> Accuracy: 0.6471 (Correct=1188/1836, Malformed=7)
+qwen3 eu_enreas 3-shot -> Accuracy: 0.6449 (Correct=1184/1836, Malformed=21)
+qwen3 eu_enreas 5-shot -> Accuracy: 0.6324 (Correct=1161/1836, Malformed=28)
