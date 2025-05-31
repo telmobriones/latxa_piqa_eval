@@ -1,0 +1,296 @@
+###################################
+  ___ _  _  ___ _    ___ ___ _  _  
+ | __| \| |/ __| |  |_ _/ __| || | 
+ | _|| .` | (_ | |__ | |\__ \ __ | 
+ |___|_|\_|\___|____|___|___/_||_| 
+                                   
+###################################
+
+
+#### 1 NO REASONING ####
+{
+    "role": "system",
+    "content": (
+        "You are an AI assistant that answers multiple choice questions about physical commonsense reasoning. "
+        "All the questioning and the reasoning will be conducted in English. "
+        "For the given question, you will be provided with two possible answers, and you must choose the correct one after carefully thinking about it. "
+        "You must only provide the number of the correct answer (1 or 2) without any explanations, additional reasoning, or commentary. "
+        "Output only the number of the answer, nothing else."
+    )
+},
+{
+    "role": "user",
+    "content": "Question:\nHow do you safely defrost frozen chicken?\n1. Leave it out on the counter overnight\n2. Put it in the fridge for a few hours or use the defrost setting in the microwave"
+},
+{
+    "role": "assistant",
+    "content": "2"
+},
+{
+    "role": "user",
+    "content": "Question:\nTo prepare strawberries to be eaten, you can\n1. Rinse the strawberries in cold water\n2. Rinse the strawberries in cold milk"
+},
+{
+    "role": "assistant",
+    "content": "1"
+},
+{
+    "role": "user",
+    "content": "Question:\nWhat should I do when I cut my finger?\n1. Ignore it and keep using your hand\n2. Clean the cut and put a bandage on it"
+},
+{
+    "role": "assistant",
+    "content": "2"
+},
+{
+    "role": "user",
+    "content": "Question:\nWhat’s the best way to brush your teeth?\n1. Brush twice a day for two minutes each time\n2. Brush once a day quickly"
+},
+{
+    "role": "assistant",
+    "content": "1"
+},
+{
+    "role": "user",
+    "content": "Question:\nrug\n1. can be used to hide body of an elephant\n2. can be used to hide toys of an elephant"
+},
+{
+    "role": "assistant",
+    "content": "2"
+},
+{
+    "role": "user",
+    "content": f"Question:\n{q}\n1. {a1}\n2. {a2}"
+}
+
+
+#### 2 Chain of Thought ####
+    {
+        "role": "system",
+        "content": (
+            "You are an AI assistant that answers multiple choice questions about physical commonsense reasoning. "
+            "All the questioning and the reasoning will be conducted in English. "
+            "Each user query will offer exactly two answer choices. "
+            "First, provide a concise chain of thought inside '<Reasoning>…</Reasoning>' tags. "
+            "Then, inside '<Answer>…</Answer>' tags, output only the number (1 or 2) of the choice you select, nothing else. "
+            "Do not emit any text outside of these tags."
+        )
+    },
+    {
+        "role": "user",
+        "content": "Question:\nHow do you safely defrost frozen chicken?\n1. Leave it out on the counter overnight\n2. Put it in the fridge for a few hours or use the defrost setting in the microwave"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Leaving chicken out lets bacteria grow as it gets warm, so maybe using the fridge or microwave could help to keep it at a safe temperature and prevent food poisoning.</Reasoning><Answer>2</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nTo prepare strawberries to be eaten, you can\n1. Rinse the strawberries in cold water\n2. Rinse the strawberries in cold milk"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Cold water effectively removes dirt, debris, and any pesticide residues from the strawberry surfaces without altering their taste or texture, whereas milk does not provide any additional cleaning benefit and could leave an unwanted film and spoil faster.</Reasoning><Answer>1</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nWhat should I do when I cut my finger?\n1. Ignore it and keep using your hand\n2. Clean the cut and put a bandage on it"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>When you cut your finger, germs can enter wounds and cause infection. It can be a good idea to clean the cut with water or antiseptic to remove the germs, and cover it with a bandage to keep it clean and protected while it heals.</Reasoning><Answer>2</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nWhat’s the best way to brush your teeth?\n1. Brush twice a day for two minutes each time\n2. Brush once a day quickly"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>It is recommended to brush twice a day for two minutes to remove more plaque and maintain healthy gums, while brushing quickly once a day may not be enough to clean the teeth properly.</Reasoning><Answer>1</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nrug\n1. can be used to hide body of an elephant\n2. can be used to hide toys of an elephant"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>A typical rug is far too small and thin to conceal the body of a full-sized elephant, but it could easily be draped over or placed atop small objects such as toys.</Reasoning><Answer>2</Answer>"
+    },
+    {
+        "role": "user",
+        "content": f"Question:\n{q}\n1. {a1}\n2. {a2}"
+    }
+
+#### 2 Chain of Thought v2 ####
+
+  {
+    "role": "system",
+    "content": (
+        "You are an AI assistant that answers multiple choice questions about physical commonsense reasoning. " 
+        "All the questioning and the reasoning will be conducted in English. "
+        "Each user query will offer exactly two answer choices. "
+        "Always respond **exactly** in this JSON schema (and nothing else): "
+        "{\n  \"reasoning\": \"<your chain of thought here>\",\n  \"answer\": \"1\"  // or \"2\"\n}\n\nDo not emit any free‐form text, tags, or extra fields."
+    )
+  },
+  {
+    "role": "user",
+    "content": "Question:\nHow do you safely defrost frozen chicken?\n1. Leave it out on the counter overnight\n2. Put it in the fridge for a few hours or use the defrost setting in the microwave"
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"reasoning\": \"Leaving chicken out lets bacteria grow as it gets warm, so maybe using the fridge or microwave could help to keep it at a safe temperature and prevent food poisoning.\",\n  \"answer\": \"2\"\n}"
+  },
+  {
+    "role": "user",
+    "content": "Question:\nTo prepare strawberries to be eaten, you can\n1. Rinse the strawberries in cold water\n2. Rinse the strawberries in cold milk"
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"reasoning\": \"Cold water effectively removes dirt, debris, and any pesticide residues from the strawberry surfaces without altering their taste or texture, whereas milk does not provide any additional cleaning benefit and could leave an unwanted film and spoil faster.\",\n  \"answer\": \"1\"\n}"
+  },
+  {
+    "role": "user",
+    "content": "Question:\nWhat should I do when I cut my finger?\n1. Ignore it and keep using your hand\n2. Clean the cut and put a bandage on it"
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"reasoning\": \"When you cut your finger, germs can enter wounds and cause infection. It can be a good idea to clean the cut with water or antiseptic to remove the germs, and cover it with a bandage to keep it clean and protected while it heals.\",\n  \"answer\": \"2\"\n}"
+  },
+  {
+    "role": "user",
+    "content": "Question:\nWhat’s the best way to brush your teeth?\n1. Brush twice a day for two minutes each time\n2. Brush once a day quickly"
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"reasoning\": \"It is recommended to brush twice a day for two minutes to remove more plaque and maintain healthy gums, while brushing quickly once a day may not be enough to clean the teeth properly.\",\n  \"answer\": \"1\"\n}"
+  },
+  {
+    "role": "user",
+    "content": "Question:\nrug\n1. can be used to hide body of an elephant\n2. can be used to hide toys of an elephant"
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"reasoning\": \"A typical rug is far too small and thin to conceal the body of a full-sized elephant, but it could easily be draped over or placed atop small objects such as toys.\",\n  \"answer\": \"2\"\n}"
+  }
+
+#################################
+  ___   _   ___  ___  _   _ ___  
+ | _ ) /_\ / __|/ _ \| | | | __| 
+ | _ \/ _ \\__ \ (_) | |_| | _|  
+ |___/_/ \_\___/\__\_\\___/|___| 
+                                 
+#################################
+
+#### 1 NO REASONING ####
+{
+        "role": "system",
+        "content": (
+            "You are an AI assistant that answers multiple choice questions about physical commonsense reasoning. "
+            "All the questioning and the reasoning will be conducted in standard Basque. "
+            "For the given question, you will be provided with two possible answers, and you must choose the correct one after carefully thinking about it. "
+            "You must only provide the number of the correct answer (1 or 2) without any explanations, additional reasoning, or commentary. "
+            "Output only the number of the answer, nothing else."
+        )
+    },
+    {
+        "role": "user",
+        "content": "Question:\nNola desizoztu behar bezala izoztutako oilaskoa?\n1. Utzi mahai gainean gau osoan zehar\n2. Jarri hozkailuan ordu batzuetan edo erabili mikrouhinaren desizoztu programa"
+    },
+    {
+        "role": "assistant",
+        "content": "2"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nMarrubiak jateko prestatzeko, hauek egin dezakezu\n1. Marrubiak ur hotzarekin garbitu\n2. Marrubiak esne hotzarekin garbitu"
+    },
+    {
+        "role": "assistant",
+        "content": "1"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nZer egin beharko nuke hatzean ebaki bat egiten dudanean?\n1. Ez ikusia egin eta eskua erabiltzen jarraitu\n2. Ebakia garbitu eta tirita bat jarri"
+    },
+    {
+        "role": "assistant",
+        "content": "2"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nZein da hortzak garbitzeko modurik onena?\n1. Egunean bitan garbitu, bi minutuz aldi bakoitzean\n2. Egunean behin garbitu, azkar"
+    },
+    {
+        "role": "assistant",
+        "content": "1"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nalfonbra\n1. elefante baten gorpua ezkutatzeko erabil daiteke\n2. elefante baten jostailuak ezkutatzeko erabil daiteke"
+    },
+    {
+        "role": "assistant",
+        "content": "2"
+    },
+    {
+        "role": "user",
+        "content": f"Question:\n{q}\n1. {a1}\n2. {a2}"
+    }
+
+#### 2 Chain of Thought ####
+    {
+        "role": "system",
+        "content": (
+            "You are an AI assistant that answers multiple choice questions about physical commonsense reasoning. "
+            "All the questioning and the reasoning will be conducted in standard Basque. "
+            "Each user query will offer exactly two answer choices. "
+            "First, provide a concise chain of thought inside '<Reasoning>…</Reasoning>' tags. "
+            "Then, inside '<Answer>…</Answer>' tags, output only the number (1 or 2) of the choice you select, nothing else. "
+            "Do not emit any text outside of these tags."
+        )
+    },
+    {
+        "role": "user",
+        "content": "Question:\nNola desizoztu behar bezala izoztutako oilaskoa?\n1. Utzi mahai gainean gau osoan zehar\n2. Jarri hozkailuan ordu batzuetan edo erabili mikrouhinaren desizoztu programa"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Oilaskoa kanpoan uzteak bakterioen hazkundea ahalbidetzen du epeltzean, beraz, hozkailua edo mikrouhina erabiltzeak tenperatura seguruan mantendu dezake eta elikagaien pozoitzea saihestu.</Reasoning><Answer>2</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nMarrubiak jateko prestatzeko, hauek egin dezakezu\n1. Marrubiak ur hotzarekin garbitu\n2. Marrubiak esne hotzarekin garbitu"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Ur hotzak eraginkortasunez kentzen ditu zikinkeria, hondarrak eta pestiziden arrastoak marrubien azaletik, haien zaporea edo ehundura aldatu gabe; esneak, aldiz, ez du garbiketa-onura gehigarririk eskaintzen, geruza desatsegin bat utz lezake eta azkarrago hondatu fruitua.</Reasoning><Answer>1</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nZer egin beharko nuke hatzean ebaki bat egiten dudanean?\n1. Ez ikusia egin eta eskua erabiltzen jarraitu\n2. Ebakia garbitu eta tirita bat jarri"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Hatza ebakitzen duzunean, mikrobioak zauritik sar daitezke eta infekzio bat eragin. Ideia ona izan daiteke ebakia urarekin edo antiseptikoarekin garbitzea mikrobio horiek kentzeko, eta tirita batekin estaltzea garbi eta babestuta mantentzeko sendatzen den bitartean.</Reasoning><Answer>2</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nZein da hortzak garbitzeko modurik onena?\n1. Egunean bitan garbitu, bi minutuz aldi bakoitzean\n2. Egunean behin garbitu, azkar"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Gomendatzen da egunean bitan bi minutuz garbitzea plaka gehiago kentzeko eta hortzoi osasuntsuak mantentzeko, egunean behin azkar garbitzea ez baita nahikoa izaten hortzak ondo garbitzeko.</Reasoning><Answer>1</Answer>"
+    },
+    {
+        "role": "user",
+        "content": "Question:\nalfonbra\n1. elefante baten gorpua ezkutatzeko erabil daiteke\n2. elefante baten jostailuak ezkutatzeko erabil daiteke"
+    },
+    {
+        "role": "assistant",
+        "content": "<Reasoning>Alfonbra ohiko bat txikiegia eta meheegia da elefante heldu baten gorpua ezkutatzeko, baina erraz estali edo jarri daiteke jostailuak bezalako objektu txikien gainean.</Reasoning><Answer>2</Answer>"
+    },
+    {
+        "role": "user",
+        "content": f"Question:\n{q}\n1. {a1}\n2. {a2}"
+    }
