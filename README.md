@@ -95,6 +95,8 @@ Output goes to `images/`.
 ---
 
 ## Results
+![Baseline accuracy evaluations for Latxa, Llama and Qwen on the Basque PIQA](images/baseline_eu_accuracy.png)
+![CoT accuracy evaluations for Latxa, Llama and Qwen on the Basque PIQA](images/chain-of-thought_eu_accuracy.png)
 
 Key findings:
 
