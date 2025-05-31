@@ -1,0 +1,1579 @@
+idx=3 RAW:
+<Reasoning>
+Kanpoan erabiltzeko burko bat sortzeko, lekuzko mugikortasuna beharrezkoa da, hau da, gauzak mugitu daitezkeela kanpoan. 
+Lata bat puztuta eta lotu goma batez sortu beharko litzateke, hau da, erabili daitekeen objektu bat soilik da gailu hau. 
+Zabor-poltsa bat puztu eta lotu goma batez puztuta dagoenean, era horretan erabili aurretik garbitu eta erraztu daiteke, baina gailuak gauzak mugitzea beharrezkoa du. 
+Beti ere gomaz lotuta dagoenez, aditzen arteko aukera dago, zabor-poltsa puztuta dagoenean erabili aurretik hutsik eta hutsa utziz edo erabili aurretik pilatuta utzi daitekeelarik, hau da, kanpoan erabili beharreko gailu baten erabilpena jakintsuentzat bakarrik erabiltzeko.
+Erabili daitekeen gailuak lekuzko mugikortasuna duen eta gauzak mugitzeko erabiltzeko zenbait kontsiderazio bertatik dator:
+
+- Lata bat puztu eta goma batez lotuta dagoenez, sortzen den gailuak gauzak mugitzeko erabili daiteke.
+- Zabor-poltsa puztuta eta goma batez lotuta dagoenez, kontsideragarria da sortzen den gailuak lekuzko mugikortasuna duela, baina hutsik utzi daitekeela edo gailu hutsik utzi daitekeela edo pilatuta utzi daitekeelarik.
+---
+idx=22 RAW:
+<Reasoning>
+Etxeko erlojuetan ordu zehatzak egiaztatzeko metodo batzuk aurresotziko ditut. Lehenengo metodoa eguzki-erlojua erreferentzia gisa erabiltzea da, eguzkitsu baten kanpoan jarri eta pertsona bat bata bestearen ondoan jarri, leihoaren kanpoan eguzkia begira, ordu egokia oihuka dezan. Hala, beste pertsona bat etxeko erlojuetara mugitu eta egiaztatu ordu egokia zela. Bigarren metodoa, ordea, erloju digitalekin ordeztu behar zaien giltza eta behin ezarrita, nahikoa litzateke eta gero urtean behin bateriak ikusiz gero egiaztatu beharko zela.
+<Answer>2</Answer>
+---
+idx=28 RAW:
+<Reasoning>
+Euliak zuhaitzetatik etxera joaten dira, eta zuhaitzez gain, hainbat landarek euliak bizitzeko ingurugiroa ematen dute. Izpiliku-landareek euliak erakartzen dituzte, beraien fruituaren deskonposizioaren bitartez, sukaldean edo leihoetan jarrita dutenean. Albaka-landareek, aldiz, euliak beldurra eman diezaieke, beldurraren ezaugarriak emanez, sukaldean edo leihoetan jarrita dutenean. 
+<Answer> 2. </Answer>
+---
+idx=45 RAW:
+<Reasoning> 
+Txiklea iletik kendu nahi dugu, eta horretarako, aukera batzuk dauzkagu. Lehenengo, izotz-koskor bat erabiliko genuke eta kontuz kontuz kendu txikle gogortua. Izotz-koskorra azalaren kaltetan izan dezake eragin, baina gehienetan, txiklea urtuko du. Bestalde, ile-lehorgailua erabiliz, txiklea urtu eta ilea hautsi ahal dugu. Baina, txiklearen arabera, hori ez da oso eraginkorra izango.
+
+<Answer> 2 </Answer>
+---
+idx=49 RAW:
+<Reasoning>    
+Norbaitek sokaz ehuna egiteko prozesua kontsideratzen dugu. Honela azaltzen da: 
+Norbaitek sokaz ehuna egiteko, bere gorputza soka-zunda moduan jartzen du. Soka laburra beharko duela esaten dugunean, ihes egiten duen zunda aintzat hartzen dugu.  Soka-zunda laburrak ihes egiten duten zundei egokituta dago.  Baina norbaitek sokaz ehuna egiteko, bere gorputza beste modu batean jartzen du. Bere gorputza zunda-zunda luze modura jartzen du. Bere gorputza soka-zunda luzez moduan jartzen du.  Jabeak gorputzaren zunda-zunda luze modura kokatu behar du.  Ezagutzen dugun ekintzak esan diegu ezen norbaitek, gorputza soka-zunda luze moduan jartzearren sokaz ehuna egiteko soka luzea beharko duela, norbaitek gorputza labur modura kokatzearren, soka laburra beharko duela.    Hirian hori gizakiok soka luzez edo laburz modura kokatzen dugun hezurrik dauka.  Gainera, krokotaiz soka luzez modura jartzen dutela ikusi dugu.  Belatzak soka laburz modura jartzen dituztela ere ikusi dugu. Gizakiok, esaten duguna  gizakiok, jabeak gorputzaren zunda-zunda luze modura kokatzearren soka luzea beharko duela. Gizakiok, zunda-zunda luze modura kokatzen dugunez, soka luzea beharko diela esaten dugunean, norbaitek ezagutzen dugun ekintzak gizakiz modura jabea hozkortu egiten dizu. Gizakiak soka luze modura jartzen dutela ikusi dugu. Gizakiak gorputzaren zunda-zunda luze modura kokatzen dutela ikusi dugu. Gizakiak soka luze modura jartzen dutela ikusi dugu. Gizakiak, zunda-zunda luze modura kokatzen dutela ikusi dugu. Gizakiak ezagutzen dugun ekintzak gizakiz modura jabea hozkortu egiten dizu. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak soka luzea beharko dutela esaten dugunean, soka luzea beharko duela esaten dugu. Gizakiak, soka luze modura jartzen dute. Gizakiak ezagutzen dugun ekintzak gizakiz modura jabea hozkortu egiten dizu. Gizakiak ezagutzen dugun ekintzak gizakiz modura jabea hozkortu egiten dizu. Gizakiak ezagutzen dugun ekintzak gizakiz modura jabea hozkortu egiten dizu. Gizakiak, soka luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak, soka luze modura jartzen dute. Gizakiak ezagutzen dugun ekintzak gizakiz modura jabea hozkortu egiten dizu. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak, gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Gizakiak gorputza soka-zunda luze modura jartzen dute. Giz
+---
+idx=50 RAW:
+<Reasoning>
+Hari-ebakitzaileak guraizeak baino askoz ere eraginkorragoak dira tolestuak diren zutabeetan mozteko.
+Guraizea sukaldeko tresna bat da, eta ez du zuhaitzen lanetarako erabili behar.
+<Answer>1</Answer>
+---
+idx=78 RAW:
+<Reasoning>
+Bai ez da ohitura haizagailu batean sabaiko bonbila askatzeko erabili behar duzun indarra gehiegi atera behar dela agerian egoten. Euskal hiztun batek ahal bezain gutxi indarra erabili behar da haizagailuak aurretik inguraturik egoteagatik haustuta ez daudenean, adibidez. Bestalde, ere aipatu dut bonbilla dela erretako eta hotza izan dezakeelako. Hori dela eta, kontu handiz hartu behar da bonbila erretako beroa dagoenean. Haustuta egotzerakoan ere, kontu handiz ematen bada egon behar dute haustuta arte, haustuta bada gehiago kontu handiz egon behar da.
+
+<Answer>1</Answer>
+---
+idx=83 RAW:
+<Reasoning>Hauek dira ulertzeko gauzak: armairu batean zapatak zintzilikatzeko, lehenik armairuko horma gainetik hartuko dugu plataforma bat edo lotailu bat (zazpi) zuhaitz-zati edo material oso egokia dena, eta plataformari kakoak lotuko die. Hau egitea errazagoa izango litzateke kokapena zehatz mantenduz plataforma. 
+
+Hala eta guztiz ere, xahututa egon edo urtzen joan arte plataformaren egoera hobetzeko ahuntz leizeko gizakiek horretarako plataforma hamabost edo egoera oso desberdinean plataforma egiten dute.
+
+Baina oso azkar plataforma gauza soluzionatzeko ahuntz leizeko gizakiek plataforma bat konponduz horretarako plataforma bat tosketik plataformari kakoratzaileratik plataforma bat lotuz. Hau ere oso modu tekniko gauza da plataforma oso egokia plataforma lapurren gastu beste gauza batzuk plataforma uraldetatik plataforma plataforma pertsona tekniko bat plataforma plataforma plataforma plataformarren plataforma lapurren plataforma plataformarako plataforma plataformarren plataforma plataforma plataforma plataformarren plataforma plataforma plataformarren plataforma plataforma plataforma plataforma plataforma plataformarako plataforma plataforma plataforma plataformarren plataforma plataforma plataforma plataformarren plataforma plataforma plataformarren plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataforma plataformarako plataforma plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarren plataforma plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarako plataforma plataformarak
+---
+idx=107 RAW:
+<Reasoning>
+Jenga joko erraldoi bat egiteko lehenengo pausuak nola egin ala, lehenak arrasto txikiak bestetan handiak eragiten dituen arauak jarraituko ditugu.
+Jenga jokoaren erdiko zatia baino hiru garai gehiago izateko, jokoak jada ziurtatu izana da gure gomendioa dela, hori dela eta Jenga joko baten ugaritasuna nola eraiki zen, horrekin garaipena lortu zuen pertsona jaitsi behar duen edozein zati.
+Jolasean ez da joka kontsantzia ezartzea, jokalaria Jenga jokoaren kuboak txertatuz uzten da, hiru zati ezkerrean kontsolatzen da.  Jokoak ulertzeko xedea bada zerbait eragotziko ez dena.
+Joka kontsantzia ezartzea ziurtatuko du jokalariaren, hainbesteraino ez dagozu orain arte Jolasean jokatzen, edozein jokalaria soldatarei iluntasunean ari dela sinets da, hitz egiten dela itxurak. 
+Jolasean berez ez dago beharrezko kontsantzia baten egiaztapen horri, baina joka kontsantzia ezartzeak jolasean geratzeko ideia dena da.
+Baina, Jenga joka aipatzeko nola egin den, hitzak berez egiaztapenetik joka kontsantzia esan diozunean, zure hitzak bai zenbait pentsa nizun atseden hartu ala, da Jenga jokoan buelta amaierantz geratu zaren batu nizun. 
+Baina, beste bi labur esandako Jenga joko kontsantzia ezar ezazu beste hau dela eta ala, orekatuz, jokalari hau beharrezkoa dena ez dela, baina horrekin ere egin dugu.
+---
+idx=111 RAW:
+<Reasoning>Aipamen txakurraren beharretara joateko, ohearen forma egokitu behar da txakurrak modu komfortgarrian confortgarrian istor bailukatu izan dezan.  Edoiez txakurrak osatutako ziri bat formatua da txakurrek komfortaile asten laguntzen duen forma. Txakurrek atletismo egiten dutenean, beraien hankak osatzen duten koltxonek edozein lekutan gurutzatzeko modukoak dira. Baina, hankak koltxonean banatzea da zenbait kasutan komfort gehiago ematen duten kontaktuarekiko ikusten da. Hauek dira arrazoizko puntuazioak egokitu forma zen. edozein zenbait kolekzio da txakurraren ohe bat hau korriten da.  <Answer>2</Answer>
+---
+idx=143 RAW:
+<Reasoning>Nahi dizut whiski edan, nahikoa ugalda, edan ura hotza da haur eta kirolariengan gehien lagunduena hidratatzeko. <EndReasoning>
+
+<Answer>2</Answer>
+---
+idx=170 RAW:
+<Reasoning>Interneteko sare batean zehar oso ezaguna den gizarte sozial baten webgune bat den Facebooken, erabiltzaileek beren profilen informazioa, besteak beste, argazkiak, argitaratu dute. Profilen argazkia aldatzeko modu bat batu ahal izateko, lehenik ikusmira-moduaren (o marrazki-moduaren) barruan sartu behar dugu. Horrek zure orria argi eta xehetasun handiz ikusiko duzu. Profil baten irudi eraldatzeko erabiltzaileak beste ikusmira-modua aurkitu, "argazkia gehitu" (edo gehitu/ezabatu) gisa aurkezten dena eta horren bidez izan dezake argazkia aldatzeko funtzionalitatea sakatu. Bertan duzu "argazkia gehitu" edo "argazkia ezabatu" botoia aurkituko zenuke. "Gehitu" botoia aukeratuz ahal da argazkia gehitu, baina, ezagutzeko asmoarekin ondo aztertu aurretik, egiteko modua ez dago argi. Dena den, "ezabatu" botoia erabili beharreko bezala aurkezten da, horrela gertatuko denean, horretarako erabili beharreko atalak zehazten dira. Erabiltzailearen harremanen zure funtzionaltasunaren erdian, horrelako funtzionalitatea aurkitu behar da sakatzeko eta profil baten argazkia ezabatzen da gauza horren ondorio da. Profila aldatzeko informazioa aurkitu beharrez, ikusmira-modua klik eginez aldatzen da, eta bertan lortu dezakezu eraldatu nahi zenuen argazkia, "argazkia gehitu" botoia erabili ahal izateko. Honez gain, funtzionalitate ezberdinak aurkitu ahal dituzu bertan. Horrek guztia egin ondoren argazkia ezabatzeko beharrezkoa den funtzionalitate "ezabatu" botoia sakatzekotan aurkitu dezakezu, eta hori aukeratuz gero argazkia ezabatu daiteke. Bestalde, profesionaleko aplikazioetan ezagutzeko bezain handia den funtzionaltasuna aurkeztu behar izan zuen horrela ikus daitekeen egin funtzionalitateak erabili ahal izateko.
+
+<Answer> 2. </Answer>
+---
+idx=223 RAW:
+<Reasoning>Erantzuna zehatz eta eraginkorra bilatzeko, igeltseroak behar duen tresna eta teknikaren zehatza ezagutu behar du. Muntagak hutsa eta ohola beraien arteko soinu ezberdintasunagatik ateratzeko, gailu elektroniko eta laser bidezkoak erabiltzea hobea da, baina, esperientzia gutxiko igeltseroentzat, treta hauek ezagutzeko denbora gehiegi behar du. Kolpetxoak jartzea ez da zehatza, baina modu errazagoa da. Askatasuna bilatzeko, bide hori hobetsi beharko litzateke esperientzia gutxiko igeltseroentzat. Hala ere, ez dute ematen erantzun honek nor bada esan behar.
+
+Hobetsi gehienetan, beharrezkoa da huts horretan topatuko den muntaga arrunten zehatzak zein diren jakitea, eta horretarako, aukera hauek aztertu behar dira. Ehun horiek lehenik honela azaltzen dira: lantegiko armairu bermatzeko hormako muntaga topatzeko onena da kolpetxoak jartzea. Koste gutxiago da eta gehienetan erabiltzen den treta da, azkena, antzera. Hala ere, bilatzen den muntagaren motaren arabera orduan aldendu behar da.
+
+<Answer>2</Answer>
+---
+idx=225 RAW:
+<Reasoning> Olio-oinarria kentzeko produktu batzuk aurrekoan aipatzen dira. Ozpina edo ozpinetakoen saltsa erabil daiteke, eta urak ez du balio. Produktu hauz, ez da ozpina disolbatzailea, eta hau da ozpinetakoa; aitorpen hau bermatzen dut. Horrez gain, Olio-oinarria kentzeko beste produktu batzuk proposatzen dira: disolbatzailea eta gasolina. Ura ez dela erabilgarria, aitorpen bat dago hor, baina hau da disolbatzailea, eta ez da disolbatzailea. Gasolina da disolbatzailea eta, ondorioz, proposamen batetik ez da produktu bat atzean utzi, baina disolbatzaileak beste produktu batetik ateratzen da; horrek ondorio bat eman du: disolbatzailea da produktu bat, eta horrek disolbatzaileak badu eraginkortasun handia garai hartako disolbatzailea zen, eta, horrez gain, gasolina, inoiz bezalako olio-oinarria kentzeko erabili daitekeen ezagutzen zen produktu bat zen. Gaztelaniaz olio-oinarria kentzeko gasolina erabiltzeko emandako aurrizkiaren data 1972-1973 urteetan datatuta da, hau da, garai hartako disolbatzailea zen, eta horrek garrantzi handia du disolbatzailea proposatuz non gertatu zen ere bai. Ustiatu da, baina ez du konfirmatzen, olio-oinarria kentzeko beste produktuak ez daude olio-oinarria kentzeko produktu onenak gizartearentzat beste garai batetik atzera bideratuta, baina da posible gasolina erabiltzea. Gainera, ozpina edo ozpinetakoen saltsa ez da produktu onena gizartearentzat, baina da posiblea. Ustiatu da disolbatzailea zenik gasolina eta horrek garrantzi handia du.  urak ez du balio olio-oinarria kentzeko produktu gisa eta, horrez gain, uztatu da ez den produktuak ez dute balio gizartearentzat ezin diren produktuak. Gasolina ez da ez den produktu, eta ura da. Ura ez da erabilgarria produktu gisa gizartearentzat olio-oinarria kentzeko.  Erabili disolbatzailea edo gasolina orduan aurkitu zuen gizartearentzat ez den produktua ozpina edo ozpinetakoen saltsa.  Gainera, Olio-oinarria kentzeko produktu gisa disolbatzailea eta gasolina erabiltzen dira gizartearentzat. Ustiatu da ez den produktua ura. Gizartearentzat ez den produktua da ura, eta disolbatzaileak ez den produktua ez da disolbatzailea. Gizartearentzat ez den produktua da ura, eta disolbatzailea produktu onena da gizartearentzat. Gizartearentzat ez den produktua da ura, eta produktu onena da disolbatzailea. Produktu onena gizartearentzat disolbatzailea da, eta gizartearentzat ez den produktua da ura. Gainera, ozpina edo ozpinetakoen saltsa produktu ez da gizartearentzat. Gasolina, bai disolbatzailea da gizartearentzat eta ez den produktua ez da ura. Produktuak gasolina eta ozpina edo ozpinetakoen saltsa izan daitezke gizartearentzat.  Baina gasolina produktu onena da, eta ura produktu ez da gizartearentzat, eta, horrez gain, disolbatzailea da produktu onena gizartearentzat, eta ez den produktua ez da ura.  Gizartearentzat produktu onena da disolbatzailea, eta gizartearentzat produktu ez da ura, eta produktuak disolbatzailea eta ura dira. Gizartearentzat produktu onena da disolbatzailea, produktu ez da ura, eta produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Baina disolbatzailea produktu onena da gizartearentzat, eta produktu ez da ura.  Produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktu ez da ura, eta produktu onena da disolbatzailea. Ura produktu ez da gizartearentzat, eta produktu onena da disolbatzailea, eta produktuak disolbatzailea eta ura dira. Baina disolbatzailea produktu onena da gizartearentzat, eta ura produktu ez da gizartearentzat, eta produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Horrez gain, gasolina eta disolbatzailea produktuak dira gizartearentzat, eta ura ez da produktu gisa gizartearentzat. Gizartearentzat produktu ez da ura, eta produktu onena da disolbatzailea.  Gizartearentzat produktu ez da ura, eta produktu onena da gasolina.  Gizartearentzat produktu ez da ura, eta produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktuak disolbatzailea eta ura dira. Gizartearentzat produktu onena da disolbatzailea, eta ura produktu ez da gizartearentzat, eta produktuak disolbatzailea eta ura dira. Baina produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira, eta ura produktu ez da gizartearentzat. Gizartearentzat produktuak disolbatzailea eta ura dira. Ura produktu ez da gizartearentzat, eta produktu onena da disolbatzailea. Gizartearentzat produktu ez da ura, eta produktuak disolbatzailea eta ura dira. Horrez gain, produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktu onena da disolbatzailea, eta ura produktu ez da gizartearentzat, eta produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira.  Gizartearentzat produktu ez da ura, eta produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktu onena da disolbatzailea, eta ura produktu ez da gizartearentzat, eta produktuak disolbatzailea eta ura dira. Produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira.  Gizartearentzat produktuak disolbatzailea eta ura dira.  Gizartearentzat produktu ez da ura. Gizartearentzat produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira.  Gizartearentzat produktu ez da ura, eta produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktu ez da ura. Gizartearentzat produktuak disolbatzailea eta ura dira. Gizartearentzat produktu ez da ura. Gizartearentzat produktu ez da ura. Gizartearentzat produktu onena da disolbatzailea. Gizartearentzat produktu ez da ura, eta produktuak disolbatzailea eta ura dira. Gizartearentzat produktu ez da ura. Produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktu ez da ura. Gizartearentzat produktuak disolbatzailea eta ura dira.  Gizartearentzat produktuak disolbatzailea eta ozpina edo ozpinetakoen saltsa dira. Gizartearentzat produktu ez da ura
+---
+idx=229 RAW:
+<Reasoning>
+Gurina hotzegi edo gogorregi dagoela, kontsideratuz, zabalteko modu bat sortzeko beharrezkoa da. Gazta birrintzeko edo laban baten bidez zabal daitekeela pentsatuz, bi aukerak aipatzen dituzte. Bizar-laban bat erabiltzea labanaren zabalera handiegia eta potentziala izateko modua dela pentsatzen dut, gurinaren zatiak zapaltzeko eta horrela gurina zabaldu daitezen. Gazta birrintzeko zatitxoak erabiltzeak bizar-labanaren funtzioari buruzko eskasa informazioa dutela pentsatzen dut, baina gazta birrintzeko aukera ere modu alternatiboa da gurina zabalduz.
+
+<Answer>
+2
+---
+idx=234 RAW:
+<Reasoning>
+2 eta 1 bezalako eragiketa ezberdinek egiten duten lanaren antzeko izan behar du, eskultura egiteko sarearen zeregina erabili behar dela pentsatu behar da.
+<Answer>2</Answer>
+---
+idx=249 RAW:
+<Reasoning>Arroza eta xanpu lehorra egiteko, materialak nahasten dira, eta buztin garrantzitsua da bikarbonatoa izateko, bai arroza egiteko bai xanpu lehorra egiteko. Nahasten diren zati batzuk arto-almidoi, tapioka eta buztin zuri erabiliz, nahastutako materialen artean buztin zuria dagoelako, modelatzeko buztin dela ere kontsultatuta, beste zati bat buztin zuria erabili behar dela pentsatuta, bikarbonatoari zerbait gehitzen dioela saiatzen ari diren bikarbonatoarentzako beste modu bat, modelatzeko buztin, alegia, nahasten diren materialen artean modu txukun batean dagoela erantzun bat hauxe da. Horregatik, zerbait modu horretan pentsatuta, zati bat buztin zuria erabili behar dela pentsatuta dugu, arto-almidoi eta tapioka nahasiak bikarbonato gisa erabiltzen dituelako. Nahasi bat buztin zuria eta beste nahasi bat arto-almidoi eta tapioka nahasiak bikarbonato gisa erabiltzen dituelako. Baina, hauetako bikarbonato gisa erabiltzen duten nahasiak, zati bat buztin zuria, zati bat arto-almidoi eta tapioka nahasiak izan behar dutela.
+
+Horregatik, hori kontsultatuta, kontsultatuta, beste nahasia da erantzun egin behar dugu. Nahasia modelatzeko buztin eta beste nahasia arto-almidoi eta tapioka nahasiak bikarbonato gisa erabiltzen dutena, hori modelatzeko buztin egindako nahasia da, eta beste nahasia arto-almidoi eta tapioka nahasiak bikarbonato gisa erabiltzen dutena, hori ez dago nahasten diren materialen artean.
+
+Hau kontsultatuta, modelatzeko buztin egindako nahasia kontsultatuta, hori nahasten diren materialen artean dagoelako, 1 pentsatuta dugu. Hala ere, kontsultatuta, 1 da nahasia 1 modelo egiteko buztina eta beste nahasia arto-almidoi eta tapioka nahasiak, bikarbonato gisa erabiltzen dituena, baina 1 modelo egiteko buztina da, baten ondoan dagoena, beste nahasia modelatzeko buztin bikarbonato gisa erabiltzen duena, nahasia 2a, bikarbonato gisa ere, ez zuenik erabiltzen duen hori, 2a da. Baina, baten ondoan dagoena, 1 modelo egiteko buztina da, honek, nahasia 1a da, bikarbonato gisa arto-almidoi eta tapioka nahasiak erabiltzen dituelako. Nahasia 1a bikarbonato gisa erabiltzen duten arto-almidoi eta tapioka nahasiak nahasiak, hori bikarbonato gisa arto-almidoi eta tapioka nahasiak erabiltzen dituelako, hau bikarbonatoa duen nahasia. Nahasia hori bikarbonato gisa duela kontsultatuta, nahasia hori bikarbonato gisa duen nahasia, bikarbonatoa den nahasia 2a modelatzeko buztin bikarbonato gisa erabiltzen duena, baina nahasia 2a bikarbonato gisa duena, bikarbonato gisa duen nahasia bikarbonatoa duena. Eta hori bikarbonatoa duen nahasia, bikarbonatoa duen nahasia, baten ondoan dagoena, nahasia bikarbonatoa duena, nahasia 2a, hau bikarbonatoa den nahasia. Hau bikarbonatoa duen nahasia bikarbonatoa duela kontsultatuta, eta nahasia hori bikarbonatoa duela kontsultatuta, nahasia bikarbonatoa duena, nahasia bikarbonatoa duen nahasia, bikarbonatoa den nahasia, nahasia 2a bikarbonatoa duela kontsultatuta, nahasia hori bikarbonatoa duela kontsultatuta.
+
+<Answer>1</Answer>
+---
+idx=262 RAW:
+<Reasoning> 
+Hori bat dugu, oso azaltzen da 2. aukeran, laser-kirurgia ilea kentzeko eta izerdi-ekoizpena txikitzen duela. Bi aukeren testua bera da, ez dago aukeran eztabaidagai diren xehetasunak izaten. Biak batera azaltzen dute nola izerditzea gutxiago lortzea litzateke.
+
+<Answer> 2 </Answer>
+---
+idx=284 RAW:
+<Reasoning>Nola erabili izotz-puskak?, horretan azpian azalduko da: izotz-puskak hozkailuan edaria hozteko erabiltzen dira, hozteko prozesua murrizteko, edanari ukitzea ekiditeko eta edariaren kolorea hobetzeko. Horretarako, izotz-puskak edalontziaren barnean edatenaren edariarekin kontaktuan jarri behar dira. Izotz-puskak edalontziaren gainean jarrita edatenekoa ere badira, baina horretan ez da edariaren hozteko eraginkortasuna handiagoa izango. 
+
+Izotz-puskak edalontzi batean edaria hozteko erabiltzen dira, eta horrek edaria hozteko bezain azkar, jarri edalontzi batean uretan urtu arte, izotz-puskak hoztuko lirateke, baina horrek hori egiten ari diren izotz puskak desegin egingo lirateke. 
+
+Honela, edalontzi batean edaria hozteko erabili behar direnez, edalontzi batean edaria hozteko erabili beharrean, edalontzi batean uretan urtu arte jarri beharrean ez dagoela argi garbi. Horrek azaltzen du, berriz, bigarren aukera aukeratzea egokia dela. Ez da, izotz puskak desegin arte, edalontzi batean edaria hozteko erabili ahal izango direla. 
+
+Atseden edan beharrez eta hozteko prozesua murrizteko, edariaren kolorea hobetzeko eta edanari ukitzea ekiditeko, ez da edalontzi batean uretan urtu arte jarri behar izotz puskak. Edalontzi batean edaria hozteko erabili behar dira.
+---
+idx=290 RAW:
+<Reasoning> 
+Ezpata baten kirtena berriz lotzeko, kirtena hautsi dutenean, inork zotza ezpatarantz bultzatzen du. Lehenengo gaurketa dute gutxienez hiru metodo ezagutzen: banbu-hortza sartzea edo hortza sartzea hautsi dutenean. Bigarren gauza da, hau da, banbu-hostsa sartzea edo hortza sartzea hautsi dutenean kirtena berriz lotzeko.  Hirugarren gauza da, bultza batazko zotza sartzea edo zotza motza sartzea hautsi dutenean. Ziurtatu behar da kola ere itsasten dela kirtena berriz lotzeko. Horretarako, hainbat erabaki egiten dira. Zoritxarrez, zertarako buruzko informazioa ez da eman. Hau da, zotza batazko zotza edo zotza motza sartzea. 
+Lehenengo erabaki horrek lotzen du zotza batazko zotza sartzea kirtena berriz lotzeko. Ezpetaren neurriari lotuta dago, kirtena 4-5 cm baino luzeagoa denean batazko zotza sartzea onargarriagoa izango litzateke. Bigarren erabaki horrek lotzen du zotza motza sartzea kirtena berriz lotzeko. Ezpetaren neurriari lotuta dago, kirtena 3-4 cm baino luzeagoa denean zotza motza sartzea onargarriagoa izango litzateke. 
+Ezpata baten kirtena berriz lotzeko, kirtena hautsi dutenean, inork zotza ezpatarantz bultzatzen du. Kirtena lodi denean, batazko zotza da onargarriena. Kirtena motela denean, zotza motza da onargarriena.
+<Answer> 1 </Answer>
+---
+idx=338 RAW:
+<Reasoning>
+Poto zaharrak berrerabiltzeko, era askotariko erabilera aurkituko ditugu. Lehenengo aukeran, loreontzi gisa erabiltzea aipatzen da. Hau posible da, margotuz gero, potoa berriro erabiltzea lortzeko. Bigarren aukeran, maskotei jaten emateko ontzi moduan erabiltzea aipatzen da. Poto zaharrak ureztatzea eta garbitzea beharrezkoa litzateke, baina honek ere posible izango litzateke.
+Poto zaharrak berrerabiltzeko, loreontzi gisa erabiltzea indartsuagoa da, hau da, garbiagoa eta mahukadurarik gabekoa, baina, gainera, horrek adina argiagoa ematen du. Orokorrean, argiak norbanakoan dute haien nahiaren arabera eta poto zaharrak berrerabiltzeko, loreontzi gisa erabiltzea da indartsuena, baina honek beste gauza batzuk ere aipatu ditu.
+<Answer>1</Answer>
+---
+idx=364 RAW:
+<Reasoning>
+Piezek elkarri itsasteko, haien arteko lotura sendo eta estua beharrezkoa da. Lotuneen loditatea eta sakonera eragiten duten faktoreak dira, piezek elkarri itsats daitezkeenak edo ez. 
+Lehen aukeran, lotuneak koloretsuak diren eta hari finak diren lotuneak erabiltzen dira. Honek piezek elkarri itsats daitekeen lotura sendo eta estu sortzea ahalbidetzen du. 
+Bigarren aukeran, lotuneak koloretsuak diren baina bi piezen arteko lotuneetan lotura fina erabiltzen da. Honek piezek elkarri itsats daitekeen lotura gutxiago du, piezek elkarri itsats daitezen baina laginkorra ez dena.
+<Answer>1</Answer>
+---
+idx=392 RAW:
+<Reasoning> Ezin da erretiratuta uzten erraz. Egunerokotasun materialekin erlazionatutako objektu bat irekitzeko, bota behar izaten dugu. Hala ere, sarritan, erretiratua eta beste objetu batzuk gordetzeko, kutxak erabiltzen dira, baina kutxaren ebaki orria eta atea beste objetuak gordetzeko egina dago. Beraz, nola erretiratu zerbait? Kutxako ebaki orria eta atea beste objetuak gordetzeko egina dago, baina ez da utzi kutxa gotor batean, baina bestela bota ere ez da nahiko. Hau gizakion ohitura da nola erretiratu zerbait, baina dena dena gizakioen araurik erabiltzen da, beraz, "bota"ez da nahiko. Gizakioen araurik erabiltzen da erretiratu bat irekitzen, beraz kutxetxe batean gordeta utz da (baina kutxa irekia ez dago utzi eta bertan gordeta uzten da) 
+
+erantzuna: 1
+---
+idx=400 RAW:
+<Reasoning> Erakusmahai eta sofagaz hitz egin nahi dute. Sofak erakusmahai baino gogorragoa izan daitekeela kontsideratu behar dut. Gizakiek atseden hartu aurretik, sofak gogorragoak izan ohi dira, bereziki errei-erreiak jartzeko. Hala ere, gizakiek sofari giltzapenak jartzeko, sofaketan zurrunbaltzea saihesteko, eta zutabeak mugatzeko erabiltzen dutenez, sofak gizakien gorputzaren kontrako indarra gutxitu ohi da, horrek erakusmahai baino urrun egoteko aukera ematen duela pentsatuko dut. Gizakien gorputzaren indarrek eragiten duten eraginkortasuna ikusita, sofaketan, gizakiek gero eta erakusmahaiagoa bihurtu diren lekuak daude, gauza bakoitza sofagorribilagoa bihurtzeko gaitasuna ikusita. 
+
+Horrez gain, sofa bat erabiltzen doanean, jendeak erakusmahai baino munta baino urrunago sartzen dutenez, gizakien gorputza erakusmahai baino gogortasun txikiagoa duten sofa baten gainean jarri daitekeela ikusita.
+
+<Answer>1</Answer>
+---
+idx=415 RAW:
+<Reasoning>
+Likorik, lurrarekiko antzekotasunekin erlazionatutako lika mota bat dugu, lika harroak edo lika proportziozkoak, eta horiek likor askea da.
+Gurinak likor gutxi du, baina lika proportziozkoak dute.
+Boraxak likor gutxi dute, baina lika proportziozkoak dute ere.
+Baina, lika arruntak da, lurrarekiko antzekotasun gutxi duena.
+Lika harroak lurrarekiko antzekotasun handiagoa dute, baina lika proportziozkoak ere, gehienetan.
+<End of reasoning>
+
+<Answer>1</Answer>
+---
+idx=431 RAW:
+<Reasoning>
+Muxika-purea prestatzeko bi metodo ezberdin dira aipatzen. Hauetako bakoitzak eguzki-luzera eta ustelkeria ere aipatzen ditu, horietan berdin diren berrien kateak jarraitzen ditu. Baina, horrez gain, denbora aldaketek beren artean aldaketa bat desberdintzen dute, horrek ezaguera horretara gezurduzen. 
+Horretan bi denbora 2 minutuz eta 2 orduz bitarteko denboraek diren. Denbora gehiena bigarren metodoaren katean dago, beraz, botoa eman behar nuke bigarren katearentzat. 
+<Answer>2</Answer>
+---
+idx=448 RAW:
+<Reasoning>
+Eduki bi aldeko kapa eskuratuzko proposamena kontsideratzen badu, kapa erdi txa irteten denean eta honi ziri tolesta erantsiz, janaria gordetzeko efektiboa izango da, baita janaria gordetzeko kontsideragarria ere. 
+Eduki bi aldeko zinta eskuratuzko proposamena, ertz toleta erantsiz arropa barruari itsasten da, kontsideratzen da ez delako modu egokiena barrengo janaria gordetzeko. 
+Hala ere, honek ez du berezi barrengo janari hartzeari lotuta dauden faktoreak kontuan hartzen, hala nola hausketa, zurrunbaldia edota hondakinen ezabatzea. 
+Proposamenak barne hartzen ez dituen kontsideragarriak daudenez, ez da horrelako proposamenerako egokiena. 
+Proposamenen artean garaipen-handia da proposamena batek bestearen funtzionaltasunarekiko lotura duten gauza bat kontsideratzen badu, janaria hartzeko modua, hau da.
+Hau sendo kontsideratuz proposamena aukeratuko dutena oso zuzen azaltzen denez, eduki bi aldeko kapa eskuratuz.
+Proposamenak janaria gordetzeko modua izanik, bi proposamenak oso modu goiztiarretan dute gordeta dagoen janariaren ezaugarriak aipatzen, honela, gordetako janaria barrengo azkar eta josi gabe hartzeko aukera ematen duten horretan.
+Hala ere, janaria gordetzeko efektiboagoa da kapa erdia txa irteten denean eta honei ziri tolesta erantsiz janaria gordetzeko modua izaten da. 
+Honek konpartituren artean garaipen-handia da eta lehiaketa azkenean, aukeratuko dutena 1 proposamena da eta beraz honi lotuta, janaria gordetzeko modu egokiena daukala medio, kapa eskuratzeko aukera ematen dutena.
+<Answer> 1
+---
+idx=476 RAW:
+<Reasoning>
+Lehen aldiz egonean utzi ondoren, moldera sartu aurretik, ogia zabaldu behar da laukizuzen lau baten itxuran.
+Espiralerako hautatutako nahasketa gurineztatutako ogian zipriztitzeko aukera ematen duten bost erabilera kantitateak aipatzen dira.
+Sardexka bat gurinerako labanaren ordez erabiliko litzateke, labana bertan gurin zabaldu edo kentzeko erabiltzen den gailu berezia denez.
+<Answer>2</Answer>
+---
+idx=494 RAW:
+<Reasoning>
+Orea kurruskari eta testuraduna lortzeko, orea gehiegi egosten aldatzen da, orea gogor bihurtzen da, baina alkohola lurrundu egiten da eta orea harro eta bigun gelditzen da.
+<Answer>
+2
+---
+idx=499 RAW:
+<Reasoning> Lubrifikatu beharrean, non ez badago, faltazuloa sortuko da artean zunda eta estoma artean, gehiago suntsituzko estoma. Gainera, lubrikatzeak zunda berehala finkatzeko aukera ematen du. Horregatik, lubrifikatu behar da. </Reasoning>
+ 
+<Answer> 1.
+---
+idx=500 RAW:
+<Reasoning>
+Labekada-etapan, tartaren ertzak oso aukera handia du egin dezakeen erreakzio kimiko bat, horrek tarta oso gogorra eta eginik egotea ekartzen duenean. Bereziki, tartaren ertzak zikina den bitartean egoste-tenperaturan dagoenean, karamelizazioaren prozesu bat gertatzen da, eta horrek tartaren ertzak erre eta gogorra egin dezake.
+Aluminio-paperezko babes-sistema labekada-hasieran jarri egiteak tartaren ertzak zikin ez daitezen eta karamelizazio prozesua murrizten du, horrek tarta egin eta gogorra ez izateko aukera ematen du.
+Beste aukera, denbora bikoiztu eta egoste-tenperatura erdira jaistea, tartaren ezaugarriak eta prozesua pairatzen duen tenperatura arazoak kontuan hartuta, tartaren ertzak ere gogor egin daiteke, eta ez da garbi dagoen zerbait egunean besterik.
+<Answer>
+1
+---
+idx=504 RAW:
+<Reasoning>
+Hornigai txikiak bulegoan antolatzeko, hemen dauden argibideak aztertu behar dut. 'Eduki madalena-molde bat tiraderaren barruan' hitzak hornigai txikien ekoizpena eta ezpoltsutzea adierazten du, orokorrean hornigai txikiak prestatzeko erabiltzen den teknika bat da. Horretaz gain, eduki hau hornigai txikiak ez dauden lekuetan ez da normaltzat har daitekeelako. Hala ere, bigarren aukeratzat ‘Eduki tarta-molde bat tiraderaren barruan’ badaude, hau normaltzat dirudien beste beste faktore bat da, hau da, askotan tarta hornigai txikiak prestatzeko erabiltzen da eta tiradera batean uztea ohikoena da. 
+<Answer>2</Answer>
+---
+idx=515 RAW:
+<Reasoning>
+Orokorrean, hainbat modu daude parpaila biribila moztu ahal izateko. "Marraztu zirkulua" lekua nahi dugunetik parpaila moztu arteko bidean oso garrantzitsua da, besteak beste, eraberritu zirkuluan egitea. 
+Parpaila biribila moztu aurretik, parpaila jantziaren diseinua ikertu behar izaten da, zein hainbat neurketa berezi egin behar ditugula. 
+Parpaila biribila moztu ondoren, zerrenda finkoa eginez zirkuluaren neurketa kontrolatzeko aurkitzen dira.
+Hauek diren hainbat neurketa neurri zehatzak behar duzke. 
+<Answer> 4. </Answer>
+---
+idx=518 RAW:
+<Reasoning> 
+White Russian perfektua egiteko bi modu ezberdin agintzen dira. Lehenengo metodoan, White Russian nahasketa eta izotza irabiagailu batean irabiatzen da, 3 minutuz abiadura handian, leun egon arte. Hau, gainazal leun eta uzkurtsurik garbitzeko egokia da. Bestalde, bigarren metodoa, osagai guztiak batera koktel-ontzi batean astindu eta izotz gainean bota, txikitzea eta osagaiak nahastea erraztzen du.
+Hala eta guztiz ere, izan dezake, izotza gainean bota gabe, White Russian perfektua gisa kontsumentak kontsumitu nahi dute, baina horrek, oso ondo egokituak ez daitezke.
+
+<Answer> 2 </Answer>
+---
+idx=519 RAW:
+<Reasoning>
+Altzairu herdoilgaitzezko ontziak garbitzeko, lehenik gainetik ertain beroa emango duen solventea aplikatu behar duzu, ontzia busti eta garbitzeko aurretik. Sagardo-ozpina, solvente eteorofilo bat da, eta, beraz, herdoilgaitza beroezin bat da, solidoa likidoen gainean soluzionatzeko gai dena. Lainoztatu sagardo-ozpina ontzian, baina, ontziaren gainetik beroezina derrigorrezkoekinez apurtu behar da, ontziaren gainetik beroezina ontzian eramateko, ontzia aurrera egiten denean. Solvente hori ontzia busti eta garbitzeko aurretik aplikatu behar da, hau da, ontziaren kanpoaldean. Agian, orduan, ikusten duzula, esan behar da, sagardo-ozpina ontzian lainoztatzeko denbora igarotzea behar da. 
+
+Trapu garbia ere kontuan hartu behar da. Garbiketa aurretik, ontziaren inguruan trapu garbi bat baino ez dago. Edo, kontuan hartu behar duzu, sagardo-ozpina ontzian lainoztatu eta trapu garbiarekin igurtzi behar duzu, ontziaren ontziaren kanpoaldean igurtzi behar duzu, horrek esan nahi du, beroezina ontziaren kanpoaldean igurtzi behar duzula, ontziaren gainetik. 
+
+Euren norabideak ere kontuan hartu behar dituzu. Kontuan hartu behar duzu, sagardo-ozpina ontzian lainoztatu eta igurtzi trapu garbiarekin, hariaren norabidean, beroezina ontziaren kanpoaldean igurtzi behar dutela. 
+
+Ondorioz, sagardo-ozpina ontzian lainoztatu eta trapu garbiarekin igurtzi behar dutela, ontziaren kanpoaldean, hariaren norabidean, beroezina ontziaren kanpoaldean igurtzi behar dutela.
+
+Ontziaren kanpoko kontzeptuen bidez, beroezina ontziaren kanpoko norabideari dagokion erantzuna, ekialde noranzkoan, horrek esan nahi du, hariaren norabidean oinarritutako beroezina ontziaren kanpoko kontzeptuak kontuan hartuta.
+
+</Reasoning>
+<Answer> 2.
+---
+idx=533 RAW:
+<Reasoning>
+Zelai batean, gauza txikiak antolatzen ditugu, non freskagarriak eta tiraderetan dena eramaten ditugun.
+Atun-potoak ez dira freskagarriak eta freskagarri-potoak ez dira atunak, beraz, zerbait bakoitzaren tiradera ezberdin dutugu erabiltzen.
+<Answer>1</Answer>
+---
+idx=534 RAW:
+<Reasoning>
+Ziroparen egosketa hirukoitza ikertzen ari gara: denbora, su maila eta gaiak. Fase ezberdinetan ziroparen egoera aldatzen da, haien artean loditzea.
+Hasierako egitura argi da, kartzela bikoitzeko: zukuarekin nahastutako gaiak denbora pasa ahala efektu handiagoa egiten dute, ziroparen loditzean lagunduz.
+2. opzioren arabera, ziropak egosketa hartan loditzen hasi zela adierazten da. Loditze prozesuaren hastapenak izendatzen dira eta ziroparen egosketaren momentuan egon zen egoera adierazten du.
+<Answer>2</Answer>
+---
+idx=545 RAW:
+<Reasoning>
+Oihalaren eta egurraren artean, argi eta bero-babesa igarotzeko, geruza bero-kongekta duten materialak erabili behar dira. 
+Kartoi-zatiak eta bateatze-geruzak bero-kongekta dutenak dira, horregatik argi eta bero-babesa oihalaren eta egurraren artean igaroz gero kartoi-zati bat eta bateatze-geruza batzuk erabili behar dira.
+<Answer>1</Answer>
+---
+idx=567 RAW:
+<Reasoning>
+Kafe-hondarrak erabiltzeko bideak kontsideratuz, lehenago gordetzeko produktua egiteko erabiltzen dute, eta bigarren gauzak jateko platerretan kafe-hondarrez zaporea indartzeko erabiltzen dute.
+Hondarrak produktua gordetzeko produktua egiteko nahasten dute koko-olioarekin eta gatzarekin, eta hortaz, aukera batzuk elimina zitezkeela pentsa daitekeela.
+<Answer>1</Answer>
+---
+idx=579 RAW:
+<Reasoning> Ezkerreko edo eskumako euskarri batean bizikleta bultzatzen denean, bizikletaren osasuna mantentzeko, beste euskarri batek (gurpilak edo torrea barne) gainjartzen duten elementuak (grederia, gurpilak...) orekatu behar dira, beste euskarriaren burua bizikletaren aurrean jarri behar da eta bizikletaren burua beste euskarriaren atzeko aldetik irekitzen da. Horrela, gizakia bizikletaren gainetik igotzen denean, gizakiak bizikletaren harrapakin gisa dabilela, bizikletak ezin du lapurtu, beraz bizikleta handiagoak dira. Osasuna mantentzeko beste modu bat, bizikleta bultzatzen denean, bizikleta dardara egin eta mantenimendua egiten duenean bermatzen da euskarri batean, bertan eramatea beharrezkoa da, hau da, hirurak (bizikleta eta euskarri biak) guztiz irekita egoten dira, osasuna mantentzeko. Esanahiari aurre egin diezaiokeena, bizikleta orekatua da eta gainjartzen duten euskarriak (grederia eta gurpilak) eta beste euskarriek (gurpilak eta euskarria) berdina da, baina bizikleta orekatua dagoenean, ez dago lerro batetik gainjartzen duten euskarriaren barnean irekitzen da bizikleta, orekatzen dute, eta beste euskarriaren atzeko aldetik irekitzen da. Tentea jarri eta gero, bizikleta bermatzeko hirurak (bizikleta eta euskarri biak) irekita egon behar da, bertan egin behar da mantenimendua, bertan bere mantentzeko batzuk ditu. Atzeko euskarriaren atzeko aldetik irekitzen da bizikleta, beraz, bizikletaren euskarri eta mantenimendua, eta bizikleta bermatzeko hirurak irekita egon behar da, honek bikainegitatea eragiten du. Honek bizikletaren osasuna mantentzeko hirurak (bizikleta eta euskarri biak) irekita egon behar da. Bitartekaritzaren bitartez, gurpilak bertan ikusten dira, tentea jarri eta gero, mantenimendua egin behar da bertan, bertan mantenimendua ikusten dira. Bertan ikusten dira mantenimenduak, tentea bermatzeko hirurak (bizikleta eta euskarri biak) irekita egon behar da. Ezkerreko edo eskumako euskarri batean bizikleta bultzatzen denean, bizikletaren osasuna mantentzeko, beste euskarri batek (gurpilak edo torrea barne) gainjartzen duten elementuak (grederia, gurpilak...) orekatu behar dira, bertan, bizikletaren burua beste euskarriaren atzeko aldetik irekitzen da, honek bikainegitatea eragiten du, bertan, bizikleta bermatzeko hirurak (bizikleta eta euskarri biak) irekita egon behar da. Bertan, bitartekaritzaren bitartez, gurpilak ikusten dira, bertan, mantenimendua egin behar da. Ikusten dira mantenimenduak, bertan, bizikletaren osasuna mantentzeko bertan ikusten dira, bertan, euskarri batek (gurpilak edo torrea barne) gainjartzen duten elementuak (grederia, gurpilak...) orekatu behar dira, bertan, bitartekaritzaren bitartez, gurpilak ikusten dira, bertan, bizikleta bermatzeko hirurak (bizikleta eta euskarri biak) irekita egon behar da.  bertan ikusten dira mantenimenduak bertan egin behar da. Bertan, bizikletaren osasuna mantentzeko bertan, euskarri batek (gurpilak edo torrea barne) gainjartzen duten elementuak (grederia, gurpilak...) orekatu behar dira, bertan, bitartekaritzaren bitartez, gurpilak ikusten dira bertan mantenimendua egin behar da bertan mantenimenduak ikusten dira bertan bertan, bizikleta bermatzeko hirurak (bizikleta eta euskarri biak) irekita egon behar da bertan, bertan ikusten dira bertan ikusten dira bertan, bertan egin behar da, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bertan, bert
+---
+idx=601 RAW:
+<Reasoning>
+Jalapeñoak minagoa izateko, haziak nagusia da arduraduna. Haziak, errezeta egin ondoren ere, erretxina egonkortzen dituen eta errezeta minagoa egiteko daude.
+<Answer> 2 </Answer>
+---
+idx=618 RAW:
+<Reasoning>Horrelako aferak gertatzeko, katuaren janari lehorra likidoa hartzen duen substantzia batek eragina izango luke. Kaltzio karbonatoa, azukreak eta ura biltzen dituen dieta orokorrak hartzen duena, likidoa absorbitu eta xukatzen du. 
+
+Lehorrean, kaltzio karbonatoa, azukreak eta ura dira likidoa xukatzen dutenak. Legarra horietako bat da, beraz, xukatu ahal dela. Legarra likidoaren gainean botatzean, likidoaren molekula likidoaren gainetik atzerantz mugitzen dira eta likidoa efektu arrasto batean desagertzen da. Baina katuentzako legarra bakarrik ez bada ordea, likidoa xukatzeko prozesuaren atzerapena ere da, honek baino prozesu gehiago behar du likidoa xukatzeko. 
+
+Horrelako aferak gertatzeko, katuaren janari lehorra likidoa hartzen duten substantzia batek eragina izango luke. Kaltzio karbonatoa, azukreak eta ura biltzen dituen dieta orokorrak hartzen duena, likidoa absorbitu eta xukatzen du. Horrela, gauza bat da dieta janari lehorra likidoa hartzen duen substantzia batekin hartzen duen dieta orokorrak likidoa absorbitu eta xukatzen du. Baina katuentzako legarra likidoa hartzen duten substantziaren dieta orokorrak hartzen duena ordezkatzen duen dieta orokorrak likidoa absorbitu eta xukatzen duena bakarra da. 
+
+Baina katuentzako legarra ez da janari lehorra likidoa hartzen duten substantziaren dieta orokorrak hartzen duena. Egia da, baina janari lehorra bakarrik ez dugu. Likidoaren xukapena energia energia erabiliko duten beste substantziak (gordinak ura...) bertan daude. Gaur egun kaltzio karbonatoa, azukreak eta ura biltzen dituen dieta orokorrak likidoa absorbitu eta xukatzen du. 
+
+Baina dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena baino beheago dago. Baina dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik ez dugu hartzen duena, ordea. Baina dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena erabiltzen duten legera likidoaren xukapena lagunduko duten aipamenak hartzen dutena da. 
+
+Beraz, katuentzako legarrak hartzen duten dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena janari lehorra likidoa hartzen duten dietaren dieta orokorrak hartzen duena bakarra da, baina hori ez da dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena. Baina hori da dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena. Janari lehorra likidoa hartzen duten dietaren dieta orokorrak hartzen duena bakarrik dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena da. 
+
+Legarra likidoaren gainean botatzean, likidoaren molekula likidoaren gainetik atzerantz mugitzen dira, eta likidoa efektu arrasto batean desagertzen da, katuentzako legarraren artean da. 
+
+Legarra likidoaren gainean botatzean, likidoaren molekula likidoaren gainetik atzerantz mugitzen dira eta likidoa efektu arrasto batean desagertzen da. Egia da, baina dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena horrela dago, baina hori bakarrik dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena. Dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena da. 
+
+Beraz, dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena likidoa xukatzeko prozesuaren atzerapena da, dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena janari lehorra likidoa hartzen duten dietaren dieta orokorrak hartzen duena ordezkatzen duen dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena, baina dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena da, baina hori dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik da, dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena likidoa xukatzeko prozesuaren atzerapena da, dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena da, baina dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena dieta orokorrak hartzen dutena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik da. 
+
+Legarra likidoaren gainean botatzean, likidoaren molekula likidoaren gainetik atzerantz mugitzen dira eta likidoa efektu arrasto batean desagertzen da. 
+
+Legarra likidoaren gainean botatzean, likidoaren molekula likidoaren gainetik atzerantz mugitzen dira eta likidoa efektu arrasto batean desagertzen da. Egia da, baina dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena janari lehorra likidoa hartzen duten dietaren dieta orokorrak hartzen duena ordezkatzen duen dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena bakarrik da. 
+
+Legarra likidoaren gainean botatzean, likidoaren molekula likidoaren gainetik atzerantz mugitzen dira eta likidoa efektu arrasto batean desagertzen da, dietaren dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena ordezkatzen duen dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena dieta orokorrak hartzen duena janari lehorreko lantegiek hartzen duten dieta orokorrak hartzen duena janari lehorra likidoa hart
+---
+idx=632 RAW:
+<Reasoning>Leundu gelako soinua eskatzen dugu. Aparrezko panelak argindutza ateratzeko balio dutenak dira, eta horna batean zintzilikatzea ohiko entrenatutako instalazioetan ohikoak dira. Hala ere, aparrezko koltxoiak itsatsita hornan instalatzea, salbuespen bat da, instalazio osagarriak ere deitu ohi zaizkieelako. Horren ondorioz, instalazioa anbiguoagoa eta oso instalazio askotan ez dela ohikoa, koltxoi baten instalaketa gehienetan beste hainbat mekanismoekin lortzen dela. 
+
+<Answer>1</Answer>
+---
+idx=647 RAW:
+<Reasoning>
+Urdaiazpiko entsalada sandwichek ezberdintasunak dituzte, nahiz eta osagai bera kontsideratzen diren. Lehen kasuan, entsalada zabaldua baino gehiago ageri da urazaren nahiagotasunagatik, baina beraz, urza gehiago erabiliko litzateke.
+<Answer>1</Answer>
+---
+idx=661 RAW:
+<Reasoning>Artena jan ondoren, ogia ateratzen lagunduko lioke izozkailuan gordetzea. Ia jateari lehenago kendu gabe, desizoztea urrats beroen merkatu krutzara iristean geldituko da, gaur egungo izozkailuen kasuan 30 segundo lotu eta lau minutu egoten. Bilkin jatorrizkoa gordetzeak eta biltzeko metodoa aldatzeak ez du eraginik izozkailuan. 
+Adiskidetze ziurra eragingo lioke ez zuen 30 segundo aldea baino gorbeago ateratzea, gaur egungo izozkailuen kasuan. 
+Orokorrean, 5 minutu aldea gorbeago gorde daitekeen, baina horrek ez du eragina izozkailuan. 
+
+<Answer>1</Answer>
+---
+idx=671 RAW:
+<Reasoning>
+Egurra lantzeko materialak zerrendatzen ari dira. Bi material dira aipatzen: penizilina markatzeko lantzeko labana bat eta egurra bera, eta beste aldean, arkatza markatzeko ere lantzeko labana bat eta egurra bera behar da.
+Penizilina eta arkatzak osagai kimiko desberdinak dira, horrek esan nahi du ez dute erreakzionarazi behar. Hortaz, lantzeko labana bat eta egurra bera dela eta, penizilina eta arkatzak markatzeko prozesu bereak izango dira.
+Baina, egurra lantzeko materialen zerrenda osatzen, lantzeko labana bat eta egurra bera biertzetzekoa da. Hori dela eta, horrelako bi markak egitura desberdina dutenez, bi zerrenda desberdinak daude.
+Erreakzio kimikoak diren kasuetan, lantzeko labanaaren egitura eta egurra lantzeko zerrenda bereziki egina dagoen markaren bat izango da.
+Penizilina markatzeko lantzeko labana eta egurra markatzeko lantzeko labana eta arkatzak markatzeko lantzeko labana edo bakoitza berdin da lantzeko labana bat eta egurra.
+Arkatzak markatzeko, arkatzak markatzeko lantzeko labana izango da eta markatzeko arkatzak lantzeko labana ere.
+Egurra lantzeko labana bat eta arkatzak lantzeko labana bat izan beharrean, arkatzak markatzeko arkatzak lantzeko labana bat eta arkatzak markatzeko labana bat eta egurra bera
+Arkatzak lantzeko labana bat eta arkatzak markatzeko arkatzak lantzeko labana bat eta egurra egurra lantzeko labana bat eta arkatzak markatzeko arkatzak lantzeko labana bat
+Arkatzak markatzeko lantzeko labana eta arkatzak arkatzak markatzeko arkatzak lantzeko labana eta arkatzak arkatzak markatzeko arkatzak lantzeko labana bat eta arkatzak markatzeko arkatzak lantzeko labana.
+Arkatzak markatzeko arkatzak arkatzak lantzeko labana arkatzak markatzeko arkatzak lantzeko labana arkatzak arkatzak arkatzak lantzeko labana arkatzak arkatzak lantzeko labana bat arkatzak arkatzak arkatzak arkatzak lantzeko labana bat arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak arkatzak
+---
+idx=708 RAW:
+<Reasoning>
+Lehenengo aukerak, paper-zati bat erditik tolestuz, zehatz-mehatz bola itxura lortuko litzateke. Bigarreneko aukerak, hala ere, bola itxura emateko aukerakoa bada ere, metal paper-zatiak zorrotza eta sendoa izango litzateke, eta horri esker bola itxura ziurtatuko litzateke.
+<Answer> 1 </Answer>
+---
+idx=713 RAW:
+<Reasoning>
+Lore bat luzatzeko, arruntena botoi bat eta azukre pixka bat jarriko dute. Botoi bat, lorearen luzapen-prozesuari laguntzen die, eta azukre pixka, lorearen beste organoetara oinarririkoa edo N-fixing bakterioak begira doa, eta horrek berritzea ekartzen du eta etengabeko fotosintesia bultzatzen du.
+<Answer>
+2.
+---
+idx=720 RAW:
+<Reasoning>Uhin-labea distiratsu da, hau da gai dela eta likidoak kolokalitate gogorragoak eragiten dituztela kontuan hartuta, mikrouhina-labearen barrualdea limoi-olioarekin garbitu behar da, arrisku gehiago sortu behar duten likidoen (kanpoaldekoak) ondorioz. Kanpoaldeko garbiketa falta dagoena da, eta hainbat forma berberak eta ariketa gogorragoak bazeuden, hau batez ere  labai garbitzerakoan, gaixo asko jasan dute, ziuraski beste metodo bat bazeuden mikrouhina-labean egiteko. Hau da, da gauza zertan nire erantzuna den. 
+
+<Answer>1.
+---
+idx=726 RAW:
+<Reasoning>Hainbat aukera ezagutzen ditugun arnasteneko moduak existitzen direla eta, zotinak hainbat postu bereizi egiten dituela hauetan, aukeratzeko kriterioa modu eraginkorrenean aurkitzeko erabaki ohi da. Arnastu paperezko zorro batean zotinaren goiko partea aurkituko dugu, hau batezbestekoa dela eta nahiko behean dagoelarik. Arnastu esku artean, aldiz, zotinaren goiko oina aurkituko dugu, hau lepotxoaren inguruan dagoelarik. Oso lepotxo handia duten zotinen kasuan, lepotxoaren inguruan dagoen oina behatzea gogorragoa izango litzateke. 
+
+<Answer>1</Answer>
+---
+idx=760 RAW:
+<Reasoning>
+Janaritako erosketak aurreztu nahi dugu, hau da, gastuak gutxiago izan nahi dugu. Planifikazioa egin beharko dugu, eta behar duzuna soilik erosi beharko dugu. Otorduak aurrezkoa izan behar dute, eta hilabeterako edo astebeterako plan bat eraikitzea eskatuko du. Janaren fakturen zati bat murritz egiteko araua definitu beharko dugu, eta plan hau jarraituko dugu.
+<Answer>1</Answer>
+---
+idx=770 RAW:
+<Reasoning>
+Berogailu-lurra txabola baterako ezinbestekoa da aireztapen gehiago lortzea berogailua eraiki aurretik. Horrela, egin aireztapen-hodi bat inguruko suren baten kea txabola azpitik pasatzea, berogailuak ez duela airea kendu eta dentsitatea handiagoa izango da, berogailu-lurra txabola baten xehetasunak funtzionatuko dituzten xehetasunak dentsitate handiagoa dutela hartuta.
+</Reasoning>
+<Answer> 1.
+---
+idx=771 RAW:
+<Reasoning>Leihoen garbiketa arraskaz daiteke, eta horretarako arraskaren alde bat belakia eta bestea gomazko zerrenda izan behar du. Belakia ur xaboitsu berotan sartu eta kristalaren gainazala garbitu behar da. Gainera, arraskaren alde gomazkoa kristaletik pasatuz gero, gomazkoak ez da kristaletik altxatu behar, baita ere lurruna ez iragazi ez dadin, lurruna gordeko duen kristalezko arraskaren alde gomazkoa kristaletik oso luze eta leunean pasatu behar da, baita ere goma zeharka mantendu gabe. Azkenik, lehortu zuen leihoa begiratu ondoren, litsik gabeko trapu batekin lehortu zuen leihoa dute litsik ez duten leihoak. Horrek adierazten du gomazko aldea gomazkoa zeharkatu gabeko kristaletik pasatzea komeniagoa dela lurrunak ez iragazi dadin. 
+
+<Answer>2</Answer>
+---
+idx=772 RAW:
+<Reasoning>
+Uztak lortzeko, kale-landareak aski bizkarro edo zurtoia mozteko gai izan behar dira. Baina, zurtoia mozteko garaia egokitzea garrantzitsua da. Urtetan edo neguan, zurtoia moztzean, landarea bizkarroa izan dezake eta harri edo aintzira bilakatzean lagun dezake. Aitzitik, uztaren denboraldean, landareak zurtoia eta hostoak jatorrizko gogortasunean mantentzen dituenez, zurtoia moztean, landareari kalte egiten da eta ugazaba ezin da lortu.
+
+<Answer>1</Answer>
+---
+idx=779 RAW:
+<Reasoning>
+Zuntza iltzeatzeko, bi metodo erabil daitezke. Lehena, bi ardatzeko zuntza moztu eta erdian itsatsi egiten duzue, hau da, biraketa puntuan itsatsi. Bestea, baina erremediatzatko zuntza baten edo batzuen hankiekin itsatsiko da.
+<Answer> 2 </Answer>
+---
+idx=781 RAW:
+<Reasoning>
+Gurina izoztuta egon behar da birrintzeko. Birringailu metalikoarekin erabiltzea onargarria da, plater baten gainean erabiltzea onargarriagoa da, eta platera berriz izozkailuan jarri behar da gurina berriro izotz egon arte, izoztuta egon behar delako.
+Baina, lehenengo testuak "metalezko birringailu" erabiltzen du, eta bigarren testuak "metalezko kuter" erabiltzen du, eta biek birringailuaren zulorik handienak erabiltzen dituzte gurin-zati finak egiteko. Kuterak bezain sakona izan daitezke birringailuak baino?
+Hori gutxi balitz, askoz sakonagoak dira, haien zulotan erabiltzen diren katera batera. 
+Gainera, metalezko kuter batekin bakarrik, gurina berriz sakon bihurtzeko lana ez dutenik, berriz izoztzen utzi, platera iragazi, edo handiagoa bilatzeko beste erremedio bat (adibidez, hondakinetako zeramikako partea erabiliz) plateraren gainean jarri, birringailua kuter berriaren gainean jarri, baina ez birringailu berri bat.
+Platera izozkailuan utzi, gurina izozten den bitartean. 
+Beraz, hurrengo neurri hau kontutan hartuta, metalezko kuter batekin bakarrik izoztuta, iragazi, edo handiagoa bilatzeko beste erremedio baten gainean jarri, birringailua kuter berriaren gainean jarriko dute.
+<Answer>
+2
+---
+idx=796 RAW:
+<Reasoning>
+Txile piperrengatik erretzen duen azal hoztu egiteko lehenengo ipuinaren arabera, honek esne hotza, txile-hautsa eta ore egiten ditu. Orearen egiteko, eskuak ontzi hotzetan sartu ondoren ore egiteko eta garbitu aurretik zenbait minutuz utzi behar dira.
+Txile piperrengatik erretzen duen azal hoztu egiteko bigarren ipuinaren arabera, honek esne hotza, irina eta ore egiten ditu. Orearen egiteko, eskuak ontzi hotzetan sartu ondoren ore egiteko eta garbitu aurretik zenbait minutuz utzi behar dira.
+Honek adierazten du irina orearentzat egokia dela, baina ez txile-hautsarentzat. Irina txile-hautsaren ordez erabil dezakeela esan nahi du.
+Kontuz, beste alde batetik, bigarren ipuineko taldean kontsultatu beharko dugu txile piperrengatik erretzen duen azala hoztutako euskal errezeta batzuk. Irina gehitzen ez dela diot batzuei. Horrela, proba-unitatea hobeto probestea.
+Txile piperrengatik erretzen duen azal hoztu egiteko irinak gainontzeko osagaien parekoa balitz bezala, ez dago oinarrizko mekanismo hau aipatzen, honen aldiz beste osagaiak oso txikia edota oso gutxitan agertzen dira bai irekin bai ore bat egiteko baliabideetan. 
+Txilearen hautsa txile piperrengatik erretzen duen azal hoztu egiteko baliabideetan duten galerapena da, horrela horrekin balioko dion baliabide egokia gizarte txilen honetan da. 
+<Answer>1</Answer>
+---
+idx=800 RAW:
+<Reasoning> Hortzetarako haria eta barrera ezberdinak ditugu, eta biak ere erabili daitezke tarta mozteko. Honez gain, erabiltzeko leku eta taktika ere ezberdinak dira. Hortzetarako barreraa erabiltzeak, mozteko indarra igotzea lagunduko luke, tartaren azpiko aldera iristeko. <Reasoning>
+
+<Answer> 1 </Answer>
+---
+idx=818 RAW:
+<Reasoning>Lehenengo aukera hori guztiaren etimologia eta kontestuaz bazekien, baina hori ez da hori oso zuzen. Egoera honek dagokion zerbait eskatzen du, gero urratu zuhanbidea, baina euria hori oso txiki da. Euria hori, horrela, orduko erabilgarria da. Ondorioa bideari jarraitzen diot. Lehenengo aukera batek “banaka” sartzen du. Bigarren aukera batzuk egin, horiek lekualdatu, gero loreak loreontzi baten ahotik kanpora, eta horrek oreka hautsi. 
+
+<Answer>1</Answer>
+---
+idx=821 RAW:
+<Reasoning> Hodiak garbitzeko prozesua aztertzen, hodiak garbitzeko makina baten eginkizuna kontuan hartu behar da. Makina horiek, hodiak garbitzeko, gehienetan, hodiak garbitzeko garbitzaileak edo zikloa dutenez, lehorgailuaren iragazketa garbi eta ongi egiaztatzen da. Beraz, hodiak garbitzeko lehorgailuan sartzea eta garbitu ziklo batekin egiten da. <Answer>2</Answer>
+---
+idx=835 RAW:
+<Reasoning> 
+Lehenengo kasuan, bahea ez da beteta. Osagaiak bahetzen direnean, hutsa egin arte jarraituko dute. Hau da, nahitaezkoa da osagaiak bahearen ertzari bahetzeko kolpetxoak eman aurretik bahea hutsik egon arte.
+
+Bigarrenean, osagaiak bahetzen direnean, bahea beteta egongo da. Bahea hutsik ez dagoelako bahetzen jarraituko dute, baina, hau ez dela nahitaezkoa da. Osagaiak bahearen ertzari bahetzen direnean, bahea beldurrik ez da egingo beteta.
+
+<Answer>
+1.
+---
+idx=836 RAW:
+<Reasoning> 
+Kolibriak lurraldekoak dira, eta haien ikuskapena eta lore-kopurua erakartzen dituen gai batzuk dira, hala nola janlekua eta lore-sailak. 
+Horrez gain, beste eragile batzuek ere eragin dezakete, hala nola beste zenbait kolibiri edo animaliak egiten dituzten soinua eta ispiluen eragina.
+Jatorrizko alegia ageriko erreakzio bat ez bezala, aurresane soinua da zeregin zuzena, non kolibriak zenbait baketan eta neurrian kantatzen dutenez eta zenbait motako animaliak sasoiko zorabioak, loredunak eta hegaztiak kantatzen dutenez.
+
+<Answer> 1 </Answer>
+---
+idx=843 RAW:
+<Reasoning>Salami eta ziazerba txikiak gehitzen aurretik, erabiliko den krema-gazta tipulindu edo marrubiduna alde batetik mugitzen du krema-gazta horren xehetasuna eta aukeraren arteko desberdintasuna. Azken hau da sandwichen aukerakoa eta edozein sandwich hobetuko luke, horregatik dena da hori, salami eta ziazerba gehitzea. Ogiaren goialdean gehitzen direnez, krema-gazta erabiliko dena horren xehetasuna, azala, zabaldu behar da ogia helduz. Horrek hobeto orekatuko da salami eta ziazerba artean eta orekatzea hobeto egingo du. Ipuin hau da salamiri eta ziazerbari dena gehitzeko motibazioa.
+
+<Answer>2</Answer>
+---
+idx=855 RAW:
+<Reasoning> Guraizeak lektroiak alboratzen ditu, hori dela eta kate biometrikoak ebakitzen ditu. Hala ere, labanak kate metalikoak ebaki ditzake, baina guraizea ez, horrek azaltzen du lehenengo aukeran zehazki ez dagoela. Horregatik, labanak fede izan beharko litzateke. <Answer>2</Answer>
+---
+idx=856 RAW:
+<Reasoning>
+Trapu batekin lehortzeak aranaren zurtoina mantentzen du, eta beraz, egin daitekeen enpanadillen tamaina hainbat aldetan alda daiteke.
+Garbi eta lurrunetan lehortzeak, aldiz, zurtoinaren xehetasunak suntsitzen ditu, eta horrek enpanadillen tamaina mugatzen du.
+<Answer> 2 </Answer>
+---
+idx=867 RAW:
+<Reasoning> 
+Ezinbainitu da makila erabiliko zaiolailean txoritokia askatu ahal zedin, nahi duten leku batera eramateko erabil daitezkeela. Horregatik, makila itsatsita, nahi duten lekuan txoritokia gehitu ote dezakezu, horrenbeste hainbat lekutan ekartzen ahal zaizula. 
+
+Piruli-makila batek hainbat kanpoko alde banatan nahi duten lekuan zabaldu dezake, orduan txoritokia horien artean eta eskuz ireki ahal da. Baina txoritokia zabalduz kanpoko aldean bakarrik ireki ahal da.
+
+<Answer>1</Answer>
+---
+idx=872 RAW:
+<Reasoning>
+Hirugihar gantza bildu ahal izateko, aukera bat hirugiharra zartagin batean egiten eta prest denean kendu zartaginetik eta koipea kenduz lortu dezakegu, beste aldian, hirugihar zerrenda izoztuz eta labean bigun egon arte egiten da, ura hirugihar gainean bota eta bildu koipea lortzeko.
+Hirugiharrak zerrenda duten proportzioan, zerrenda bakoitzean bilduko den koipea bere proportzioan dagoela kontuan hartuz, aukerak alde batetik hirugihar zerrenda izoztua egiten eta labean bigun egon arte eta bigarren aldetik hirugiharrak zartagin batean egiten eta prest denean kenduz lortu dezakegu koipea.
+Aukera batzuek gogoa sortzen dute, baina ikuspegi logiko eta praktikorik txarrenekoak dira, hala nola, hirugiharrazko koipea koipez kentzea edo zerrenda bakoitzean koipea kenduz egin beharrik aukeratzea.
+Labean bigun egon arte egiten denean, koipea bere proportzioan bilduko da, hirugiharrak zerrenda duten proportzioan.
+Azken finean, ikuspegi logiko eta praktikoaren arabera, aukera hori haustekoa da, labean bigun egon arte egiten denean, koipea bilduko da.
+Aukerak alde batetik hirugihar zerrenda izoztua egiten eta labean bigun egon arte eta bigarren aldetik hirugiharrak zartagin batean egiten eta prest denean kenduz lortu dezakegu koipea.
+<Answer>2</Answer>
+---
+idx=897 RAW:
+<Reasoning>Krispy Kreme-k urtero Irailaren 19an zainduket eta honetan lantaldearen jabeak hitz egiten eta katearen banako guztiak banan zaindutako donut bat jasotzeko eskatzen dute. Hala eta guztiz, pirata baten moduan bertara joatea norbaiten lantaldekoekin egiten duten eztabaida laburra aipatzea ez da historikoa. Hala ere, bertan lan egiten dutenek, funtzionarioek bata bestearen aurretik atentzen duten aprobetxatzen dutela hitz egiten dutela eta jakin dutela donut bat jaso dezakezula. 
+
+<Answer>2</Answer>
+---
+idx=916 RAW:
+<Reasoning>
+Krepeak egiteko prozesua txukuntzeko, krepe-nahasketa ketchup-botila garbi batean jartzea egokiena da, hau da, 1. edo 2. aukeran aukeratzeko.
+Ketchup-botila garebita erabiltzeak janariaren sastatzea errazten du eta prozesuaren kalitatea hobetzen du.
+2. aukerak ketchup-botila garbi bat erabiltzea aukeratzen badu, ketchup-botilaren egoera gordetzea garrantzitsua da, hau da, ketchup-botila bera garbi mantentzeko.
+<Answer>1</Answer>
+---
+idx=932 RAW:
+<Reasoning> 
+Gnomo-lorez betetako gorputz bat egiteko, lorezari propietate estetiko eta biziak ematen dizkion elementu bat behar dut. Izpiliku loreek lore berdearen antzera ikusgarritasuna duten kolore berdeak dituzte, arrosa loreek ordea, arrosa kolorekoak dira. Zentzu horretan, izpiliku lorez gainetik ikus daitekeen lokartasuna duten gnomo-lorez gordailu bat egiteko, izpiliku loreak aukeratuko nizkion arren.
+
+Arrosa loreak gnomo-gorputza bereziki koloriko eta arrosa garrantzitsuarekin lotzen du, baita arrosa koloreko gauza kontzeptuala ere.
+
+Arrosa loreak arrosa koloréaren efektu unibertsoaren gogoa, gnomo lorez kondari arraro horiarekin lotzen du, arrosa loréak zorrotza,are arrosa etxea eta gortin gorriak biltzen dira. arrosa loreak hortan izpiliku loreek lore berde bihurtzen dute, dagoeneko bilketa hortan arrosa loreak gnomo lorez gordailua efektibotik amore ematen dut.
+
+<Answer> 2.
+---
+idx=937 RAW:
+<Reasoning> 
+Birringailuaren orriak, oro har, material metalikoak dira eta zorroztzeko metodo batzuk erraztasunez eta arazorik gabe funtzionatzen dutela ulertu behar da. 
+Metalezko zirrindola eta izotz-puska birringailuan sartzen direnean, biak garbiketa prozesuak eskatzen dituzte. 
+Metalezko zirrindola birringailuan sartzean, aluminioa edo beste metalezko material bat birringailua zorroztzeko eta garbitzeko erabiltzen da. 
+Horrela, birringailuaren orriak garbi eta zorroztu egin daitezke. 
+<Answer> 1 </Answer>
+---
+idx=946 RAW:
+<Reasoning>
+Haurra aseguru egin behar da eserita eta eskantzan, horretarako zabua ez da aprobetxatzen, beste bat besterentzat lotuta dagoen haria erabiltzea berrerara ez da egokia eta haurra lekutik ateratzeko aukera dute zorizko haurrak bultzatuz eserita dagoenari. Zabua mendean hartzen duenean bultzatu beharrekoa haurra zabuaren goiko barratik ateratzea da, bultzatzen duzunean haurra zeruetara doa eta zertan dagoen ikusteko modua egon daiteke, nahi denean haurra ateratzea hainbat zenbait aldiz ezinezkoa da.
+</Reasoning>
+
+<Answer> 1.
+---
+idx=947 RAW:
+<Reasoning>
+Ahabi gorri eta eztizko barbakoa-saltsa egiteko lehenengo urratsak kasu bakoitza ematen du osagaiak erabilera bakoitzean desberdina dutela adierazten du. Frijigailu batean egiten dutela ikusita, aire hotzari beharrezkoa ez zaiola egin orduan, baita bero ireki daitekeelako ere.
+</Reasoning>
+<Answer> 2.
+---
+idx=955 RAW:
+<Reasoning>Arrautza tresna berezirik gabe kraskatzeko modu bat lantzen ikusi nahi dut. Ermoko baina leunekoa kolpatzea erabilgarria izan liteke, baita gurinarentzako labana erabiliz arrautzaren goiko aldea zulatzea ere. Hala ere, erdiko aldean geratu diren labarrez kendu beharrekoa da. Hala dioen beste modu bat ere badago: arrautza kraska daiteke, irmo baina leunekoa kolpatzea edo arrautzaren goiko aldea labana batez zulatzea, baina horretarako arrautza zulatu behar da. Arrautza zulatzea kraskatzeko modu garrantzitsua da, labarretik kendu beharrekoak, hau da, arrautza kraska daitekeen zatiak. Labarrek hain zuzen, kontrajarraitasunaren ezaugarriak dituzte, hau da, karbonoa eta oxigenoarentzako elektroiak edukiko dute, ondorioz, arrautza labarrez lotuta geratuko da. Arrautza kraska daitekeen zatiak labarrez banandu egin behar da. Baina, arrautza zulatu ordez, irmo baina leunekoa kolpatzea erabilgarria izan liteke. Labarrek ere, erdiko aldean geratzeko joerarik ez dute, baina, hau erdiko aldean geratzeko joera du, erdiko aldean geratzeko joerarik ez dute, baina, hau erdiko aldean geratzeko joerarik ez dute, baina, hau erdiko aldean geratzeko joerarik ez dute, baina, hau erdiko aldean geratzeko joerarik ez dute, baina, hau erdiko aldean geratzeko joerarik ez dute. Ez da honen izaera estrukturalkoa; baina, hau erdiko aldean geratzeko joerarik ez duten arteko harremana, zein labarrekiko harremana duten; eta azkenik, horrek, zulatzea erabilgarria izan litekeen izaera du. Hau horrela egiten da, zeinek, arrautza zulatu ahal izateko, hain zuzen ere, kolpatzeko moduazko propietate horrek erdiko aldean geratzeko joerarik ez duen arteko harremana duten, labarrekiko harremana. Labarrek, gainera, erdiko aldean geratzeko joerarik ez duten arteko harremana duten, labarrekiko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arteko harremana duten arte
+---
+idx=966 RAW:
+<Reasoning>Garagardo-enpresak Black Forest garagardoa egiten duten prozesua ikertzeko. Bigarren datak dioenez, 1 botila lager epel edalontzi batera erosten da, nahiz eta lehenengo datak 2 botilek erabaki dezakeela. Bestalde, nahasketan parte hartzen duten likore eta granadina arrakastaz nahastu ohi dira garagardoarekin. Gainera, Black Forest garagardoak likorekoak direla eta, edalontziaren botoirak amiltzeko egiten dute hainbat neurri. Horietan, bere garapena ez dela oso garbi azaldu dira aurreko informazioek. 
+<Answer>2</Answer>
+---
+idx=968 RAW:
+<Reasoning>
+Egur-zati batean koska zehatz bat egiteko, prozesua egurra egiteko egokirikoa izateaz gain,  egiten den lekua ere kontutan hartu beharko da. Hiri aldean edo nazioarteko ospetsuko inguruetan, segurtozta ezartzea eta zerbitzuak eskuragarri daudela kontutan hartu behar da. Horrenbestez, makina edota zerra erabiltzeak gizartearekin erantzukizunpolitikoa delako kontutan hartu behar da.
+<Answer>1</Answer>
+---
+idx=974 RAW:
+<Reasoning>
+Lehenengo hitzarmena garbi dago, salda egiteko prestatzen ari dira. Olio ontzi handi batean jarri behar da eta tipula arin frijitu eta gorritu arte. 
+Ondoren, salda edo ura bota behar da, bai eta beste zenbait osagai ere: apioa, azenarioak, baratxuriak eta gatza.
+Hala eta guztiz, berriro salda sartu behar da sutan eta beste osagai batzuk bota: perretxikoak eta tipula freskoa.
+Azkenik, soja-saltsa eta gatzaren arduraz zuzentzen da salda eta Sriracha apur batekin zerbitzatu behar da.
+Lehenengo hitzarmena tipulak gehitu gabe ote daude eztabaidatzen dut.
+Lehenengo hitzarmena tipulak gehitu gabe, salda egiteko ontzi handian tipulak gehitu gabe, tipulak gehitu beharrean tipula freskoa gehitu behar zela jakin ote da?
+Lehenengo hitzarmena tipulak gehitu gabe, tipula freskotan gehitu gabe, tipula gehitu gabe salda egiteko ontzian tipula gehitu beharrean tipula gehitu ez bazen tipula tipula gehitu beharrean tipula gehitu beharrean tipula gehitu ezean, tipulak gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu beharrean tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean tipula gehitu beharrean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean salda egiteko ontzian tipula gehitu ezean tipula gehitu beharrean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu beharrean tipula gehitu beharrean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu beharrean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu beharrean tipula gehitu gabe tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu gabe tipula gehitu ezean tipula gehitu beharrean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu beharrean tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko ontzian tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu gabe tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko tipula gehitu ezean salda egiteko tipula gehitu gabe tipula gehitu ezean tipula gehitu beharrean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko tipula gehitu ezean salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean salda egiteko ontzian tipula gehitu ezean tipula gehitu beharrean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu beharrean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu beharrean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean salda egiteko tipula gehitu ezean salda egiteko tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu gabe tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko ontzian tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe tipula gehitu ezean tipula gehitu ezean salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean tipula gehitu ezean salda egiteko tipula gehitu ezean tipula gehitu gabe salda egiteko tipula gehitu ezean salda egiteko tipula gehitu gabe salda egiteko tipula gehitu ezean tipula gehitu ezean tipula gehitu gabe salda egiteko ontzian tipula gehitu ezean salda egiteko ont
+---
+idx=985 RAW:
+<Reasoning>
+Gure helburua hezurra kendu itzalpeko bat hezur kentzekorik gabe da. Aukerak ondo zirudien arren, gure iritziz eltze motela baino botila hutsa gerrietako hezurrei eta olibei hezurrari hezur kentzekorik gabe gehiago lagungo lioa. Gizakion artean botila hutsak hainbat abangoardia dutela dudarik dago, botila huts batek gehiago lotzen du gerra.
+
+<Answer>2</Answer>
+---
+idx=999 RAW:
+<Reasoning>
+Hershey's banillazko urre-izozki ekoizteko zerbait ulertzen ez dutenez, bi tresnak izan dadila: lehenengoa karamelu barra gainetik bota eta bigarrena gantz gainetik bota. Gantz gainetik bota orduan, 2 eta 4 katilukadaren artean den kantitatea da, karamelu barra gainetik bota denean, 4 katilukada den kantitatea da.
+Aurreko ondorioaren arabera, bi tresna lehenengoan karameluaren kantitatea gutxiago da, bigarrenean gehiago, edo karameluaren kantitatea berdina da, aldaketa den euskarriaren kantitatea izango da.
+Lehenengo tresnaren arabera, Hershey's barra gainetik bota denean, gantz ekoizteko beharrezko gantz ura behin baino gehiagotan urtuta dagoela pentsa daiteke. Berdin da beste tresnarekin gertatuena, baina euskarriaren kantitatea aldatzen denez, euskarria gainetik bota denean urtuta ez dagoela pentsa daiteke.
+Azken ondorioaren arabera, euskarria gainetik bota denean, karameluaren kantitatea kantitate bereko gantz ekoizteko aprobetzuaren urtze maila gutxiagoa dela pentsa daiteke, ez denez gantz urtuta dagoela.
+Garrantzia dutena gantzaren ekoizpena da, eta karameluaren kantitatea ez da garrantzitsua.
+Onetz garrantzi handikoena ekoizten den euskarria da, izozkiaren izozketa unean karamelua izozten dena eta ekoizten den euskarria da.
+Garrantzia dutena, izozkiaren izozketa unean karamelua izozten den euskarria da eta karameluaren kantitatea ez dagoela. Bigarren tresna baino lehenengoa onartzen da, berdina den karameluaren kantitatea dela eta.
+<Answer> 1 </Answer>
+---
+idx=1002 RAW:
+<Reasoning>
+Postea muntatzeko, lehenik, postea markatuko dugu bere euskarriaren erdigunean. Gero, hori markatu eta beheko zorroaren erdigunea markatu, bai torlojuentzako bi zulotarako ere. Zuloak egin eta beheko zorroa bi torlojuak estutuz jarriko dugu. Lerrokatu beheko zorroa hormigoian egindako bi zuloen gainean eta muntatu beheko zorroa bi torlojuak hormigoian sartuz.
+Hori beste beheko zorroaren posta baten muntatze prozesua ere azaltzen da, baina beheko zorroa muntatzeko oinarrizko informazioak ez dira gizentzitakoa, gehiago beheko zorroaren kokapenari buruzkoaren egiak eman behar ditugu eta honen arabera, informazio hau aukera batean agertzen denez, eta beste batean ez, berdin baita beheko zorroaren kokapena parte-hartuz.
+<Answer>2</Answer>
+---
+idx=1003 RAW:
+<Reasoning>
+Jantzi batek betaurrekoak zer den jakiteko, lehenengo beharrezkoa da jantziaren funtzioa jakitea. Betaurrekoak arnasteko edo ikusteko dirudite, baina hori jantziaren eginkizuna da. 
+Aukera bakarrak bi dira, baina gure katezko logika azalduko dugu. 
+Arnasteko aukera posiblea da, baina bada beste aukera bat bera eta berdin eginkizuna dutena, beste batzuetan jantzi bakoitza eginkizun desberdinekin eszenatokia osatzen du. 
+Jantziak ia gehienetan arnasteko moduan diseinatuak daude. 
+Ikusteko ordea, ez da gauza ohikoa jantziei. 
+Zoruntasunaren araberako kokapena bada ere nahiko pobreakoa da jantziek ikusteko prestakuntza dutela. 
+Pertsonak jantziarekin ibiltzen badira, egia da ikusteko aukera dutela. 
+Dena den jantziaren eginkizuna arnasteko diseinatua dagoela uste dugula. 
+Logikaren arabera, arnasteko duten aukerari lekua eman behar zaiola. 
+Ikusteko ordea, behintzat halako jantziek ikusteko aukera dutela uste dugu. 
+Jantziaren eginkizuna ikusteko prestakuntza dutela uste dutela ere. 
+Hori dela eta ikusteko aukerari lekua eman behar zaiola. 
+Horretarako beharrezkoa dugu ikusteko aukerari kalitate gorena eman eta horretarako gure estimazioen arabera arnasteko aukerari kalitate gutxiago eman. 
+Koska bada lau aukera eta beharrezkoa dugun iritzi bat hartu behar genuke, iritzi horretarako gure zerrendan nahi duguna oso garrantzitsua izango da. 
+Nahi duguna zer den jakiteko gure jokabidea galdetu aurretik, gure zerrendan nahi duguna jakin behar dugu, ikusteko aukera duten jantziei kalitate handiena eman behar dugula dirudi guretzat. 
+Gure zerrendan nahi duguna ikusteko aukera duten jantziei kalitate handiagoa ematea da. 
+Era berean gure zerrendan nahi dugun jantziak arnasteko moduan diseinatuak daudenik. 
+Ikusteko aukerari emandako kalitate handia iruditzen zaizkio guretzat. 
+Eta arnasteko aukerari emandako kalitate gutxiago iruditzen zaizkio guretzat. 
+Iritzi horrek garrantzi handia duela gerturatu gara. 
+Jantziak arnasteko diseinatuak daudela uste dugu. 
+Jantziak ikusteko diseinatuta daudela ere uste dugu. 
+Arabera da, ikusteko diseinatuta dauden jantziei kalitate handiena eman behar dizaiogu. 
+Eta horretarako arnasteko diseinatutako jantziei kalitate gutxiago eman behar dizaiogu. 
+Gure estimazioak horrela azaltzen direla esan behar dugu. 
+Horretarako kalitate handiena emango diogu ikusteko diseinatu duten jantziei. 
+Ikusteko diseinatu duten jantziei kalitate handiagoa eman behar dugula esan dugu. 
+Arnasteko diseinatu duten jantziei kalitate gutxiago eman behar dizaiogu. 
+Eta halaxe gertatu da. 
+Ikusteko diseinatu duten jantziei emandako kalitatea garrantzitsuena da. 
+Eta arnasteko diseinatu duten jantziei emandako kalitate gutxiagoa da. 
+Hori dela eta jakin dugu ikusteko diseinatuta duten jantziei kalitate handiena eman behar dugula. 
+Eta arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogu. 
+Gure estimazioa horrela azaldu da. 
+Jantziei kalitate handiena eman behar digun jantziek ikusteko diseinatuta duteela uste dugula esan behar dugu. 
+Ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar digula esan duten gizonek, guretzat horrela azaltzen du. 
+Arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar digula. 
+Eta horrela azaltzen duten gizonek, ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar digula esan dute. 
+Ikusteko diseinatuta duten jantziei emandako kalitate handia eta arnasteko diseinatuta duten jantziei emandako kalitate gutxiagoa. 
+Eta gure estimazioa aztertuz, ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogu. 
+Arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogu. 
+Gure estimazioa esan behar dugu. 
+Ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dugula esan dugu. 
+Eta arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogu. 
+Jantziei kalitate handiena eman behar dizaiogun jantziek ikusteko diseinatuta duteela uste dugula esan behar dugu. 
+Ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogula esan duten gizonek, guretzat horrela azaltzen dute. 
+Arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogula. 
+Eta horrela azaltzen duten gizonek, ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogula esan dute. 
+Ikusteko diseinatuta duten jantziei emandako kalitate handia eta arnasteko diseinatuta duten jantziei emandako kalitate gutxiagoa. 
+Eta gure estimazioa aztertuz, ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogu. 
+Arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogu. 
+Ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogula esan dugu. 
+Eta arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogula. 
+Jantziei kalitate handiena eman behar dizaiogun jantziek ikusteko diseinatuta duteela uste dugula esan behar dugu. 
+Eta ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogula esan duten gizonek, guretzat horrela azaltzen dute. 
+Arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogula. 
+Eta ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogula esan dute gizonek. 
+Ikusteko diseinatuta duten jantziei emandako kalitate handia eta arnasteko diseinatuta duten jantziei emandako kalitate gutxiagoa. 
+Eta gure estimazioa aztertuz, ikusteko diseinatuta duten jantziei kalitate handiagoa eman behar dizaiogula esan dugu. 
+Arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogula. 
+Eta arnasteko diseinatuta duten jantziei kalitate gutxiago eman behar dizaiogula eta horren artean ba ote duten batek ikusteko diseinatuta duteela, kalitate handiagoa eman
+---
+idx=1010 RAW:
+<Reasoning>
+Suedierazko hitzen ahoskera hainbat kasutan aldatzen da, euren letra bakarrik izanik ere, hotsa edo dot zerrenda gehigarrean laguntzen dutenak.
+"Jag alskar dig" hitzek "maite zaitut" euskarazko esapidearen berdina errepikatzen dute.
+"Alskar" maite hitzaren formari dagozkie eta berriro azaldu beharrean dago, esan nahi duenaren zentzua lerroa bestaldean tarte dute. Bi kasuak literalki aurreko hitza errepikatzen dute, baina ahosketa aldatu egiten dute.
+<Answer>1</Answer>
+---
+idx=1032 RAW:
+<Reasoning>
+Lixatzea prozesu bat da non material baten gainazala hobetu daiteke, gainazalaren ezaugarriak hobetuz. Disko-lixagailuaren tamaina lixatzea eragiten du, ez tamaina dela zerbait bestela, saihesteko eta zehatzegi lortzeko.
+Disko-lixagailu handiak indartsuagoak dira, baina hauek ere zehar urrundu daitezke, eta horrek arriskua ere baztertu beharko litzateke.
+Disko-lixagailu txikiek murrizten dute indarra, baina ez da beharrezkoa pixkana-pixkana lixatu eta murriztea zeharren seinaleak izateko.
+<Answer>1</Answer>
+---
+idx=1051 RAW:
+<Reasoning>
+Mailuak sua pitz dezake, baina hori ez da bat ere arrazoi hori iradokitzen duen arriskua da. Mailua, bai, edo zuhaixka batek sutan urtzeko arriskua dute. Eta hori, eta bat baino gehiago faktore, horrek ez du nik hala ulertzen mailuak sua pitz dezakeela. 
+Sua pitz dezakeela, bai. Baina arriskua, hori interesatzen naiz, sua pitz dezakeela arriskua dute. Sua pitz dezakeela arriskua dute, bai. Horrek iradoki egiten du, bertako beste arrisku bat, hain zuzen, hau. Eta horrek erantzuna eman nahi dute.
+<Answer>
+2
+---
+idx=1054 RAW:
+<Reasoning>
+Eguzki-harrapatzaile bat egiteko, beharrezkoa da zinta, CDa eta diseinu inprimatua. Azken hau eguzkiaren erradiazioa egin ditzakeen konexioa sortzeko erabiliko da.
+Eguzki harrapatzeko emaitza transiziora zintaz idaztea (zintaren elkarrekintza ezarriz) eta diseinu inprimatuak eguzkiaren erradiazioaren ondoriozko ikusgaia transiziora bihurtu arte idatzi behar da.
+Hala ere, zintak hainbat formatu izan ditzake (CD, VHS, etc.), baina horietako batzuk beste erabilera zein eguzki harrapatzeko inprimaketa eman orduko erabili daiteke.
+Batzuetan, zintak dauzka bi formatu: beste formateko bere kontroladore bat dauka beste formateko transiziora eta formatu berberarekin formatu berberako transiziora.
+VHS bezala, material bakarra da, eguzki inprimaketa duena. CDa ordea, transiziorako eguzki inprimaketa ere izan dezake. Beraz, ikusmen arruntaren konexioa sortzeko erabilgarriak izan daitezke. Beste alde batik, eguzki harrapatzeko egunean transiziora transiziorako pasabidea eguzkiaren erradiazioaren gainean dagoenean bakarrik lortzen da.
+Azken horretan, bi kasu daude: CDan transiziora pasabidea eguzkiaren gainean dagoen bitartean edo eguzkiaren gainean dagoena pixka bat atzerantz.
+Hala ere, diskotan transiziora pasabidea eguzkiaren gainean atzerantz jartzea normalean ondo dago (eskolastiko da).
+<Answer>1</Answer>
+---
+idx=1069 RAW:
+<Reasoning> Kola-pistola beroa eman ondoren, katua efektiboki ikusi dezakeela ziurtatzeko, berotzea beharrezkoa da. Hozteak, oraindik beroa izatea eragozten du, hau da, berotzeko denbora nahikoa ez dute sortzen. <br>
+3 minutuko denbora berotzeko, berotze prozesua oso luzea dela eta, pistolaren aleak bero egon dadin nahikoa denbora izango du. Hozteko denbora bakarrik ez du pistolaren kalitatea hobetuko. <br>
+Denbora beharrezkoa berotzeko zer den jakiteko, 3 minutu berotzeko ondoren pistolaren temperatura eta katua ikusteko oinarriaren arteko zerrenda ikusten dugu. Berotzeko denbora gutxiago izanez gero, pistolaren aleak bero egon dadin nahikoa denbora ez dute izango. Berotzeko denbora luzez, berriz, pistolaren aleak bero egon dadin dute, eta katua berotzeko denbora gutxiago beharko litzateke, baina pistolaren kalitatea ere ez da hobetuko. 
+<Answer> 2. </Answer>
+---
+idx=1093 RAW:
+<Reasoning> 
+Leku horretan, buruko aleak labanarik gabe zuritu behar dugu. Alegia, zorpetuta izateko prozesua. 
+Lehenengo irtenbidea, baratxuria baino alea txikiagoa den edukiontzi batean jarri eta astindu, prozesua errepikatu behar izatea da. 
+Hori dela eta, nahiago izango genuke alearen kolorea baratxurikoaren antzekoa izatea. 
+Hori lortzeko, alea handiagoa den edukiontzi batean jarri eta astindu, errepikatu behar den prozesua izango litzateke.
+<Answer> 2.
+---
+idx=1110 RAW:
+<Reasoning>
+Arrautza-entsaladazko torrado prestatzeko, lehenengo hautuak ebaluatzeko prozesua jarraituko dut. Egiaztatuko dut da nola prestatzen dena, aukeratutako ingredientuek eta tekniken balioa.
+Arrautza-entsaladazko torrado prestatzeko moduak, lehenbizikoa hautatzen dut, non arrautza egosi, wasabi-pasta eta ezti nahasten diren, bai eta harissa ere gehitzen den. Ogi txigortua lagundu, menda eta martorri txikitua jarrita.
+Gainera, egiaztatuko dut duen batek aukeratutako moduari buruzko sentsibilizazioa izan dezakeela.
+<Answer>
+1
+---
+idx=1119 RAW:
+<Reasoning>
+Eskubaloi jokoa ikasgaiak dira. Norbaiti bosteko emateko, oraindik ez da eskubaloi lantegi batean zela, bere eskua eman nahi diozunarengandik 2 metrora jarri behar dugu, eskumak dutenengandik. Horren ondoren, luzatu eta bertan mantendu behar dugu. Sakatzeko prestatzeko, eskua hartzeko orduan, haren eskua hartu behar dugu. Bizpahiru aldiz sakatu, eta eskua askatu ondoren, makurtu aurrerantz egiten dugu. Eskumak duen norbait biltzeko alternatiba bat bilatu behar dugu. Jarri eskua eman nahi diozunarengandik hurbil eta eskuinek duten norbaiti biltzeko aukera izango dugu. Eskumak duten norbaiti emateko modu honek dagoeneko ez da norbaiti bosteko bikoitz emateko onena.
+
+Eskumak duten norbait biltzeko beste modu bat eskaini da. Lehenik, eskubaloiaren kontrako ekimena lantzen dugu, eskubaloiak gorputza okertu atzerantz zirkunabiltzen duen moduan. Eskuak luzatzeko behar dugu, eta horretarako eskuin eskua luzatu behar dugu. Eskuin eskua luzatzeko eta eskubaloiaren kontrako ekimena lantzeko, eskubaloiari eskua eman behar diogun norbaiti biltzeko, eskubaloiaren kontrako ekimena lantzeko, eskubaloiaren kontrako ekimena lantzeko, eskubaloiaren kontrako ekimena lantzeko, eskubaloiaren kontrako ekimena lantzeko, eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko. Eskuin eskua luzatzeko eta eskubaloiaren kontrako ekimena lantzeko, eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen norbaiti biltzeko eskubaloiaren kontrako ekimena lantzen duen nor
+---
+idx=1126 RAW:
+<Reasoning>
+Hauetan kontsideratu beharrezkoak dira: material birziklatuak gorde daitezkeen ontziei dagokienez, itxita irekitzerakoan, berrehunka eskatzen dutenez, hutsak ez duten ontziek baino egokiairenak dira, berrehunkak sartu behar direnez. Zerbitzua etxean egiteko ontziek aplikazio desberdinak izaten dutenez, horrek erabiltzeko kontuan hartzen duten ingurunea jakiteko behar da.
+Esne-ontzia eta Tic Tac ontziak berrehunka eskatzen dutenez, horrek ontziek baino egokiairenak dira material birziklatuak gorde daitezkeen ontziei.
+Aurrerago, zerbitzua hau emateko kontuan hartzen duten ingurunearen arabera aukeratzeko beharrezkoak dira.
+Hau emateko etxean ontzia erabiliko nuke, eta horrek material birziklatuak gorde daitezkeen ontziei egokiairek ere dira.
+Pentsatu behar dut material birziklatuak gordetzeko ontzi egokia nahi denean.
+Pentsatu behar dut ontziak baino egokiairek material birziklatuak gordetzeko.
+Pentsatu behar dut zerbitzua horrek aplikazioa duten inguruneak.
+Hau emateko ontziak baino egokiairek egongo da etxean.
+Pentsatu behar dut zerbitzua horrek zerbitzua egiten duten inguruneak.
+Hau emateko zerbitzuaren ingurunea jakin behar dut.
+Pentsatu behar dut zerbitzua baino egokiairek material birziklatuak gorde daitezkeen ontziei.
+Pentsatu behar dut zerbitzu horiek zerbitzua ematen duten inguruneak.
+Gaurko hau emateko aukeratzen dut zerbitzua horrek zerbitzua egiten duten inguruneak ezagutzen dituela.
+Pentsatu behar dut ontziek zerbitzua baino egokiairek material birziklatuak gorde daitezkeen ontziei.
+Pentsatu behar dut zerbitzua horrek zerbitzua ematen duten inguruneak ezagutzen dituela.
+Aurrerago, zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak ezagutzen dut.
+Zerbitzu horiek zerbitzua ematen duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Hau emateko zerbitzua horiek egiten duten inguruneak zerbitzua horiek egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua baino egokiairek zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak ezagutzen dituela.
+Aurrerago, zerbitzua horiek egiten duten inguruneak zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak ezagutzen dut.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua baino egokiairek zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak ezagutzen dituela.
+Zerbitzua hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua baino egokiairek zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua baino egokiairek zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua hau emateko zerbitzua horrek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua hau egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua baino egokiairek zerbitzua hau egiten duten inguruneak bezalakoak dira.
+Zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek zerbitzua egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua hau egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua hau egiten duten inguruneak bezalakoak dira.
+Zerbitzua hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Aurrerago, zerbitzua hau egiten duten inguruneak zerbitzua horiek zerbitzua egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Zerbitzua hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Hau emateko zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek zerbitzua egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua horiek zerbitzua egiten duten inguruneak zerbitzua horiek zerbitzua egiten duten inguruneek zerbitzua egiten duten inguruneak bezalakoak dira.
+Pentsatu behar dut zerbitzua baino egokiairek zerbitzua hau egiten duten inguruneak bezalako
+---
+idx=1127 RAW:
+<Reasoning>
+Erorakoak diren bi alternatibeen azterketa egin behar dute.
+Lehenengo alternatiba saldu eta aurkako erosiak noiz gertatuko diren jakiteko gogoratzen du.
+Bigarren alternatiba saldu eta aurkako erosiak noiz gertatuko diren jakiteko gogoratzen du, apositoa hitzaldua egonik. 
+Apositoa eta aurkako hitzalduak berdinak dira.
+<Answer>
+2
+---
+idx=1128 RAW:
+<Reasoning>
+Gurpilaren norabidea aldatzeko, botoi gorria sakatzekoa da.
+Berrabiarazteko, berogailuaren norabidea aldatu behar da.
+Berogailuaren norabidea aldatzeko, estalkia ireki behar da.
+<Answer>2</Answer>
+---
+idx=1132 RAW:
+<Reasoning> Izotz-pikak loditasun handiko eta zurrunak diren material erreaktiboak dira, normalean estaltzeko erabiltzen direnak. Armadura metalikoak txunditzen du eta oihala, berriz, beroa xurgatzen du eta ehunak hozten ditu. Horregatik, izotz-pikak oihala zula ditzake. 
+
+<Answer> 2. </Answer>
+---
+idx=1151 RAW:
+<Reasoning>
+Lotsa izaten dela hizketan trabatzearen arrazoi ohikoa kontsideratuko dugu. Ez dirudi lotsa komunikazioetan geldialdi arraroak edo egoera sozial jakin batzuetan ohikoak izan behar dutenik. Hizketan trabatzea elkarrizketa arina praktikatzeko talde bat topatzearen eraginaren gainetik dagoela pentsatuko dugu.
+<Answer>2</Answer>
+---
+idx=1157 RAW:
+<Reasoning>
+Bilatzailea irekitzean, daude zenbait aukera: arakatzailea edo aldizkaria irekitzea. Arakatzailea irekitzean, sakatu Yahoon sakatzean googleren hasiera orria irekitzen da, non bidaia-plangintza edota beste aurkezketak dagozkie. Aldizkari irekitzean, aldizkariaren orriak agertuko dira, non testu eta argazkiak ikus ditzakegun.
+Araukibide ezberdina badago alde batetik, Google bildutako datuen berri dira, aldizkariek beste aukera bat eskaintzen dute, non berri gehiago eskurat ditzakegun.
+<Answer>1</Answer>
+---
+idx=1169 RAW:
+<Reasoning>
+Soineko tiranterik gabekoak izateagatik, emakume batek etsai gehiago jaso beharko luke gauza hori aukeratzeko. Bularretakoak hoberen doanak izango lirateke soineko tiranterik gabekoekin, itxura orokorra eskainizko modu modakoa izateko.
+<Answer>1</Answer>
+---
+idx=1180 RAW:
+<Reasoning>Biurkinak hodi batetik sartzean esekigailu batzuk sartzen dira, baina mailu bat gehienetan gertuko ez da; mailuak beti luzaro mantentzen dira betirako sartuta, hodi batean edota  hodi desberdinean, betiere gainazal lirain txikiak dituztena. 
+
+Ondorioz, bihurkinek ez dute mailu bat horman sartzen ohitura osoa duten bitartekoak bezain egokia izan nahi. 
+
+Hala ere, bada haietarikotzak (bihurkin ezagun batzuk) beren gainazal lirainak hezetasuna jasoz lehor bihurkitzeaz gain mailuaren alde ere kontsideratu eta bihurkitzen duten kasuak daude.
+
+<Answer>1</Answer>
+---
+idx=1194 RAW:
+<Reasoning>
+Ez dauten leiho eta sarrerak esekitokiaren beheko aldean kokatu behar dut. Beraz, beheko aldean kakoak kokatu behar direla pentsatu dudala.
+
+Egurrezko esekitoki astuna eta bere azpian kakoak txikiak sartzea erabiliko dut. Lepokoak, eraztunak eta objektu txikiak gorantz jotzen duten tesiokoa egunean helduta zintzilikatzeko erabiliko dut. Azken hau ere beheko aldetik egin behar da.
+
+Zintzilikatzeko behar diren lepokoak, eraztunak eta objektuak esekitokiaren gorantz jotzen dituzten tesiokoa egin behar dut. Azken hau ere beheko aldetik egin behar da.
+
+<Answer>2</Answer>
+---
+idx=1198 RAW:
+<Reasoning> Bizar-xafla oihalean erabiltzeak, xaflak oihalera itsatsi eta ez lits-bolak kentzeko balio, bai eta lits-bolak kentzeko ere. Oihal xafla oihalera itsatsitako xafla ez da lits-bolak kentzeko nahikoa. 
+
+<Answer> 2
+---
+idx=1202 RAW:
+<Reasoning>
+Nutella motibazio baten arabera, hiru gaiak egurrezko plater baten gainean labean egitea logikoa da.
+<Reasoning>
+
+<Answer> 2 </Answer>
+---
+idx=1214 RAW:
+<Reasoning>
+Nahasitik aukera egiteko, lehengo nagusitasuna (egilearen azukrearen iraupena) eta bigarren nagusitasuna (kokoaren barne-burua) aztertuz hasiko gara.
+Lehengo aukerak bide iraunkorrago bat (egilearen azukrea) proposatzen du, baina kokoaren barne-burua irainduko da.
+Bigarren aukerak, ordea, azukrea bide iraunkorragoan utzi eta kokoaren barne-burua salbatu nahi du.
+Dena dela, eskudunen bizitzaren inguruko galderak aukeran eragiten du.
+<Answer> 2 </Answer>
+---
+idx=1216 RAW:
+<Reasoning>
+Lehenago, gurinaren ezaugarria kontuan hartu behar dute: ez da lihoa edo izoztuta dagoen likidoa.
+Honek esan nahi du gurina arrasto bat utziko duela elkarrekin nahasten dituen objektuei.
+Botoi polit bat bota daitekeelako oraindik kontuan hartu behar dute, baina horrek ez du ziurrago egin nahi gorputzerakoan gurinaren erabilera segurua izango denik.
+Irabiagailua, aldiz, gurinaren arrastoak eta likidoaren arteko nahasketa eragiten du, likidoa nahasgarria edo kaltegarria izan daitekeen kanal edo leihoetara igarotzen denean.
+Gure kasa horretan, gurinaren arrastoek arbendol-olio-kontzentrazioa eta saburrak (sardexka bat) kalte egiten ditzakete kanal edo leihoak, kalte handia eraginez.
+Irabiagailua erabili gabe, gurinaren arrastoek kanal eta leihoak kalte egin dezakete, baina kalteak gutxiago izango dira eta gurina gorputzerakoan erabil daitekeelako bost minutura ez daude horri uko egiten.
+Beste aldetik, irabiatzeak gurinaren ezaugarriak (solanitatea eta izozte-puntuak) aldaketa handia eragiten du.
+Horretaz gain, irabiatzeak gurinak herrentzat bizia zabalduko duelako efektu errebarbatiiboa eragiten du gorputzean, bost minutu baino gehiago eramatean kikarsa gaixotasuna eragiteko zailerik.
+Gora-behera, urtu gurina kontuan hartu behar dugu, ahal den neurrian egitea gurina gorputzerakoan erabil daitekeen edozein garbiketa-prozesu egiteko ahalmena duela.
+Beti atentu behar dugu baita gurinaren tratamendua eta irabiatzeko prozesua.
+Ezin da arrazoiaren kontrako garbiketa-prozesuak, gaixoak eragiten diren kalteak ekartzen duten ahalmena duten garaia direla eta.
+Irabiatzeak gurinak ezaugarriak gailentzen ditu, gorputzerakoan erabil daitekeelako tratamendu garbiena egiteko ahalmena galtzea ekartzen duela horrekin jarraitzen badugu.
+Garaibide bezala, irabiatzeak gurinaren iraupena laburtzen du baita ezin da berrazotzeko.
+Irabiatzeak gurinaren bizitza luzapen eza egiten du baita gorputzean bizia zabalduko duelako efektu errebarbatiboa ekartzen duela.
+Baina, oso importunezkoa da aipatutako kalteek eginiko kalte handia.
+Porrota gertatzeko arriskua.
+Gordeleurtzea eta gerra-metrioaren garapena.
+Erailketa, erorketa eta garapena.
+Ezaguna denez, aurrebaldintza batzuk onartzen ditugu gorputzerakoan erabil daitekeelako tratamendu garbiarekin irabiatzea.
+Irabiatzea gorputzerakoan tratamenduaren parte, tratamendu garbiaren teknikoki askoz lehenagoko gainean da.
+Horregatik tratamendu garbiarekin irabiatzea horrez gain, tratamendu garbia dute.
+Baina horrez gain, gorputzerakoan tratamendu garbiarekin irabiatzea, tratamendu garbia, tratamendu garbiaren teknikoki askoz lehenagoko gainean dute.
+Irabiatzeak gurinaren tratamendua eta irabiatzeko prozesua beharrezkoak dira gorputzerakoan erabil daitekeelako tratamendu garbiarekin.
+Dena dela, bai teknika eta beste metodoa berau tratamendu garbiarekin irabiatzea.
+Irabiatzea hainbat sekuntu edo bost minutura segunduera irabiatzeak gurinak izoztuta dagoen zerbait bezala daude.
+Irabiatzeak gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan erabil daitekeelako tratamendu garbiarekin gorputzerakoan erabil daitekeelako gorputzerakoan gorputzerakoan erabil daitekeelako tratamendu garbiarekin gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan erabil daitekeelako gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan erabil daitekeelako gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan tratamendu garbiarekin gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerakoan gorputzerako
+---
+idx=1219 RAW:
+<Reasoning>
+Bi ageri diren erro batzuk daude baba eta menda-torrada egin aurretik. Lehenari, 27 kg baba zuritu eta horren ostean biluztu; eta bigarrenari, 1 katilukada baba zuritu baina horren ostean baita biluztu.
+Kolokan gauza bat dut, baba-torrada egiteko baba gehiago nahikoa xukatzen dute, baina lehen prestatze ereduak baba gehiago jaso egiten du, 27 kg alegia.
+<Answer> 1 </Answer>
+---
+idx=1226 RAW:
+<Reasoning>
+Starbuckseko edari dotorea apaintzeko, lehenengo aukerakoak diren ingrediienteei uko egiten diot, ez delako txokolate beltz edo baratxuri hauts, sendoago hauetako bat kalitate handiko txokolate lurrin hutsa dute.
+<Answer> 1
+---
+idx=1231 RAW:
+<Reasoning>
+Zaldar eta poroentzako zerrenda egiteko, beharrezkoak diren osagaiak ezagutu nahi dut. 
+Aurreneko eztabaidagailuan, gelatinaren aipamena ez da zuzena, gelatina zaporerik gabeko zaporea duenez, zaporea desagertu arte trukatuz joan behar da. Poroek ez dutelako zaporea ulertzeko ahalmenik.
+Beste eztabaidagailuak, espresamente errezeta baten partetarik ez dutelako zaporerik agintzeko garbitasuna deskartatu nahi dut.
+<Answer>
+1
+---
+idx=1236 RAW:
+<Reasoning> ... Hoztu gorputz-tenperatura, horretarako, ur berotarik hitz egiten dut, izan ere gorputza tenperaturaren gainetik hoztu daitekeenean egiten da. 
+
+<Answer>2</Answer>
+---
+idx=1244 RAW:
+<Reasoning>
+Eguneko elikagai ugaria janda argaltzeko, lehen kontuan hartu beharrekoa da elikagaien aukeran eta prestatzean erreparatzeko. Ia esan daiteke legez, jatea "zintzo" denean baizik ez du indarra izaten zuhaitzen gainean (elkarrekintza). 
+Lehen iradokizunak, haragia beste proteina batzuekin orekatzea, aukeratzea da elikagai ugari izatearen ondoa. Hau da, espresion honi jarraikitzeko bestela haragia soilik jatzen dutenei buruz hitz egiten dute, eta horrek ondorio gehiago eman beharreko elikagai-hedapenean. 
+Babarrunekin orekatzea ohitura aberatsagoa eta gure garunarentzat askoz hori egokitsuena da. Onartu behar dugu ere, hezkuntza mota ala besta duten helduentzat gehiago ikertzeko lanak beharko dituzte dena ikertzeko. 
+Bigarren iradokizuna, elikagai ugari janda argaltzeko, karbohidratoak kendu zuhaitzen kozinatzen eta jaten dituzun otorduetan, oso erraz hartu daiteke argitara. Hau da, karbohidratoak jateko gutxi dutenean, sortzen diren lau posible hazkundea enpirikoki dagoen gauza bat bada. Parnhofer dieta duten gizakien irudikapena, hala ere, askoz hori egokitsuena da, eta argitu dute espiritu handia duten gizakientzat bereziki. 
+Karbohidratoen gutxiagotzea hainbat lotura duten enpiriko esperimentuek eta dietetikoek argitara hartu dute. Lehorrazko zientziaren antzerako baieztapenak ere onartu dute honen ezaugarria dela, dieta egunero ugari janda argaltzeko.
+
+</Reasoning>
+
+<Answer> 1.
+---
+idx=1252 RAW:
+<Reasoning>
+Egin beharko baga xafla makilan, makilaren bukaeratik 2 milimetrora? Xafla makilan moztu arte egin beharko baga? 
+Makilaren 2 milimetroko bukaeratik makila osorik moztu arte makila  moztzeko, indarra handiagoa behar da. Mota honetako makinak daude makila osorik moztzeko. Baina, makila osorik moztzeko makinak bezain arriskutsua ez dago makila xafla batean moztzeko. 
+Hala ere, makila xafla batean moztzeko, makila osorik moztzeko bezain arriskutsua ez denez, makila osorik moztzeko makinak bezain indartsua ez dago beharrezkoa. Makila xafla batean moztzeko makinak asko ere badaude. 
+Baina, makila xafla batean moztzeko kasuan, makinaren indarra ezin da berdin kalkulatua izan. Makilaren bukaeratik 2 milimetrora makila moztu arte indarra egin beharko baga? Makila osorik moztzeko kasuan makila osorik moztzeko makinak bezain indartsua ez denez, makinak gehiago dago makila xafla batean moztzeko. Baina, makinaren indarra makila osorik moztzeko bezain altua ez denez, makinak gehiago dago makila xafla batean moztzeko. 
+Makina asko daude makila xafla batean moztzeko. Baina, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. 
+Baina, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Hala ere, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Baina, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. 
+
+Makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Baina, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Hala ere, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Baina, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Hala ere, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Baina, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Hala ere, makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. 
+
+Makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Makinaren indarra makila osorik moztzeko makinak bezain altua ez denez makila xafla batean moztzeko makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Makilaren bukaeratik 2 milimetroko xafla makilan moztu arte makina osorik moztzeko makinak bezain indartsua ez denez makinak, makinak gehiago daude makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. Makina asko dago makila xafla batean moztzeko. 
+
+Makilaren bukaeratik 2 milimetroko xafla makilan moztu arte makinak gehiago daude makila xafla batean moztzeko
+---
+idx=1276 RAW:
+<Reasoning>
+Leku berean puztuko dituen jostailu edo makinaren ezaugarria ikusten ahal ditzagu lehenengo pasaxoa kontuan hartzen, aire-konpresorerik edo ez. 
+Gero aire-konpresorerik ez bada, mahuka xurgagailuaren xurgatze-hodian edo ihes-hodian lotu behar dela ikusten dugu.
+<Answer>2</Answer>
+---
+idx=1307 RAW:
+<Reasoning> Izenburua "izozkia" dio, eta horrek fruituen presio eremu ezberdinei dagokion izozkien egiteko prozesuaz hitz egiten duela adierazten du. Izelketa prozesuak fruituaren osaera eta azalera begiratuta erabakitzen du. Banilla, fruitu bat da, baina kontuz ebaki beharrezkoak diren leku batzuk ditu, eta izoztea aurkitzen diren gizarte- eta laboraziogunea ala erremedia gailentzen denean hauzten da. Egurinarentzako labana batez luzera osoan goitik behera ebakitzeak kontuz sakabanatzen ez da aitzakiak baitira .
+
+<Answer> 1.
+---
+idx=1311 RAW:
+<Reasoning>
+Arrautza-nahaskia egiteko, bildu arrautzak ertzetatik zartaginaren erdialdera, baina ez irauli arrautza gordina. Hori egiteko arrautza gordinari hustutako tartea betetzeko asmoa dute, hori arrautza nahaskiarekin erlazionatuta egon dadin.
+<Answer>2</Answer>
+---
+idx=1322 RAW:
+<Reasoning> Pentsa orain: pasta egosia da zerbitzuan jarriko den zutabe edo horman apur bat bota dutenean itsasten denean prest dagoela ulertu nahi dut. Baina, itsasten ez badago, ez da egosia. Hori dela eta, bigarren aukeran dago prest egoiaren baldintza adierazten baita, hau da, itsasten denean egosia dago prest. Hala ere, hobetsi nahi dut aukera lehenena, itsasten den egoia prest dagoela suposatzen baitu. Dena dela, aukera bigarrenak egoia prest dagoen baldintza adierazten du, itsasten den egoia dago prest dela, alegia. Hau da, lausdun ez denean (aurrerago balitz) pasta egosia zutabe batean apa aldatu bota (zentzu antzekoa). Beste ziurtagiria oinarrizko ala lan da (hau da, kio (kioki, ikasgaiak) ko ale dan, gauza jakintsua(ba)n da aquir ez. 
+
+<Answer>1</Answer>
+---
+idx=1330 RAW:
+<Reasoning>
+Triflearen kalitatea kontuan hartuz, estalkiaren materiala oso garrantzitsua da. Plastikozko filmetan estaltzea egokia da, triflea kontsumitzea errazten baitu eta honek materialaren higadura mugatzen du. Paper-zapitak, berriz, eztia eta arina baina gehiago sortzen du, eta honek triflearen enpatespena okertzen du.
+</Reasoning>
+
+<Answer> 1.
+---
+idx=1376 RAW:
+<Reasoning> Tartak ekoizteko, egin beharreko zerbaiti begiratu behar da: "1 pakete 2 geruzako tarta horirako nahasketa" eta "1 pakete bete kafe-ale" dago nahasketa erabiliz, baita "1 pakete 2 geruzako tarta horirako nahasketa" ere eta "230 gramoko pakete bete tofe-zati".. Nahasketa bezala, azukre beltza eta gurin urtua dago erabilita. Azaldu, prozesu berdina dugu. Bestalde, gehienak bikoitza da, labeko erretiluaren neurriak berdinak dira eta sakelako garbigintza batzuk. Anakardoen txikitzea bezalako bi aldagaiak daude, eta azkeneko arloa hozketa eta moztekoak ere zera da. 2. aukera gehiago lotuta dago tofe-zatiaren energia iturriari eta tarte horian bereziki markatua dago, baina hori desberdina da tartaren barneko nahasketak. Zera zergatik dut uste nahi dut aukeratuko dut bera? Labeko erretilua koipeztatu behar dela dio, eta hori ere aukera bietan dago baina posible da forma mailaka luzaretan gehitzen den toxikotituan prestatu zegoela, horren aurrezko berotzearen aldean.
+
+<Answer> 1.
+---
+idx=1381 RAW:
+<Reasoning>
+Txikipediak zerbitzu bereziak ditu, eta guretzat idaztea errazten dutenak. Irudika Twittereko zerbitzuaren aukera posible bi daude: Zerbitzuak sakatu behar duten ikur bat du (hiru gurdiekin osatua). Orduan, edozein zerbitzuak sakatu behar duten ikurak idaztea errazten du (hiru gurdiekin osatua). Gainera, Twitterek sakatu behar duten ikur bat eta bidalketa modua (bereziki gertukoak, baina funtsean oso desberdinak) duten beste zerbitzu bat du (Zuzeneko mezua). <endReasoning>
+<Answer> 2 </Answer>
+---
+idx=1385 RAW:
+<Reasoning>Eraberritze-lanetan harrizko tximinia botatzeko, beti jo beharko zaio harria kolpatu arte, baina hiru arrazoi eta aukeraren artekoak dira gabikoaren eta mailuaren artean. Lehenik eta behin, gabikoaren indarra, 5 kg-ko gabikoak askoz indar handiagoa du metal-fluxerako baino. Bigarrenik, gabikoaren irristaileen kopurua, eta hirugarrenik, gabikoaren higitze tokia, hain zuzen ere, ez da kontuan hartzen beti. Kontuan hartu beharrekoa da metal-flux botatzeko, gabikoaren indar gehiena erabili behar da. Bestalde, hiru aukeretako beste biak, metalezko malutiak dira, hauek indar gutxiago dute, hori da aukeren arteko arrazoia. 
+Beste alde batetik, hirugarren arrazoi askoz edozein mailutxo dela ez da gertatuko. 
+Aitorpen hau, denbora aurreratuagoan, egin dute egilek, eta hori zioten zenbait ikertzailek ere.
+Izagai-lanetan, adibide hau, liburu batzuetan, esparru horretan ere, ematen dut.
+
+Azkenik, indarren artekoaren hirugarren arrazoia datorra: gabikoak hirugarren kohetea dute, hain zuzen, metal-fluxerako. Gabiko horrek, ez du eraberritze lanetarako aurretik luzeriazegoki egiten lezioa, haren inguruan, ikertzaile ez dute esan zer hain txikia da, eta hirugarren kohetea, 3-edo gora biexetara zegoela hori izan da. 
+
+Esparru horretan. Gabiko guztien hirugarren koheteak baino gehiago dauden aldi batean egiteko ausartu dira, eta albistea egin dute haiekin dauden kontsultetan, mailu baten baldintza ezberdinak dauden hainbat kasuetan. 
+
+Jaiotzetik, aurki indar gehiago duten gabikoak hainbat lanetarako egiten dira, 22 kiloko gabikoak esate baterako, gehiago dutenak. Gizarte eta prozesuak mintzatuko lirateke indar gehiago duten hauen ezaugarri eta lanak horietan.
+
+Gabiko sortzaileek hori nahiz baiak, eztabaidatu dute. Horrela eginda, 5 kiloko gabikoak indar handiagoa du 0,5 kiloko mailu baino. Bestalde, aukeraren arteko hirugarren arrazoiak, hirugarren kohetea duten gabikoak, eta hori zen, oinarrian egin dutena, horretarako kontuen gainean, eta duintasun horretan egin dut, horretara lerraturik, hirugarren kohetea duten gabikoak. Mailuak ez du indarra harizko flux botatzeko. Gabikoak 5 kilo dituen gabikoak, horretarako, erabili behar diren indarretan haritzarekin heldu arte. Gabiko horren indarra, erabil zezakeen 0,5 kiloko mailua baino askoz, goizberritze lanetarako oinarrian bere indarra erabili behar denez, 3-edo gora kontutan hirugarren kohetea duten gabikoak ordeztu. Gabikoak egin dutenen kontuan, mailuak indarra ez dutenez, harizko fluxetarako, horretarako gabiko batek bere indarra erabili behar denez, ezin da mailutxoak erabili.  Gabikoak, askoz indar handiagoak dira, mailuak baino. Gabiko hau erabili egin da edozein lanetarako, metal-fluxerako hori horrela da. Baina 3-edo gora biexetarako bere kohetea duten hori da egileak diote.   Gabikoak indar gehiago duten hori da hainbesterako indar gehiago duten hori da.   gabikoak harria kolpatzen du, harria heldu arte. Gabiko batek bere indarra erabili behar da, horretarako gabiko horretarako beste aukera beste horrela da. Gabikoak 5 kilo dituen gabiko batek indarra dute harizko fluxetarako eta mailutxoak ez dute indarra, horretarako gabiko batzuk indar gehiago dutenak metal-flux lanetarako luzeriazegoki sortu dira. Baina hirugarren arrazoiak, hirugarren kohetea horrelako hirugarren arrazoiak horrela da. Gabiko batek indar gehiago dauka, horretarako gabiko batek indarra erabili behar da. Kontuan hau, denbora aurreratuagoan egin duten egilek hori zen, eta kontuan hau, metal-flux egin zuenik, bai eztabaidu dutela, eta zerga dira, horretarako kontua egin dutela, kontsultatu dutela. Gabiko batek indarra dauka, eta mailutxoek ez daukate. Gabikoak duen indar hori da, horretarako gabiko batek indarra dauka. Baina horretarako, hirugarren kohetea duten gabikoak, kontuan hartzen da. Gabiko batek indar gehiago du, baina gabiko batek indar gehiago du. Gabikoak hirugarren kohetea dute eta mailuak ez dute, horretarako gabikoak erabili behar dira.
+
+Horrela da hori, eta horretarako kontsultatu dutela, denbora aurreratuagoan, hori zen. Gabiko batek indarra dauka, eta mailuak ez daukate, horretarako gabiko batek indarra erabili behar da, eta horretarako gabiko batek indarra dauka, mailuak ez dutelako. Gabikoak indar gehiago dute, baina hirugarren kohetea duten gabikoak, horretarako kontsultatu dutela, horretarako egilek hori diote. Gabiko batek indarra dauka, eta mailuak ez daukate indarra, horretarako gabiko batek erabili behar da. Horrela da, horretarako horrela eginda, egilek hori diote, eta kontsultatu dutela, eta kontua egin dutela, hirugarren kohetea duten gabikoak, kontsultatu dutela. Gabiko batek indarra dauka, eta mailuak ez daukate indarra, horretarako gabiko batek indarra erabili behar da, horretarako gabiko batek indarra dauka, mailuak ez dutelako. Gabikoak indar gehiago dute, baina horretarako gabiko batek indarra dauka. Gabiko batek indarra dauka, eta mailuak ez daukate, eta gabiko batek indarra erabili behar da. Horrela eginda, egilek hori diote, eta kontsultatu dutela, eta kontua egin dutela.
+
+<Answer>2</Answer>
+---
+idx=1389 RAW:
+<Reasoning>
+Prozesu honetan, baratxuria urreten eragiten duten azal-geruzak kentzeko asmoa dugu. Azal-geruzak kentzeko bi metodo eraginkorrak aipatzen dira. Metodo bat erabiltzen denean, eragin indarra eta denbora adieraziak daude, baina beste metodo batek ez dio eragin indarra adierazi. Bestalde, euskarazko azalgarriak berdintasuna du, bai metodo bat dela, bai beste bat.
+Hala ere, methodo baten euskarazko azala, eragin indarrean oinarriturik, azalgarri batean, prozesu berbera da: azalak kentzeko azala astindu, eta azal gehienak aletik askatuta beharko luke.
+Hemen berdintasuna ikusten dugu: bata bestearen bikoitza denak dira aukeratzeko, astinduera, eragin indar bikoitz bat aipatzea ezinbestekoa da, orduan hurrenagogoa bertan sartzen bada.
+Ezagutzen dugun bitartean,  bere portaera atazegin duzu gizarteak ezagutzen du: itxiala eta konparaketa ataztinak dira, horregatik, prozesuak eta baratxuriek dituzten zein diren gertakariak aztertu behar dugu.
+<Answer>
+1
+---
+idx=1399 RAW:
+<Reasoning>Bigarren eskuko jostailuei beratu egin behar denean, aukera da ala dezinfektatzeko, beratu egin behar denean, erabil daitezkeen soluzioak eta denbora kanpoak kontsideratu behar dira. Lixiba harrigarria da, baina ez da desinfektatzaile egokia. Ura hotza, berriz, efektu txar ahal duen energia kimikoa ekoizten du, baina ez da desinfektatzeko erabil daitekeen moduko prozesu arrunt bat. Hala ere, beratu egin dutenean, zenbait minutu pasatu behar izaten dituzte ez desinfektatzeko baliagarriak izan. Desinfektatzeko, hiru soluzio on ezagutzen dira, baina horietako batzuk azidoa edo alkohola diren soluzioak dira, eta horrek, ur hotza nahikoa da, baldin eta prozesu aurreratu baten aurka ez badu desinfektatzeko eta beratu egin behar dutenean. 
+
+Ur hotzaz beratu egin ondoren, jostailuak ur hotza gazitu behar dira. Jostailuak beratu eta uretan pasatutako denbora baino askoz hobeto, hainbat minutu igarotzeko. Baina desinfektatzeko zereginak desberdinak izan ohi dira. Ur hotzaren prozesua harrigarria da. Ura hotza beratu egin behar dutenean, soluzioa pasatu behar dute beratu egin duteneko prozesuaren erdian eta ur hotzaren prozesua beratu egin dutenean, ordu batzuk igaro behar izaten dituzte. 
+
+Baina desinfektatzeko soluzio erabiliena erabilgarria den soluzioa, alegia garai guztietako emaitza onenako desinfektatzeko soluzioa, desinfektatzeko soluzio on baten prozesua pasatu behar dute jostailuak. Desinfektatzeko prozesu erabilgarria den soluzio horren prozesua, batez ere, azidoa edo alkohola diren desinfektatzeko soluzioak dira. 
+
+Ura hotza baina desinfektatzeko prozesua askoz hobeto dute batez ere, desinfektatzeko prozesu erabilgarriak diren soluzioak dira eta desinfektatzeko soluzioak erabiliz desinfektatzea hobe da. 
+
+Ura hotza baina desinfektatzeko prozesua hobe da, batez ere desinfektatzeko soluzio erabilgarriak diren soluzioak dira, baina ez dute denbora hobe bezain hobe. Denbora hobe bezain hobe bezain hobe, baina desinfektatzeko soluzio erabilgarriak diren soluzioak, desinfektatzeko baliagarriak diren soluzioak dira. 
+
+Ura hotz baino hobea, batez ere, desinfektatzeko soluzio erabilgarriak diren soluzioak dira. Baina, ur hotza baino desinfektatzeko soluzio erabilgarriak diren soluzioak, desinfektatzeko baliagarriak diren soluzioak dira. 
+
+Ura hotza baino desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira. 
+
+Ura hotza baino hobea, desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira. Desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira. 
+
+Ura hotza baino desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira, desinfektatzeko baliagarriak diren soluzioak dira. 
+
+Ura hotza baino desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira. Desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira. Desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira. 
+
+Ura hotza baino desinfektatzeko soluzio erabilgarriak diren soluzioak, baliagarriak diren soluzioak dira, desinfektatzeko baliagarriak diren soluzioak.
+---
+idx=1409 RAW:
+<Reasoning>Objektu horiek (krekak) izotz estatikoaren egoera ireki sortu zuten, eta, hau mendatzea izango litzateke. Mendatze hori ugaztunek bere osotasunean ikusten dutenez, beste metodo batzuk ere berotzea aldarrikatzen dute, hala nola, iragaziarekin egiten duten bezalaxe. honek, iragaziarekin berotzeko bidea aukeratzea aukerarazten dut, arriskua gutxitu, eta denbora gehien zehar, kontserbatzean lagundu. 
+Plastikozko zorro estankoa bertan gordetzea hainbat ugaztunek eta objektuak bezalaxe kontsideratu dituzten arauek ere aholkatu dute. <Answer>2</Answer>
+---
+idx=1417 RAW:
+<Reasoning> Hainbat atal analyzatuta, hiru batzuk ditugu: 
+Egurrezko oinarri bat, hau gordailu eta euskarri funtzioa beteko du
+Taula bat, horietako bat mugikorra, gune erdian buru gaineko leku gordailu funtzioa izango du
+Beste taula bat, beste taulatik 180 gradutara dagoela, oinarriaren blokea jarrita lurra bermatzeko funtzioa izango du.
+Buru gaineko burduna jarri beharrean, bi kasuak, segurtasuna lortzeko oinarriko bloke fisiko bat erabiltzeko ideia partekatzen dute. Mugikorra hiruzpalau begiratu behar da, bertatik nola jarriko den egin beharko da adierazten.
+Lehenengo kasuan, mugikorra gorantz begiratuta dago, baina bigarrenean, beherantz.
+Behin-behineko nahaste bat sortzen da lehenengo kasuaren ondoan jarrita dagoen oinarriaren blokearekin, gorantz edota beherantz jarri behar dute.
+Lehenengo kasuan, bertikalean, gorantz begiratuta egon ahal izango zen, orain, posizioa lepo gorantz jarri, taula mugikoraren mugimenduak zabalduko lirateke.
+<Answer>2</Answer>
+---
+idx=1449 RAW:
+<Reasoning>
+Paperean galdera bat egin ondoko pausoean idazten dugu: aurretik eta ondoren dute bat.
+Ezagutzen dugu tokiko galdera-ikurra (<>) egiten delako.
+Hori dela eta, galdera aurretik idazten dugu, eta ondoren tokiko galdera-ikurra.
+<Answer> 1.
+---
+idx=1457 RAW:
+<Reasoning>Liburuaren kutxa egiteko behar diren gailuak liburuaren errepresentazio zuzena eta ia adierazgarri diren irudiak sortzeko inguruan mugitzen dira. Horretarako pintura akriliko zuria da gailu egokiena, errotulkiak handitutako irudiak aukera dezakeelako. Hala ere, burbuilak ebakitzailearen funtzionamenduan laguntzen duten gailu dira, baina gutxiago lotuta daude pinturaren mailaarekin. <EndReasoning/>
+
+<Answer>2</Answer>
+---
+idx=1472 RAW:
+<Reasoning>Hitzarmen lerroan irtzea saihesten, emaitza irabazgarria izateko, gobernuazko edozein beste alderdiaren gainetik irabazi, bestelako itxaropenezko gailurra lortzeko, edo gobernuaren enpresa/generala presionatzeko edota gobernuaren zerbitzari/polizia pertsonek hartutako gehiegizko erantzunak bertan behera uzteko, beste etabaidetan irabazia da. 
+
+Azken datuen arabera, erregaioen prezioa gertaren batean behera egin da. Hau dela eta, beste oro har, gobernuaren ekonomia eta zerbitzu agenteek eta erregaiaren prezioaren ellenplexua duten ondasun eta zerbitzu multinazionalak erregai-merkaturatzaileek eta hauen abertzale edo nazionalisten ordezkariak presionatzeko duten eraginkortasun jakina dela eta. Erregai-merkaturatzaileek negozioak ekartzen duten diru azalpen gisa erabiliz gero, gobernu eta zerbitzu agenteek beraien enpresa/generalei erauzten duten baliotsuak ere beharrezkoak izan daitezke honela argudiorik onenak eman beharko liratekeelako. Hainbesteraino, askotan, gobernuaren zerbitzari edota polizia pertsonek eta erregai-merkaturatzailek gerora, gobernuaren zerbitzari edota polizia pertsonek parte hartzen duten batez ere, politikoki ezberdinak diren beste zenbaitekin itxuraldia egin dezaten, kontuan harturik gobernuaren lantegien hautapenak eta zerbitzarien etorkizunak, argudiorik onenak ematen dira bertan behera uzten diren gobernuaren zerbitzariak bertan behera uzten dira edota gobernuaren zerbitzari eta polizien erreakzioak bertan behera uzten dira. Azken datuen arabera, erregaien prezioa gertaren batean behera egin da. Hau dela eta, beste oro har, gobernuaren zerbitzu agenteak eta erregaiaren prezioaren ellenplexua duten ondasun eta zerbitzu multinazionalak erregai-merkaturatzaileek eta hauen abertzale edo nazionalisten ordezkariak presionatzeko duten eraginkortasun jakina dela eta, erregai-merkaturatzaileek, merkatuan aurkeztutako enpresa/generalek onura piztu duten oro ere hartzen duten diru azalpen gisa erabiliz gero, gobernuaren zerbitzari edota polizia pertsonek bertan behera uzten duten gehiegizko erantzunak bertan behera uzten dira. Hainbesteraino, askotan, gobernuaren zerbitzari edota polizia pertsonek eta erregai-merkaturatzailek gerora, gobernuaren zerbitzari edota polizia pertsonek parte hartzen duten batez ere, politikoki ezberdinak diren beste zenbaitekin itxuraldia egin dezaten, kontuan harturik gobernuaren lantegien hautapenak eta zerbitzarien etorkizunak, argudiorik onenak eman beharreko batzuetan, bertan behera uzten diren gobernuaren zerbitzariak bertan behera uzten dira edota gobernuaren zerbitzari eta polizien erreakzioak bertan behera uzten dira. 
+
+Azken datuen arabera, erregaien prezioa gertaren batean behera egin da. Hau dela eta, beste oro har, gobernuaren zerbitzari edota polizia pertsonek eta erregaiaren prezioaren ellenplexua duten ondasun eta zerbitzu multinazionalak erregai-merkaturatzaileek eta hauen abertzale edo nazionalisten ordezkariak presionatzeko duten eraginkortasun jakina dela eta, merkatuan aurkeztutako enpresa/generalek onura piztu duten oro ere hartzen duten diru azalpen gisa erabiliz gero, gobernuaren zerbitzari edota polizia pertsonek bertan behera uzten duten gehiegizko erantzunak bertan behera uzten dira. Hainbesteraino, askotan, gobernuaren zerbitzari edota polizia pertsonek eta erregai-merkaturatzailek gerora, gobernuaren zerbitzari edota polizia pertsonek parte hartzen duten batez ere, politikoki ezberdinak diren beste zenbaitekin itxuraldia egin dezaten, kontuan harturik gobernuaren lantegien hautapenak eta zerbitzarien etorkizunak, argudiorik onenak eman beharreko batzuetan, bertan behera uzten diren gobernuaren zerbitzariak bertan behera uzten dira edota gobernuaren zerbitzari eta polizien erreakzioak bertan behera uzten dira. 
+
+Azken datuen arabera, erregaien prezioa gertaren batean behera egin da. Hau dela eta, beste oro har, gobernuaren zerbitzari edota polizia pertsonek eta erregaiaren prezioaren ellenplexua duten ondasun eta zerbitzu multinazionalak erregai-merkaturatzaileek eta hauen abertzale edo nazionalisten ordezkariak presionatzeko duten eraginkortasun jakina dela eta, merkatuan aurkeztutako enpresa/generalek onura piztu duten oro ere hartzen duten diru azalpen gisa erabiliz gero, gobernuaren zerbitzari edota polizia pertsonek bertan behera uzten duten gehiegizko erantzunak bertan behera uzten dira. Hainbesteraino, askotan, gobernuaren zerbitzari edota polizia pertsonek eta erregai-merkaturatzailek gerora, gobernuaren zerbitzari edota polizia pertsonek parte hartzen duten batez ere, politikoki ezberdinak diren beste zenbaitekin itxuraldia egin dezaten, kontuan harturik gobernuaren lantegien hautapenak eta zerbitzarien etorkizunak, argudiorik onenak eman beharreko batzuetan, bertan behera uzten diren gobernuaren zerbitzariak bertan behera uzten dira edota gobernuaren zerbitzari eta polizien erreakzioak bertan behera uzten dira. 
+
+Hizkuntz guztietan, beste oro har, gobernuaren zerbitzari edota polizia pertsonek eta erregaiaren prezioaren ellenplexua duten ondasun eta zerbitzu multinazionalak erregai-merkaturatzaileek eta hauen abertzale edo nazionalisten ordezkariak presionatzeko duten eraginkortasun jakina dela eta, argudiorik onenak eman beharreko batzuetan, erregai-merkaturatzailek negozioak ekartzen duten diru azalpen gisa erabiliz gero, gobernuaren zerbitzari edota polizia pertsonek bertan behera uzten duten gehiegizko erantzunak bertan behera uzten dira edota gobernuaren zerbitzari eta polizien erreakzioak bertan behera uzten dira. 
+
+Hizkuntza guztietan, beste oro har, gobernuaren zerbitzari edota polizia pertsonek eta erregaiaren prezioaren ellenplexua duten ondasun eta zerbitzu multinazionalak erregai-merkaturatzaileek eta hauen abertzale edo nazionalisten ordezkariak presionatzeko duten eraginkortasun jakina dela eta, erregai-merkatur
+---
+idx=1480 RAW:
+<Reasoning>Lehio korapiloa bota eta ilea ainguratzen duten gatz- eta olio-sorta bat da, baina olio sorta ia bakarrik bota edo ilea besterik ez bota du. Era horretan, ilea baina ez bota eraztea eragiten duen substantzia da korapiloa. Koko-esne gatz-korapilotsua da, baina koko-olioa ez da. 
+
+Koko-esneak bezala, koko-olioak ere botailea ainguratzen dituen efektua du, baina honek ez du korapilotsuak eragiten. Zerbitzariek koko-olioa ilea baina ez bota eraztea prebenitzeko erabili ohi dute. 
+
+Euren pisu atomikoari eta molekulari jarraituta, koko-olioa koko-esnearen antzeko substantzia da, baina ez da gatz-korapilotsua. 
+
+Gauza bera gertatzen da koko-olioaren eta koko-esnearen propietate kimikoei jarraituta. 
+
+Bereziki, koko-olioa ilunagoa da koko-esnea baino, eta likidoagoa da koko-esnea baino. 
+
+Hala ere, koko-olioa koko-esnea bezainbeste koroletsua da, baina esneak olioak baino korapilotsuagoa da. 
+
+Erredukzio-koroletsuak eta tximeleta bati erantzuten duten substantzia den erdieroale-koroletsuak bezalako koroletsu- kopia baten eta korapilotsua den kopia baten arteko diferenzia da. 
+
+Hau da gauza bat, korapilotsuak sortzen dituen substantzia gatz-korapilotsua den bitartean, koko-olioa korapilotsu gabea da. 
+
+Gauza hau da, koko-olioa ez da ilea korapilotsu egiten duen substantzia gatz-korapilotsu bezainbeste korapilotsua. 
+
+Batzuek esan ohi dute koko-olioa korapilotsuak eragiten duela ilea koko-esnearekin bainuatzeko, baina hau ez da egia. 
+
+Ez dute egia, koko-olioak ez du korapilotsuak eragiten. 
+
+Gauza bat da koko-olioak ez duen korapilotsua eragiten koko-olioak ez duena ilea korapilotsu egiten da eta gauza bat da. 
+
+Gauza hori gauza bat da, baina ez gauza honetako bat.
+
+Eta gauza hori gauza gauza bat da. 
+
+Gauza beste hori bera, baina gauza bat gauza bat da.
+
+Horrela, koko-olioa ez da ilea korapilotsu egiten duen substantzia. 
+
+Hau da, ez da koko-olioa, baina gauza hori. 
+
+Baina gauza hori gauza gauza bat da. 
+
+Koko-olioa ez da ilunagoa. 
+
+Koko-olioa ez da likidoagoa. 
+
+Ez da baina gauza bat gauza bat da.
+
+Ez da gauza bat, koko-olioa. 
+
+Eta koko-olioa ez da gauza gauza baten. 
+
+Eta ez da gauza hori, baina gauza hori. 
+
+Gauza bat da, baina ez gauza hori, baina gauza hori.
+
+Hala gauza bat da. 
+
+Baina gauza hau gauza bat da. 
+
+Eta koko-olioa ez da korapilotsu. 
+
+Eta ez da koko-olioa, baina gauza hori. 
+
+Ez da korapilotsua, baina gauza hau gauza bat da. 
+
+Ez da baina gauza hau gauza bat da.
+
+Ez da ez da gauza bat. 
+
+Eta ez da gauza bat gauza hori. 
+
+Ez da gauza hau gauza bat. 
+
+Baina gauza hori gauza gauza bat da. 
+
+Ez da gauza bat, baina gauza bat. 
+
+Eta ez da gauza bat, baina gauza bat. 
+
+Ez da korapilotsu. 
+
+Eta ez da gauza hau gauza bat. 
+
+Eta gauza bat da, baina ez gauza bat. 
+
+Eta ez da gauza hau gauza bat. 
+
+Ez da gauza bat. 
+
+Eta ez da gauza hori. 
+
+Ez da gauza bat, baina gauza bat. 
+
+Baina ez da gauza bat. 
+
+Eta ez da gauza bat, baina gauza bat. 
+
+Eta gauza bat da. 
+
+Ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza hori. 
+
+Eta ez da korapilotsua. 
+
+Eta koko-olioa ez da korapilotsua. 
+
+Eta koko-olioa ez da korapilotsua. 
+
+Eta koko-olioa ez da gauza hau. 
+
+Eta ez da koko-olioa. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza hau. 
+
+Ez da gauza hori. 
+
+Eta ez da koko-olioa. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza hori. 
+
+Eta ez da gauza bat. 
+
+Eta ez da koko-olioa. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da koko-olioa. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza hori. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da koko-olioa. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza hori. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da gauza bat. 
+
+Eta ez da korapilotsua. 
+
+Eta ez da gauza bat. 
+
+Eta ez da kor
+---
+idx=1494 RAW:
+<Reasoning>
+Olioaren eta izotzaren dentsitatearen esperimentua teknologia mota desberdinekin burutzeko aukera dago. Eta gure kasuan, esperimentua teknologia mota hauek erabiliz egin daiteke: motorrerako olioa (teknologia ugariko olioaz) eta izotz koskorrak egiteko ontzi bat (izotzaren teknologia klasikoaz).
+<Answer>2</Answer>
+---
+idx=1504 RAW:
+<Reasoning> 
+Izoztuta dagoen airearen kontra gehiago defendatzeko, izoztutako airea oztopatzeko oso arriskutsua da gizakiarentzat arropa erabili. Baina izoztutako airea oztopatzeko zailagoa da arratoiarentzat arropa erabili, arratoiak zailago egin duten abiadurak dituelako. Gizakien aldetik, izoztutako aireak hainbat oztopo eragiten dizkio, baina arratoiak arreta askoz gehiago eskaintzen du ikuskatzea eta kontuak. 
+
+Bestalde, izoztutako airea atezteko arropa egokia den kotoia arratoiarentzat arriskutsu egin dezake, kotoian dagoen oztopoaren bidez. Gizakientzat arropa erabiltzean, beste gauza batzuk atzeko oztopoekin lotuta daude.
+
+<Answer>2</Answer>
+---
+idx=1514 RAW:
+<Reasoning>
+Oreari eragitea edota gordegarria errazteko ez da hatzetan itsatsi behar, 
+horrela, orea eta azukre-hauts bidezko eginak izango dira arlo horretan eta ez laguntzen eragiteko.
+<Answer>2</Answer>
+---
+idx=1542 RAW:
+<Reasoning> Selfia ateratzeko, leku onargarri bat behar dute. Mugikorrarekin atzera kontua erabiliz, denbora izan dezateke lekuan jartzeko eta inguruko pertsonak eta objektuak atzean uztea mugazailu eragozten dute. Horregatik, zure mugikorrarekin beste lekutan jartzeko denbora izan dezakezu, atzera kontua erabiliz. Luzatu bitartekaria gora, zure mugikorrak inguruko pertsonak eta objektuak desagertuko dira ikuspegitik, eta foto erakargarriago bat atera ahal izango duzu. Halaber, horrek zure mugikorrari ere eragozpenak saihestuko dizkiezu, batez ere, gertuago dauden pertsona eta objektuak uzten dituzte, mugazailu eragozten dutelako, eta bestaldeago daudenak, ez dute eragozten, horrexegatik, luzatu bitartekaria gora, gertuago dauden pertsona eta objektuak urrun eginko dira eta hori nahi duten fotografoentzat aukera ona izango da. <Answer>2</Answer>
+---
+idx=1545 RAW:
+<Reasoning>
+Vodka-sodako koktela egiteko lehenengo pausoa izotz pixka jarri daiteke edalontzian. Ondoren, 45 ml vodka neurtu behar dira edalontzi batera. Azken pausoa koktela amaitzea da, eta botoiak dioenaren arabera, hau ala bada botoi hori elikatuko den likorea aipatzen du: sodaketa edo vodka.
+<Answer>1</Answer>
+---
+idx=1555 RAW:
+<Reasoning>
+Limiak eta bananak lehenengo ikusten diren eta azukre proportzio handienak duen fruituak dira. Izoztearen ondorioz, nahastea ugaria da eta substantzien arteko elkarrekintzak gertatzen dira, efektu gozoagoak sortuz.
+Limoiaren eta bananaren artean, limoiaren zuhaitza tropikoan lori handiagoa du eta hau zerbait leuntzeko aukera gehiago ematen du, gozoagoa egiten du.
+Baina, horrek izozketa eta gozoaldia sortzeko gaitasuna duen faktorea soilik da, eta ez azukrerik ez duten aukerak biltzea.
+Limoi zaporea gozoagoa da azukrerik ez duten fruituak baina Goizoagoak izozketa ondoren bananak besterik ez zaitezke izan ahaztu, baina honek kantitate txikiko aldaera gozoa aurkitzeko aukera gehiago du, batez ere, gozokiak egiteko bazeukan.
+<Answer>2</Answer>
+---
+idx=1563 RAW:
+<Reasoning>Zotz bat erdia sastatzeko erabiltzean, likatsu ateratzea esklusiboa da. Ez dute zotz honekin hozkailu batean edo plastikoan erdia eginda lan egin behar.
+
+Zotzak zerantzako itxura dute, hauek likatsuak berauzten ariketa batzuk egiten duten laruen lanbideari erreferentzia egiten dutela uste da. Hauek likatsuak ateratzeko zotzen forma heldua erabiltzen dutelako.
+
+Zotzen forma heldua likatsuak ateratzen dituen arauen lanetik bereizteko erabiltzen da. Hori horrela, likatsuak ateratzen dituen lana eta likatsuak ez ateratzen dituen lana bereiz daiteke.
+
+Likatsuak ateratzeko erabiltzen diren formak gainera, zotz bat erdia eginda zelan eginda dagoen jakiteko erabiltzea ez da ohiko praktika. Oinarrizko puntuetan, zotzen forma heldua erabiltzea likatsuak ateratzeko erabiltzea baino askoz gehiago osoa da.
+
+Azkenik, likatsuak ateratzeko gaitasuna erabiltzea zenbait kasutan arriskutsua da. Erabiltzaileek likatsuak ateratzeko zotz helduak baino formak arriskutsuagoak erabiltzen badute, likatsuak ateratzeko arauak desbideratzen dute eta lantegiak haserre egiten dira. Eta lantegiak haserrea eragiten dutenean, lana izaten da gehienetan.
+
+Egunero, zotzak garbiak dira, likatsuak ateratzen ez dituztenak. Likatsuak ateratzeko lana berritzea komeni da, baina lantegiko lanbideari erreferentzia egin behar da. Likatsuak ateratzeko erabiltzen diren formak gainera, gure lanaren buruzko informazioa dutenak jakitea lazgarria da.
+
+Erantzun hau guztiak, zotz bat erdia eginda zelan eginda dagoen jakiteko erabiltzea ez da ohiko praktika. Zotz bat erdia eginda zelan eginda dagoen jakiteko erabiltzea zotzen forma heldua erabiltzea baino askoz gehiago osoa da.
+
+Oso lanak eginda zelan eginda dagoen jakiteko erabiltzea zotzen forma heldua erabiltzea ez da, baina likatsuak ateratzeko erabiltzea da. Likatsuak ateratzeko lana zotz helduak baino formak arriskutsuagoak erabiltzean, likatsuak ateratzeko arauak desbideratzen dute eta lantegiak haserre egiten dira.
+
+Gure lanaren buruzko informazioa dutenak jakitea lazgarria da, likatsuak ateratzeko erabiltzen diren formen gaietan. Lantegiak haserre egiten diren kasuetan, lana izaten da gehienetan. Aurreko lanbideei erreferentzia egin behar da, likatsuak ateratzeko lanbideari ere erreferentzia egin behar zaio.
+
+Zotzak zerantzako itxura dute, hauek likatsuak berauzten ariketa batzuk egiten duten laruen lanbideari erreferentzia egiten dutela uste da. Likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko arauen lanetik bereizteko erabiltzen da, zotzen forma heldua likatsuak ateratzen dituen arauen lanetik bereizteko erabiltzen da.
+
+Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ateratzeko arauen lanetik bereizteko erabiltzea ez da ohiko praktika. Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Erantzun hori guztiak, likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ez ateratzeko lana garbiak dira, likatsuak ateratzeko lana likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ez ateratzeko lana garbiak dira. Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke.
+
+Likatsuak ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean, likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsuak ez ateratzeko lana bereiz daiteke. Likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ez ateratzeko lana likatsuak ateratzeko erabiltzen diren formen gainean likatsuak ateratzeko lana eta likatsu
+---
+idx=1584 RAW:
+<Reasoning>
+Moztea orea tamaina bereko zatitan bada, orea zati guztiak berdinak izan behar dute. Baratxuri-naana egiteko, orea zati bakoitzari birak eman behar dira, eta, birak oina hartuta, karratua edo pilota forma eman behar dira. 
+Karratua egitea aukera horretan zertan ez datorrela, hala da, ekintza horrek eraginik ez duela, baina, pilota egitea aukera da zertan datorrela, hala da, pilota forma orea xerkitan jarri eta harinak eroraraztea da baratxuri-naana egiten dutenei gertatzen zaiena.
+<Answer>2</Answer>
+---
+idx=1586 RAW:
+<Reasoning>
+Taula zulatua markoari lotzeko, markoaren gainean egitura edo tirafondo edukitzeko behar dute, taula zulatua hormari itsats daitezen.
+Egitura edo tirafondoak markoaren gainean egon behar dutenez, markoa hormari tirafondoekin lotu beharko da.
+<Answer>1</Answer>
+---
+idx=1611 RAW:
+<Reasoning>
+Zenbait objetu duen malgua bat eta haren segurtasun monitorea zain egiteko ahalmena eta kamerak zain egiteko kapazitatea ere baduela esan nahi duenak.
+Hala, makinak dituen malgua anitzetan zure bizilekuan inguruan gertatuko zeren piztu eta askatu nahi duten tutuak dituztela eta egiten duten lanen kamera batek gauzatuko duten aniztasunean edo segurtasun monitoreekin urte osoan gauzatuko duten bizileku zaintze lanaren kamera banekoa da. 
+
+Kamera bat kamera akustikoen aniztasunean askoz ere teknologikoagoak dira eta horrela hark gauzatuko lukeen tutuak anitzetan ondoago tratatuko litzaizkete, jendea etengabeko tanta sortuko lukeen kamera hauek mintzo.
+Hortaz tutuak anitzak sortzen dituzten eta ordu askotan kamera hauek gauzatuko dute lekua segurtasun monitoreen bitartez. 
+
+<Answer> 2 </Answer>
+---
+idx=1651 RAW:
+<Reasoning>
+Film berriz ikusi nahi dutenean, lehenik iruzkinak hartu behar dut, filmaren sentimendua eta garrantzi handiko gertakizunak ulertu ahal izateko. Horrela, egunkari baten arituan "XXX MUGEN" (XXX egunen ondoren) azpialdia ikusten den bezala, film baten iruzkinetan egiaztatzen da filmaren bigarren berriz ikusgarria izango zaiela.
+<Answer> 1
+---
+idx=1663 RAW:
+<Reasoning> Ezinbesteko kontsiderazioa da zapiaren osaera eta sartzeko modua ohe-azal edo txaplatei lotuta dagoela. Ohe-azal geldoak izaten dira eta hauek ohean daudenekin maiz sartzen dira. Bestalde, txaplatek elastiko izaten dute, hau da zapiaren forma lekuz aldatzea ahalbidetzen dutena, hau da ohean daudeneko mugimenduak ondo landuz. 
+
+Zapiaren forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. Baina bi osagai hauen artean txapletak maiz erabiltzen diren egunokotasunak dira. Baina txapletak gehienetan ohe-azalrez baino lodixeago eta, beraz, gehienetan osagai hau erabiltzeko balio du. 
+
+Baina txapletan erabilitako materiala ohe-azalretan erabilitakoa baino lekuz intentsiorragoa da. Bestalde, hiru emaitzaen artean txapleta da osagai hau erabiltzeko erabat nahikoa. Azkenekoz, txapletak nahikoa lodixeagoak dira ohe-azalrez baino, eta horri esker oheko beste osagai batzuk erabilgarri mantentzen dira. 
+
+Loditasuna baloratzen du eta hainbat balorazio kolektatu dituela txapleta da ohe-azalrez baino gehien erabiltzen diren. 
+
+Baina, osagai hau baloratzen dute eta txapletak lodixeagoak dira ohe-azalrez. Azkenekoz, ohe-azalrez baino lodixeagoak dira txapletak. 
+
+Eguzkiaren urtzez osagai hau erabiltzen da batez ere. Baina eguzkia urtzen duenean ohe-azalrez baino txapletak lodixeagoak dira. 
+
+Zapien osaera horrek balorazioarekin egingo dio bat. Horrezgain ohe-azalrez baino lodixeagoak dira osagai hau txapletak. 
+
+Aukera hauen artean txapleta da ohe-azalrez baino lodixeagoa, eta horrek balorazioa biderkatzen du. 
+
+Oheko osagai hauen artean aukera hau baloratzen da. Azkenekoz, oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Zapien forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. 
+
+Osagai hauen artean lodixeagoak dira txapletak. 
+
+Aukera hauen artean txapleta da ohe-azalrez baino gehien erabiltzen diren. 
+
+Txapletak lodixeagoak dira ohe-azalrez baino, eta horri esker oheko beste osagai batzuk erabilgarri mantentzen dira. 
+
+Txapletak osagai hau zuri begiratzen baduzu. 
+
+Azkenekoz, txapletak lodixeagoak dira ohe-azalrez baino. 
+
+Oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Eguzkia urtzen duenean ohe-azalrez baino txapletak lodixeagoak dira. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Aukera hauen artean txapleta da ohe-azalrez baino lodixeagoa, eta horrek balorazioa biderkatzen du. 
+
+Aukera hauen artean txapleta da ohe-azalrez baino lodixeagoa, eta horrek balorazioa biderkatzen du. 
+
+Eguzkiaren urtzez osagai hau erabiltzen da batez ere. 
+
+Hiru emaitzaen artean txapleta da osagai hau erabiltzeko erabat nahikoa. 
+
+Oheko osagai hauen artean aukera hau baloratzen da. 
+
+Zapien osaera horrek balorazioarekin egingo dio bat. 
+
+Oheko osagai hauen artean aukera hau baloratzen da. 
+
+Zapien forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. 
+
+Azkenekoz, oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Aukera hauen artean txapleta da ohe-azalrez baino gehien erabiltzen diren. 
+
+Azkenekoz, osagai hau baloratzen dute. 
+
+Txapleta osagai hau baloratzen da. 
+
+Zapien osaera baloratzen dute. 
+
+Osagai hauen artean aukera hau baloratzen da. 
+
+Azkenekoz, oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Txapletak balorazioarekin egingo dio bat. 
+
+Azkenekoz, zapien forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Zapien forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. 
+
+Oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Baina, osagai hau baloratzen dute eta txapletak lodixeagoak dira ohe-azalrez. 
+
+Aukera hauen artean txapleta da osagai hau erabiltzeko erabat nahikoa. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Zapien osaera baloratzen dute. 
+
+Oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Azkenekoz, osagai hau baloratzen dute. 
+
+Aukera hauen artean txapleta da osagai hau erabiltzeko erabat nahikoa. 
+
+Baina txapletak gehienetan ohe-azalrez baino lodixeagoak dira. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Azkenekoz, txapletak lodixeagoak dira ohe-azalrez baino, eta horri esker oheko beste osagai batzuk erabilgarri mantentzen dira. 
+
+Zapien forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. 
+
+Baina, osagai hau baloratzen dute eta txapletak lodixeagoak dira ohe-azalrez. 
+
+Oheko beste osagai batzuen mugimenduak ondo landuz balorazioa biderkatzen da. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Zapien forma eta osaera baloratzen dute ohe-azal gisa edo txaplate gisa balio dezakeela. 
+
+Azkenekoz, ohe-azalrez baino txapletak lodixeagoak dira. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Aukera hauen artean txapleta da ohe-azalrez baino gehien erabiltzen diren. 
+
+Aukera hauen artean aukera hau baloratzen da. 
+
+Zapien osaera horrek balorazioarekin egingo dio bat. 
+
+Oheko beste osagai bat
+---
+idx=1666 RAW:
+<Reasoning>
+Udazkeneko lore-koroa bat egiteko, horren materialak eta bitxiak behar ditugu. Lordea ateratzeko, baliabideen zerrendak ikusi beharko dugu.
+Adar-koroa eta bolazko katea beharrezkoak dira lorea zintzilikatzeko.
+Deco Art pintura metalikoa kolore handitzeko erabil daiteke.
+Lorezaintzako alanbrea lordeen bizitza luzatzeko erabil daiteke.
+Loreetarako, granadak, indipikuak, cholla fruituak, akazia-lekak, pinaburuak eta astigar-hostoak esanguratsuak dira.
+Baliabideetan, gitarra elektrikoa eta kola beroa agertzen dira, horietako lehenak kantai egiten duten pertsonaentzako onuragarria izan daiteke.
+<Answer>2</Answer>
+---
+idx=1717 RAW:
+<Reasoning>
+Etxean laranja-gozokia egin nahi duzu, eta bi modu ematen dira. Modu bat laranja eta malbabisko-krema gordetzen du, bestea, ordea, ozpin-pepino. Baina, gertakizun desberdinak bezala aipatzen dira, ez dira bideragarri.
+<Answer>1</Answer>
+---
+idx=1730 RAW:
+<Reasoning>
+Eragin luzatu behar dugun faktoreak diren egitasmo bietan albiste berberak daramatzat: soka bertikal bat, iltzeak, makilak eta iskinak. Bertikaletako kanpo-luzerak lortzeko moduaren artean bakarrik aldaketa dago. Hasiera batean, lotu-behaketak begizta-muturreko soka kontsideratzen da. Honek gomendagarria izango litzateke erdiko hutseko teilak eta teilaz ospitaleak ez diren irteerako teilak egin ahal izateko.
+Hori gertuta, lotu-behaketa erdiko hutseko teilak sortzeko bilaketa praktikoagoa izan daitekeela ikusten da. Egiten diren teilak aldi berean teilaz ospitaleak erantzuten dutenez, erabilgarria da . Aitzitik, horretarako bi aldaketa alegia, motelago egiten dira. 
+
+<Answer> 1.
+---
+idx=1738 RAW:
+<Reasoning> Ekidin herdoilak latan egon ahal izateko, kremaren ibilbidea estaltzeko arazoa lanbileko anbideek kokatuko litzateke. Gorputza eta atal bikoitzeko artikuluak gorputza eta atal bikoitzekoak izaten dira. Azazkal-berniz gardenak batik bat gorputzeko azalaren gainazaleko geruzaren isolamendua laguntzen du, dekorazio arazoak ekiditeko. Estalpen lanbidea gorputzaren inguruan dauden gailuak (gorputzaren gainazaleko zuloa) hainbat euskarri eta atalengatik garrantzia duten arazoak konpontzeko erabil daitezke, adibidez estalpen arazoak.
+
+Taldea dekoratibo eta estaltzekoa da, baina latan, azazkal-berniz gardenak leku orokorra da, baina goikoa dagoelako gorputza lataren goian duen gainazalean zikintzen du. Azalaren gainazaleko azalaren anbidea, ondoren, azalerako anbide mota bat izango litzateke, gorputza gorputzaren gainazaleko azalaren gainean baitago. Gainazaleko lataren azpiko anbidea lataren azpiko lurrunaren gainazaleko eremu bat izango litzateke, azaleko anbide zikintzen duten substantzia eta edota eratzen duten erreakzioak kaltetu nahita gertatuko lirateke. Azazkal-berniz gardenak ondo erabiliko lirateke lataren gainazaleko gainazaleko azaleko gainazalean (azaleko gainazaleko gainazaleko) gorputza eta geruza azalaren gainazalean gainazaleko gainazalekoa gorputza eta gainazaleko geruza azaleko gainazaleko gainazalekoa gorputza gainazaleko geruza azaleko gainazalekoan izango lirateke.
+
+Azazkal-berniz gardenak lataren azpiko anbidearen arazoak konpontzeko erabil daitezke, gorputzaren azaleko gainazaleko gainazaleko gorputzaren azaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko geruza gainazaleko gainazalekoan lataren azpiko geruza gainazaleko anbidearen arazoak sortzea ekiditeko.
+
+Horrez gain, lataren gainazaleko geruza gainazaleko gainazaleko anbidearen gorputza gorputzaren azaleko gainazaleko geruza gainazaleko geruza gainazaleko gainazaleko azalaren gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko azalaren gainazaleko geruza gainazaleko gainazaleko azalerako gainazaleko gainazaleko azalaren gainazaleko gainazaleko azalerako geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko azalaren gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko geruza gainazaleko gainazaleko gainazaleko azalerako azalaren gainazaleko gainazaleko gainazaleko azalaren gainazaleko geruza gainazaleko gainazaleko gainazaleko azalerako gainazaleko gainazaleko gainazaleko azalaren gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko geruza gainazaleko gainazaleko gainazaleko azalaren gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainazaleko gainaz
+---
+idx=1743 RAW:
+<Reasoning>Ikatz suaren berotasuna handitzeko prozesua oinarritzen da ikatz hotza eta berria elkarrekin ukitzen uztean. Harrapen intentsitatea handitzen denean, ikatz berria igeri egiten du ikatz hotzaren gainean, hauen artean transferentzia termal bat gertatzen da, ikatz hotza berotzen eta beraz, berotasuna handitzen. Prozesu honek ez da efektiboa ikatz berria bera gainean jarri arte, ikatz hotza berotzeko. Gainera, ikatz berriak ez da gori-gori egiten ikatz hotzaren gainean jarri arte. Horregatik, ikatz berriaren gainean jarri behar da ikatz hotzaren gainean jarri beharrekoa.
+
+<Answer>2</Answer>
+---
+idx=1749 RAW:
+<Reasoning>Diruaren matalasuna etengabe erabilgarria den arren, kalteak zertarako ikusten ditu, batzuetan osasun arriskua ere sartzen baita. Matalasunaren kalteen aurkako neurri batzuk daude: bilatzea, bilaketa-ikerketa. <Reasoning>
+
+<Answer>2</Answer>
+---
+idx=1797 RAW:
+<Reasoning>Garajea etxeak gordetzeko edota beste gauza batzuen gordetzeko erabil daiteke. Garajeak normalean gauza handiak gordetzeko diseinatuta daude, eta horietako bat etxeak dira. Aldiz, pneumatikoak autoan gordetzeko konta daitezke, baina garajea ez da horretarako erabiliena. <Answer>1</Answer>
+---
+idx=1810 RAW:
+<Reasoning>
+Esprai-pintura da kontzeptuak kontuan hartuz, zein lekurekin markatzeko erabiltzen den. 
+Paper-orri fina grafitiz markatzeko erabil daiteke, baina hori ez da esprai-pinturaren funtzionalitate bakarra. 
+Lehen txukuna zen eraikin bat ere grafitiz marka daiteke esprai-pintura erabiliz, baina horrek ez du paper-orriaren finasunarekin zerikusirik.
+<Answer>2</Answer>
+---
+idx=1817 RAW:
+<Reasoning>Greko entsalada prestatzeko, lehenengo aukera zerbitzurako prestatzeko lorozkoa betea da, eta galdarraztatzeko purea egitea falta da. Bigarren aukera, berriz, entsalada zurruna egitea eta onduztea errazagoa da, hau da, galdarraztatzeko purea ez beharrezkoa denez. Hala ere, bai lehenengo eta bai bigarren aukera gazta eta oliba erdien nahasturik, nahasiak hauek jartzea ez da errazagoa edo kezkagarria. Hau da, prozesua bietan aurrerakoa bezalakoa da, eta hau da, bietan nahasia egiteko truke da, nahasia osoa da, nahasia erdia. Horretaz gain, azkenik, gazta eta oliba erdiak nahasketa lanak lehenago edo gero eginez gero, prozesua bietan berdin daiteke, eta galdarraztatzeko purea egitea falta da. Hala ere, ekosistema eta entsalada bere bizi-garaia funtsez dieta dela eta, portaera sistemak erabat luzatu daiteke. Horretaz gain, hobeak dira lurraldean beren entsalada bana bukatu eta parte hartzen duten pertsonen arteko interakzioa. Esan bezala, nahasia entsalada onduzten denean osoak leheningo erreunak eta gero etskinean lehenengo erreunean biribilun daiteke eta iparra uzten da, eta gero erorikoak dira hau da, gizarte bakoitzean oinarrizko portaera sistemak garatzen dira. Herri gizarte lurralde osoetan kultura gizarte biltegi hartzen da, izan bada oso errealean hau da, zenbat eta errealean, zenbat eta platonikoa bihurtzen joango direla.
+---
+idx=1825 RAW:
+<Reasoning>
+Giltza kopiatzeko metodoa aztertzen duen gizona beharrezkoa dela adieraziko dut.
+Lehenengo ekintza, giltza burdindegira eramatea eta kopiaztea eskatzeko, errealitatearen eta aurrerapenen arteko ezberdintasuna dutela esan dezaket. Aurrerapena bidean ibaile, teknologia aurrerapenak automatizatua eta bizkortua egin zuen eskulanean eta pertzepzioa ematen du eta gizarte anitz-aldizka kontentu zuen material garrantzitsuak truke egiten dituela adieraziko dut.
+Moztu metal-pusketa bat giltzaren formarekin erabiliz, aurrerapeneko teknikak al da aurkituko dituzten dira. Giltzarekin erabiltzen denekin, hartzaile espezifikoa dute. Teknikak badau ere, gero eta gehiago mota aurkituko dituzten egina daeta.
+Giltza kopiarazi dezakeen gailuak eta lekuan edo hezkuntza erakundeetan ikasten da. Gizarteak arte, pertzepzioa egiten du eta espezifikokuntza ia kontrola da. 
+
+<Answer>2</Answer>
+---

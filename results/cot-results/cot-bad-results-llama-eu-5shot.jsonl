@@ -1,0 +1,298 @@
+idx=54 RAW:
+<Reasoning>Errota batek zuhaitzaren adar guztiak moztu ahal dizkigu, eta adar-mozteko makina batek ez dira beharrezkoak zorroztu ahoak oso dendetan, baina kontuan izan behar da adar-moztekoak edo makina bakoitzaren tamainak edozein modu egokitzen nahi duguago zuhaitzari ziurtatu behar dugu.
+
+, amaiera bezala, adar mozteko erreta ohiko bat ez da alfonbrak bezalako makina laguntzailea zenbait zuhaitzetarako, leizea da adar bertikal jartzerakoan baina alfonbraa erabiltzeko urrutiago dago ezkeraino baino adar perpendikularak (bertikalak) dira harantz (ezkerretik).
+---
+idx=71 RAW:
+<Reasoning>Begetarianoek etano maizta hauek kontsumitzen dute: arrautza nahastu gabe. Hori gutxi baino ez da erraz egin daiteke ukitu frijitzeari esker. Arrautza aberri zaitezten egoeran tomatosua da beren bildumaren osagai nagusia  hauetariko bi zaitezte. Ez da hiruak deritzaten zenbait aizto azitasten hasten. Erentzat food service hor dute azpitik utzia dauden bapatean balestez ematen, zehaztu dirudite bezala hor hai deritzaten normal mantenduz manaos egunean erremintzat muino ta gorretzeko <Begetarianoek ez dute animali-haragi edo bere produkturen, inolako osagai sorta gero arrautzaren bezala bertako tiratzea. Hauen hor ez da gourmet bezala utzia dute gauza egiten hori errepranalaria, nor gezurten, errepranalaria  den hor  lasaipen arbuaia eta, beraz begetarianoek ezin dute 2 <Answer>1</Answer>
+---
+idx=102 RAW:
+<Reasoning>Idazkera ezberdina erabiltzea beharrezkoa da, baina kasu horretan edo azukrea edo gatzak jartzea onak dira maskotaren osasunarentzat inurri maskotarentzat. Azukrea iragazkorrak diren iragazkiak jarri arte, inurriek azukrea entzimitatu dezakete. Gatzak, aldiz, ura edo likidoak argitar dezakete, eta maskotaren harraparitzat hartu ahal daitezke. Gatzaren antzera, maskotak gatzaren eraginek sortzen dituen mina nahitaez sendatu behar da.
+---
+idx=118 RAW:
+<Reasonization>Badago zirkulazioa hobetzeko hantura puntu luze baino ibiltzea arrazoitzat hartzen duen arren, funtsean lortzeko beste hainbat modu daude, hala nola: igogailu edo eskaladoreen erabilera edota ibiltzeko zortzikoak mantentzea. </Reasonization><Answer>1</Answer>
+---
+idx=123 RAW:
+<Reasoning>Horietatik ez da hazi eraginkorra lortzeko aukera, hirugarren aukera falta da. Baina ematen den jarduerari dagokionez berezko erantzun onenak hor hai hai: ematen den aukerazko erantzuna onena ez den arren, horietatik aukera guztiak egia dauzkat. Lurperatzeko haziak hondarretan garbitzea ez da egokia, eta aukera gehiago dago lurperatzea lurretan. Horrez gain, 2. aukera da onena, heldutasuna mantentzeko bai. bat kutxa edo kontaing erreftioan edozein egoeratan mantentzeko esan daiteke.
+
+Aukera guztien artean, lurperatzeko haziak lurretan eta katilua bete egunero ur honek lortzeko onena da.
+---
+idx=127 RAW:
+<Reasoning>Imanen ertaineko indar eta efektu bat erabiltzean, soldagailu batekin suposatzen da zurrunbiloek ahaldu dezakete aztarna txikiak eragitea, aldiz, Supergluea imanak itsasteko soilik egiten du lan, zatia mantentzen du, bakarrik.
+---
+idx=132 RAW:
+<Reasoning>Esnea berotzean, hozkailuan utzi behar da edo olio eta azukrea gehitzean jartzen da, horretarako etengabe nahasten da behar denean. Beste moduak direlako, etengabe hozten du, hau da erre zaitezke, horretagatik hozkailua edo olio beterik dagoenean nahastu berotzean esne hori jartzen da hazi ahal izateko.
+---
+idx=143 RAW:
+<Reasoning>Kirola egin ondoren, gorputzak hidratatzea behar du, baina whiskiak ez du osasunarentzat onuragarria izaten hidratatzearentzat, baina ur hotzak osasungarria da eta bereziki hidratatzeko beharrezkoa da ahorrekoa eta adituen oroitzapenen arabera.
+
+ez dudan ba alfonbrarik alfonbra kritikorik lan egin, batzuetan hotzak laga dezakezke hondaketa giltzarriak edo introgabentatu hidratazioa suplementuak erabilizi hori irakuntzarako, ustez ahazki erruzu hidratatzeko <Answer>2</Answer>
+---
+idx=161 RAW:
+<Reasoning>Ezpainzapiak koilara eta hainbat beste pertzio estaltzeko erabiltzen dira izozkiak hartzeko, baina ez dut izozkien janaria eta eskuak mantentzen dut, bestela.
+
+<Answer>1</Answer>
+---
+idx=186 RAW:
+<Reasoning>Papergainekoak baino astunagoak diren zenbait paperekin dagokionez, aluminio-papera papergainekoaren azpian jar daiteke baina ez da astunagoa,  bestela gehienbat astunak diren paperek, beste adibide batzuk bezala paño berean egiten dira.
+---
+idx=245 RAW:
+<Reasoning>Ontzi birziklatuek ez dute funtzionatuko egonkorrez briketentzako, ezta sua pizteko ere, briketentzako ontziak egituraz eta baliabide fisikoekin parekatuak baitira. Arrautza-ontziek beraz hainbeste balio ez dute, eta briketentzako ontziek mugimenduak gutxiago egin dezakete, eta egin dezakete txiprek intentsitatea ematen duten kalitateko ontziak.
+---
+idx=306 RAW:
+<Reasoning>Garunak eta marmeladak trankila hartzen dira banaka, orea beroa denean eta gurina alde batean eta marmelada bestean zabalduz. Ondoren, bi aldeak batuz, orea hobeto lotu eta aurki-gatik gogortu dadin. 
+
+   "2" badago beste nahi beste emaitza on bat lortzeko , gurina eta marmelada garbi banan-banan eta orea beroa denean, ala gehiago, zenbait oreak gurinaren egurtsua sor ditzateke.
+---
+idx=316 RAW:
+<Reasoning>Lanpararen alanbreak gabonetako argien kontrako tensioa bezain altua izan behar du azken hauen ildoetan jarrita, edota argiak kentzeko tiraka jarritako paper zuria zabaltzeko, hau da, entxufatzea. Alanbre bat erosi eta lanparari lotzeko ulertuko da, hori dena. 
+
+Ikusi da lehen erronkak, egin beharreko lan garrantzitsuak biltzen dituelako, hori gerturatzen da osagai sendo eta bidera daitekeen azalera den horretan.
+---
+idx=408 RAW:
+<Reasoning>Liztorra eta ahatea bi animalia beldurgabe dira, baina armak maila askoz ere handiagoa dituzte, liztorra ahate baten aurka ez da jotzen.
+
+Ezagutzen duguna, txikipediazuen (egun liztorrek) larriki hiltzen dute ahateak, eta horregatik deskalifikatutako liztorrak izaten dira. Heriotza garbia da, liztorrak ahatea joz hil egiten baitute.
+---
+idx=454 RAW:
+<Reasoning>Belkro-zerrenda gisa erabiltzen duten alfonbrak mugitu ez daitezen, altzairuaren oinarrizko hibridoa edo altzairu irekia erabiltzen dutenak edo jatekin funtzionatzen duten alfonbrak dira; horietan belkroaren gainean jarri behar dute alfonbrak gainean, beirazkoak edota metalikoak.
+---
+idx=461 RAW:
+<Reasoning>Leporatzea hauxe da: bere lorpena beste bati gehitzea, ondoagatik, leporatzean bere egin izana haien partez adierazi behar da, horrexegatik oso sinetsa ezin dena dugu. eta gorabehera nola egin duten, ulertzen da haiek egin dutenak bezala. beste hau dela, hauxe ekar da.
+---
+idx=462 RAW:
+<Reasoning>Gurutze bakoitzean iltzea erabiltzea duten eskuan utzi behar dira teilatuak heldu eta mantendu egiten diren arazoak saihesteko, eskura dauden beste iltzek biderkatzen ahal diren bitartean. Honez gain, bere efektibitatea eta erresistentzia gehiago erakutsi beharko dira.
+
+<Answer>2</Answer>
+---
+idx=468 RAW:
+Ez dago informazioa eskaini dugun lanaren bukaeran aurreko erantzuna ulertzeko. Egun honetan hain ez da aukeratzen aurreko du aukera berdinak. Eredu batean bizia bota sortzen zaigun gozokia eta utzi sortu eta nahasiko dugu. Zatiketen kontura batzuk baten erreka sartzean aldiz gero gehituko dute beste sortua.
+---
+idx=471 RAW:
+<Reasoning>Kaiolak maskotentzat baino lehenago diru jasotzeko erabiltzen dira, haurrentzako zentro segurua izan daitezen aldiz, orri eta eremua ezkutatzeko izara bat erabiliko da, gizonek gizonek eta emakumeek emakumeek hartu eta dirua bilduko dute.
+---
+idx=506 RAW:
+<Reasoning> Ez dago esan nahi karpeta Gabonetako galtzerdietan sartzen den ontzi moduan ezagutzen denik; Gabonetako enborretan, aldiz, ontzi eramangarri bat da norberaren karpeta jasotzeko.
+---
+idx=537 RAW:
+<Reasoning>Ozpin esnearen ordez azukrea erabiltzeak tarta ospegi eta bolumena aldatuko luke, inguruan erreaktiboak beste sistema bat jarraituko luke. Batez ere mugurdia eta sagar txikituak sakabanatzeko ondorio larriak eragin lezake, karamelizatzea handituz eta larruazal irtsi eraguz. Horrek ere tarta oso desberdin bat eragin lezake estetikoki.  Erabateko likorea (ozpin esnea) neurtzearen begizko-kokapenak zenbait urtez beste baten adierazpide moduan mantendu dira elikadura inguruan.
+---
+idx=539 RAW:
+<Reasoning>Atzaparretako azazkalak kentzea katua mokoaz errekurrik atera ahal dute, eta aurpegiko biboteak kentzea ere bai, azkarrago errekurrik ateratzea ekarriko du, baina frogaraziz ezkontzea errekurra luzaro ez ausartu nahi da, izan ere atzaparretatik ateratzeko motzegiagoa zailagoa da, aurpegiko bibotak ateratzea errekurrik askoz lotuago mantentzen du. 
+
+kendu atzaparretako azazkalak gehiago dago laister garbi eta errazagoan. 
+Nolabait ezkontzea bihotz ez izan.
+---
+idx=559 RAW:
+<Reasoning>Erabat leku faltakoa agerian geratuko da 1 eta 2 zenbitekina. Jantzi oinetakoak oso diferentzak dira galtzerdietan, tarteka eta erabiltzea egin beharko litzateke herenez euskaldunak edozein otoitz egiteko. Ile-lehorgailuaren eta 10 minutuek oso zer ikusi nahi dut oinetakoak luzatzeko. Horregatik oinetakoak estuegi dituzunak eta harekin egin nahi dituzu handiagoak, beharrezkoa dela hari errektzipioa eta ongi arindu eta hartzitzea ukanez auzoan: 
+* Beroz egin:  hoztu eta leuntasunera iritsi arte.
+* Bihotzerantz zabaldu eta egin kint.
+* Arinda eta hautsiki harrotu: Epeltzean harekin egin nahi dituzun oinetakoekin jarri eta ongi zabaldu.
+* Urtu eta sakiztu, antzeko aurpegiak izanik, berariaz leku beretik egin.
+* Bihotzerantz doina eta bizka argazki egin dientzat eta berria kentzeko.
+Egiaztatzen dut hemen oso bideragarria dela harekin efektatueak egin eta distrituei hari esturtzeko ataloan non erabilten dut hangoak jarraitzen diren baimen edo lotutako tratamenduen batekin, nahiz zigorrez jasoak baitira.
+---
+idx=578 RAW:
+<Reasoning>Edan ozpinezko zukua ez du nahikoa izaten giharretako zainelduei eraginkortasunez tratatzeko, ozpinezko igerilekua batzuetan eragin dezake gatziketa positiboa edo 2,3 bentsikuekin, bitartean oliba berdeen zukua eta oliba beltzek duten antzekoa eragin dezake gatziketa positiboa ere, baita dolaminak ahalbidetzen dutenez kimioterapia anestesia ere, baita aldibere kinetikoa bete dezake.
+---
+idx=612 RAW:
+<Reasoning>Oilaskoa zerbitzatzeko ohitura da albo bat moztu eta edo kontsumitzea ulertzen duenean familiako kide asko berezia da bularra eta hegok eta familia guztia nahi duela kontsumitu. Albo baten inguruan bularra eta hegok mozteaz gero beste alboaren erdian hegoak eta bularra hartzeko askatasuna mantentzen da oso-osorik kontsumitzeko familiaren ekintza berdinekin. Gainera gazteek ulertu gabeko arazoa dituzten seguruago egiteko.
+---
+idx=625 RAW:
+<Reasoning>Malba zuriak eta kakahueteak nahastu eta erre ondoren, esnetik gatza ugari irakitez gero sartzen da (aurrez erre behar direla esan nahi du gatza utzi gabe ateratzen da) eta horrela gazitua eta uztartua nahasten da, irekia eta zaporetsua erakusten dutena.
+---
+idx=654 RAW:
+<Reasoning>Irakina edo hoztua den trigokak labean gogortzeko behar duen denbora, labeko tenperatura eta denbora objektiboa dira.  Trigokak labean gogortzea, disolbatu gabeko su gogorretik gertu egoteko aukera ematen du. Hozkailuan hozteak denbora ezaugarri bat ere gehitzeko aukera ematen du. Labean gogortu ala hozkailuan, horrekin erabakiarekin trigokak gogortze denbora bizkarrezurra dute.
+---
+idx=678 RAW:
+<Reasoning>Victoria's Secreten Bombshellen usaina DEETaren antzeko ezaugarriak dauzkala kontsideratzen da, eta hori erabat egiazkoa da, baina jatorrizko DEETaz alde egin zuen nahitaez produktu okerra dela esan beharrik gabe.]   
+
+       Faktore garrantzitsu bat da bat Victoria's Secreten Fragrantziak ( Perfumak), sentsaziozko eraginkortasuna ( Eraginkortasuna ), Profilu espezifikoa ( Botoezko sentikortasuna ) eta erreprodukzio-gaitasuna dauzka, baina nekez bat DEET-aren ezaugarri berberak ditu egiaztatzerik gabe.
+---
+idx=681 RAW:
+<Reasoning>Saska hori eta gaineko lau alboak eta saskiaren eraikuntza sakabanaturik dago beraz ezin dira kopariu-saskiarekin kapoturatzea saihesteko baina hau ez da gauzak aldaketa egiten.  saska lodiak ez dute gabaretza sar daitekeela , gehiago jarraitzen zaie ezegonkortasuna gertatuko da honek haietan oinarritzen da ahozapi-hodia.  ahozapiaren lodiera txikiak ezegonkortasunez joaten dira. Baina ez da 4 menperan  ahozapiak dira frogatuko. Horregatik saski hau ez dugu amaitzeko agiri gehiegi dira hori ez bada beste modu batean salbuagoa ordezkariak gure estatura osagoa edo ahozapien menperean saskia itxi gabe bada moda edo alorrak hauxe egiten <Answer>1</Answer>
+---
+idx=703 RAW:
+<Reasoning> Hitza egin ez duzula esan duzuna esateak hitzartutako parea edo promesa hori hautsiz jasotzea esan nahi du, eta horrek beste pertsonaren konfidantzazko erantzun bat zuenari kalte egiten dio. Egin egingo ez duzuna esan duzuna, aldiz, egin egingo ez duzula hitzartutako xehetasun baten inguruan ulertu izan ohi da.
+---
+idx=714 RAW:
+<Reasoning>Ogi-apurrak eta klip bat erabiliz ere eutsi daitezke zinta itsasgarrian ertzari, baina ertzariari aberastasuna eta indarra emateko, elkar lotzeaz gainera, ez da ohiko zinta itsasgarri baten ertzari erabiliko, inkesta salbatzeko, zinta egiten zaizu hezurmazko krabelinen gainean eta zinta hezurra zahartu egiten da. Orain zintan lan egiten ari zarenez, ertzari eutsi daitezke ogi txatinak edo ogi puzkarrak... proiektuan kausa honek ideia ofiziala eman zuen.
+---
+idx=777 RAW:
+<Reasoning>Baselina bonbillaren hariari emateak instalazioan kargak egiten lagunduko dio, eta zikina izateko arriskua askoz gutxiago du, bonbillaren hariak ez dutelako  material elektrikoen parte izaten. Horrela bonbila instalazioan gehiago egon daiteke eta argia ematen jarraituko du. 
+
+Hala ere, hori ez da gauza egokiena bonbilen entsalina ez duten instalazioetan, kristalari ematen dute beraz. 
+
+Ekipamentu bereziak egiten direnean, hegaztienentsalina harrapaketa agertzen da.
+---
+idx=794 RAW:
+<Reasoning>lepo koadroiak erabilgarriak dira arnastoki edo beste erabilera horretarako, jarrita egon behar dutelako txakurraren lepo inguruan zentzuzkoa izateko. Hori horrela lepoak egon dadin zaintzailearen aurrean txunditzen diren arnastokiak, kardenalak batez ere gertatu ohi denean, bertan jartzean ez dela leporantz iragazten, ezta bere buruarekiko hilgarrien ere bezala. Behin gehitu ondoren txakurrak librea eduki barik, lepo koadroiak berria den. 
+
+Beso inguruan jarrita, ordea, txakurrak lepo koadroi horren gainean parrala ageriko dute. "Besoetan" jarrita, txakurrak, beraz, lepo koadroiaren lurrunketa bertan ageriko, eta orduzko kaltegintzak igarotzean, zartatzeen, dardarazteen, eta abarren ondorioz, galtza arteko gaixotasuna ikusteko arriskua dago.
+---
+idx=823 RAW:
+<Reasoning>Ikuspegi bisual batetik, nahikoa intentsiboa da kirtena sartu ahoan horretarako, zurdetatik hartuena erabiliko duzu kirtena ahoan garbitzeko, baina zurda estaltzea da hortzak garbitzeko askoz ere nahita egin behar dena, ez aurkitzea ez baita norbanako gehienentzat gauza erraza.
+
+ ordezko erantzuna: <Answer>2</Answer>
+---
+idx=831 RAW:
+<Reasoning>Hanburgesa-ogia txigortzeko, parrillan egitea da ohikoena eta onena, ur parraileraz estalita, baina izozkailuan egitea ere bai, tenperatura etengabe kontuan hartuz arinki, egiten da horrela. Baina izozkailuan egiten denean txigortzeko orduan, ur parraileraz ezkutatzea beharrezkoa da, hau izozkailu baten tenperaturatik eragiten baita atseden hau txikitu arte; ur hotz batek egiten du modu bera, txikitu ezkero, baina desberdina badaude hanburgesa-ogia txigortzeko modu eta denbora tarte horiek modu sendoan zertan izozkailu batean egon duen denbora.
+
+(Izozkailuan egitea ez da ohiko modua, baina posiblea badaude, orduan hanburgesa-ogia 10-15 minutuz izozkailuan egon beharko litzateke (izozkailuaren potentzia dependentea) oso kontu handiz tenperatura mantentzeko.)
+
+Eztabaidatu, beste lanbidea gehiago kanpokoago egiten dut. Haur bati egin diet, Jarri izozkailuan xkutatu eta denbora denbora irauten. Une honetan jarri parrilan hanburgesa ogia, Hau errenau.
+---
+idx=855 RAW:
+<Reasoning>Mahukak, soilguneetan duten karkina ahalagatik, guraizekin ebaki daitezke. Labanarekin ebaki egitea zailtuko litzateke, karkinak labanarekin jo ez daitezen eta hura lodituko litzatekeen.
+---
+idx=857 RAW:
+<Reasoning>Pistola, lehergailu metalizatutako objekto mota bat da, janari-prozesagailu batean, hau da, gai metalizatuaren gainean lan egiten duen makinara, eramailea eragin dezake edo leher dezake, hau da, janari-prozesagailu baten baitan pistola gorputzak janari-prozesagailuak bultzatzen duen gai metalizatua eragin dezake eta horrela janari-prozesagailua leher dezake.
+---
+idx=882 RAW:
+<Reasoning>Behiki-gantza janari-prozesagailuan berotu eginiko garaian, piztea aurretik tarteka nahasi egin behar da gantza urtzen ez daitezen; horretaz gain, potentzia altua behar du 3-8 orduz piztuz gehiago bezala, gantzaren beirazko minutua erregulatu behar delako, hain zuzen, balore horren kontrako pizgarri maisua erabiliarazten da beste modurik ez den puntu honetan. Hori ez da behar eguneko aurrean janari prozesagailua dagoen forma zikin dela eta prozesagailua arinki tolestuta egon daiteke, horri aurre egiteko. Prozesagailuaren erdiraino bezala 3/4 % egotea nahikoa da arin nabardi bat galdu ez duten gantza urtzen, baina 8 orduz jarraitu egin behar du hori, erabil ahal izateko "potentzia baxua" behar dena "erdiraino" behar da erdiraino, eta beraz hori 3/4 % prozesagailua beteta egotea baino aurrerago egoten da. Horretaz gain hortxe egiten da potentzia baxua gehiago ez da ematen, eragin handiagoa azaltzen delako edota honen hutsunea egin ahal delako.
+---
+idx=884 RAW:
+<Reasoning>Arrautzak etanolikoa baino gehiago izaten dira baina bananaren heldutasuna erruz eta intsektizideen konbertzioren adina bananaren marro eta argalaren neurria da. Intsektizideen konbertzioko marro eta azala eta marro kantitatea minagia dela eta, hori ebazten dute. Baina bai  baina, bai, baina,  eztabaida da bat ez al da  saltzaileek marro kantitatea gutxiagotzen dutela.
+---
+idx=902 RAW:
+<Reasoning>Alkohol diuretikoak gorputzak ura eta bitaminak botatzera eramaten ditu, bitamina gehien hauetan diuretikoak inprimatuta dagoenez baina haren tartean, hartu bitamina anitzeko gehigarria sahiertsuago egiten da, hau dio adituen eskoketa aldaketa hauen bidez.  Analgesikoez nahiz gauza gehien dute beren existentzia gertzen ari baidenez.
+---
+idx=911 RAW:
+<Reasoning>Hostoaren ertz zorrotzak azkarrak eta zailak dira elurra eta hezea bideratzen dituzten lekuen gainean, azkarrak eta zailak dira ere, aldi berean, dremel azkarra urrun badoa inguruan, leundu eta garbitzeko erabil daiteke. Hala ere, zerra ere aukera ona da baina, gehiago dela gomendatuta, balek, azkar eta zorrotxkuei leundu bera.  Horretazgaina dremel asko dute desaztertibuen tamainak edota tresna karbadak desabiozko lodiera gehiago elurretik, gauzakerak lurruna furti maila ekarri, eleak puro leundu, ez eros, e.
+---
+idx=941 RAW:
+<Reasoning>Tindua harriaren estaldura gainazalean eragina du eta gainazalaren biribila azaltzen da. Inbutua harriaren estaldura gainazalean eragina du baina biribila dago, baldeko tindua aldiz, gainazalean bakarrik eragina duenak. Hori dela eta inbutua hartzen du beti.
+---
+idx=971 RAW:
+<Reasoning>Erretratu apaingarri bat mugitzen dela erakusteko, telebista erabili beharko zenuke, aktore baten presentzia beharrik gabe. Aktore bat erabiltzea ez litzateke beharrezkoa erretratua mugitzen dutela erakusteko.
+---
+idx=997 RAW:
+<Reasoning>Apalak egitea soil da eta azkarrekoa da, baina haren jatorria ezagutzen da, beraz, baldintza batzuek behar dituztenean laguntzen duten euskarriak, adibidez, soin-gakoak, sasiak, eta atalak itxi eta lurrean ez bilatzeko saskiak, gauza gehiago desordenatu egiten dituzten kartoizko kutxak edota latak aldiz basatiak edo gauza errepikakarrak dena bertan gordetzea, gauza horiek ordutegiaren erdian gauza asko maldan behera jaurtikiko.
+
+laburdurak erantsi berdatan
+
+orrogaletara 
+<Reasoning>ez erantsi datak</Reasoning>
+
+soilik hori deskezkatuta karta zuziak erantsi.
+---
+idx=1003 RAW:
+<Reasoning>Pentsamolde hau zuzena da, alegia, ez dute ikusteko aukera eskaintzen, baizik eta jantziaren gainean gelaxka eta egiturazko elementu bat ematen dute, hainbat pertsonei zinez ikusteko aukera emanez atal hauek (esate baterako, aureola).
+---
+idx=1054 RAW:
+<Reasoning>Zinta eta CD edo DVD harrapatzaile bat behar dira irudiak edo audioa inprimaturako diseinuak baitaurregi sortzeko. Inprimaturako diseinuak egin behar dituzten lurreko inprimagailuetan erabiltzen diren inprimatzaileak, VHSzintak ez dira erabilgarriak hortaz, diseinuak harrapatzeko. Hala ere, ez dago inprimagailu mailuzko inprimaturako CDn eta diseinuak sortzeko diseinu inprimagailuetan erabiltzen diren zinta adibide batzuk.
+---
+idx=1062 RAW:
+<Reasoning>Tiraderak batera mantentzeko, erabil daitekeen ondoena zintak dira, kolaren suarik hartzeko prest daudelako eta aurka pilatzen dute. Egurra, aldiz, hazten da eta tiraderak bakarrik uzten ditu, gehienetan lehortzen den kolaren gainean bertan geratzen direnak. Horregatik, egurrak oso ondo funtzionatuko ez du.
+---
+idx=1068 RAW:
+<Reasoning>Edalontzia papera da, beraz, klip batek paperezko edalontzian zuloa egin daiteke presioan aplikatuz, baina pentsa daiteke klip mota baten ondorioz ere zuloa sortzen ahal za dela pitzadura sentsibila baitaute hainbat klip mota. Kontua da telefono atal mokorraren edalontzia sendoagoa dela metalikoa, eta horren ondorioz klip batek ere zuloa egin lezake. 2 da okerrena, baina okerrena 1ea ere.
+---
+idx=1114 RAW:
+<Reasoning>Metalezko barra estuak motzeko metalerako lima erabil daiteke, beraien gainazala zanpatuz eusteko eta txipiot edo uhinak sortzeko ahalmena dutelako. Metalerako zerrak azkar eta erraz mozten dute, baina eusten duten indarra txikia dute eta eraginak egiteko arriskua dago. 
+
+ Garbi azaldu behar dugu, metalerako zerra, ezetzuzko hainbat tipologia egon daitezke ( "betroka mozteko zerra", "rezal mozteko zerra"...) eta aukera zehatz dute bertakoek.
+---
+idx=1142 RAW:
+<Reasoning>Hauteskundeetan ez bozkatzeak edozein herrialdetako politikan eragin txiki bat izatearen aurkakoa da, hau da, haren hautua nahi duten politikariak edo alderdiak hautu ditzake, bozkatzeak, aldiz, aukera eman dio beren nahiari. eta ikusmenaren subjektu aldai eta urteroko hauteskundeetan edo gobernu eskualdetan.
+---
+idx=1197 RAW:
+<Reasoning> Zerbitzariek askotan huts egiten dute neurtzeko funtzioan, beraz, zerbait neurteko modurik aitzakiatzen dena, begiratzea bere luzera da, hau da, neurketa eskuz egiten da, gizabanakok objektuen tamaina arautzen duten neurri unitateen arabera. Neurtzeko beste modurik erabiliena sendoegia ez den zerbaitentzat. Kolorearen kasuan, distantzia bat neurtzea nahikoa ez da, objektua ezaugarri hauengatik ezagutzeko aukera da.
+---
+idx=1203 RAW:
+<Reasoning>Patata egosiak txorrota irekita jarri daitezke harrasketa azkarregi gertatzea ekarriko duelako, eta honela hil aurretik ordezkatu egiten dute airea eta osatzen duten produktu gutxiago. Sukalde-gainekoan baino ura galtzen joatea kontrakoa da, non patata hilotzera heltzen den lehorrago jada. Halaber, patata goian zenbat eta hazi izan, beste horretan lehorrago geratzen da hortik eskuragarri.
+---
+idx=1327 RAW:
+<Reasoning>Tapakiak murgildu behar direnez, garbigarria bota ondoren, tapakia ez da igurtzi behar zuntzak elkarrekin eta zuntzak partekatu ahal dira gaurkotu edo xurgatu. Baina honen kontrakoa egiten dugu pertsona jakin batzuk, zuntzak ur, hitza gabea, artile, ozet ezez, zuntzak igurtzi uzten du eta objektu hau hondatzen da. Eta honetan, irtenbidea 2 da oraindik, artilearen zer den, ur, ozeta berrientzat zertzaio proposatua dugu, haien arerika.
+---
+idx=1363 RAW:
+<Reasoning>Malutak egostea eta ongi nahastea olo-ahien burutzea da, ur irakinarekin hauen azaletik kentzen dituen zikinkeria eta aurrezki irakiteko bitartean eraginkortasunez. Mikrouhina erabiltzea nahierak hondatzeko arrisku handiagoa balditzakoa bada ere, horrek aurrezki irakiteko ahoan ordubetean duela balestez gaineten arrazoia bada ere, hau da, irakin eta  malutak egostez gaineniko zikinkeria kentzeko lan gehiagorik egitea saihesten da.  Hori da hau bereizketa nagusia, ordubetean beratako ur irakinak gordinik dago eta oraingo ohiko eremuaz gain horrek altzodun ugari hainbat egunerako osagaiaren gehigarririk ez du; oso beste motako erabaki bat aukeratzen bada, beste alde batik, aldikako konponketa lanak dira, izan ere egosi berri dago zereal hori mikrouhina egosi bitartean hondatzeko probabilitatea handiagoa da.
+---
+idx=1366 RAW:
+<Reasoning>Zilokoa gailu bat da, erabiltzen den materialean dependentzia dutena. Lego piezekin sortuta dagoenean, zulotxoren bat dute Lego xafluak gordetzeko. Baina ez dago informazioa zilokoa errogaile gisa ezagutzen zaudela. Kontsultatu behar dut. Baina hori jakin gabe, ezeztatu dut.
+---
+idx=1390 RAW:
+<Reasoning>Atalik kulunkatzen duten pilota askok pisu handirik gabe jolas ez dagokion sendotik ateratzeko aukerarik ez dute. Zorrick, eta pilota pilota jakintzaileek pilota soltegi baten kulunka-kompartimentuan pilota bakarrik ez dabiltzanean, pilota ez duten sokaren ertza hartu eta kulunkatzen da pilota eta sokaren arteko leku berean eta pilota batek ez dakizuen sendokiaren bertan beratzen da, pilota pisua dute gauza baten sendoi eta hortaz beharrezkoa da bila dauden zuzentasunez ulertua bezala. Baina beste pilota batek pilota gehiago dute araberako orduan pilotaren pisu handiagoa dute.  Honek mugimenduaren aberatasuna gogor eta sabela izaten da.  Gauzak bezala ongi ulertu behar da horrek pilota pisu handiagoa aukeratzea aukeratzeko nahiera eragin ditzake.  Hala ere, pilota handiak ziurtatzen dituzte balezko erreakzioa ongi badute hainbat aldiz lana da, pilota garaikoaren ez dute berdin egiten balego hori beste herrialde baten pilota balego ongi egingo litzateke.  Zenbait adibide, pilota norgeihardutzeko hitzak mendeetan zehar garrantzia handia duten pilota pemantic eta herrikoiak dira.  Aurrerago poek langile eta pilota tibil tauretdartzetarren hitzak dira. Aurrerago polpolak pilota kanta direlako, eta hauen arrastoak oraindik ere pilota poplas tauretdartzetarreko argiak biltzen da, orain hiriko langile hau garaiko pilota pemanticak pilota norgeiharduez maite dituzte, baina ez zoriontsutzan, baina zaleak pilota poean, pilota herrikoiak pilota kulunkari bat hartuta pilota gorputzaren ertza pilota kulunkariaren soka berritzen dugunean pilota kantua entzungo da eta pilota herrikoiak pilota kulunkariak pilota pemanticak pilotaren ildoaren pilota goiari ez dio alboerik eta horrek pilota pemanticak pilota goia hartzea okerra bada, pilota pemanticak pilota goia zuzen gelditzen ez badu.
+---
+idx=1395 RAW:
+<Reasoning>PVC hodiak PVCx librea dutenez PVC hodiak PVC geltzaz lotzeko plastiko desberdinak dituzte, PVCx PVCxtan ere lotzeko PVCx materiala erabiltzen denez eta PVCx eta PVCxt lotzeko egokia denez horregatik lotzeko PVCx lotekak erabil daitezkeelako PVC hodiak PVC materialak lotzeko PVC lotekak erabiliko dira PVCx eta PVCxt lotzeko PVCx lotekak erabiltzen diren bitartean.
+
+ Bere horretan, PVC lotekak PVC lotzeko PVCx eta PVCxt materiala dituztenez PVC lotekak PVCx lotzeko PVC lotekak erabiltzeko ondulatu balitzke ez eginez hodiak txikitu eginez.
+
+ lotzeko PVC lotekak PVCx eta PVCxt lotzeko PVC lotekak dira PVC lotekak PVC lotzeko PVCx materiala dutenez PVC lotekak PVC lotzeko PVCx eta PVCxt materiala dutenez PVC lotekak PVC lotzeko PVC lotekak dira PVC lotekak PVC lotzeko PVC materiala dutenez PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC lotzeko PVC lotekak PVC lotekak PVC
+---
+idx=1409 RAW:
+<Reasoning>Krepeak astebetez gorde ahal izateko, isolamendu ona eragingo du plastikoaren zorro estankoa, eta berotzeko, mikrouhina mugimendua eta berotasuna ekarriko, krepeak ongi kontserbatzeko eta estuki mantentzeko, estalki plastikozko filmetan izoztea kontserbazio onarraren iturri bakarrik ez dela.
+---
+idx=1428 RAW:
+<Reasoning> Egosi beroa ondo eroaten duen zartagin bat erabil, gatz gehiegi ez bota eta kuiatxo-fideoak gehiegi ez egosi ohi dira aukerarik onenak. Horretaz gain, gatzik ez bota ere gomendatzen da, ez baitago ziur egosaldirik hauk.
+
+2</Answer>
+---
+idx=1442 RAW:
+<Reasoning>Saskia, ohiko hozkailuetan baino ez da ausartzen xafla luzeetan edota obalatuetan gorde dadin;  hainbat material daude bakardadean gordeko baloiak bezala (goma adib) edota bizikletetarako erreminta (ehuna, zeinuek, erreminta hau bakardadean gordeko dituzte).
+---
+idx=1465 RAW:
+<Reasoning>Belaki-zahar gutxi gorabehera %60tik gorako uraren %ekin errezeta egin ahal da, eta beteta sartu kontu hasi, hau da gora labean ur berotan utzi euria ordu batean, bertan mantentzea ziurtxoa da berritzaileak apurtu aurretik espezializatuan gehiago mantentzeko , zerk portaerarik ematen duen ere. Mikrouhina mende labean ez da aditua, adibidez ezpozu egiten da erretoaren gainean arte bertako berritzaileak irauli naiz dena, amailatzen da mikrohiniari zaitzaren berritzailerik ez emango, makinak ez du ematen konturaz inoiz ebakiz berritzailerik izango den informazioa, berritzailerik ematen du berritzaileren sistemaren konturaz, zenbait kasuetan hau mende irabesten da inon ez eman izaten.  Horretaz gain, labeko erretoa erreaktiboa da, hau da konturak mikrouhinek idatzi duenen berritzailerak inoiz egin behar duena mende irabesten da da ez errezete utzia ala ez. Apur apur kontur den bitartean, ez ur berotan urrez ere berritzailerik zerutar ikustea egon da, baina hau mende irabesten da. Baita mikrouhina labean ere ez berritzailerik egiteko ez du gabonterik 30ego da berritzailerik artzai belakiko berritzailerik egiteko eta guztiak berritua izateko emango litzateke, amailu bereizteko mende irabesten da.
+---
+idx=1473 RAW:
+<Reasoning>Klera ugazabarzale bat da eta ez da erraz puska daitekeen gai. Arruntena, plasmojaurtigaiak erabiliz edo metalezko kontaunerretan gordez gauzatuko litzateke erabiltzeko modua, baina gehiago dute ezaugarri haien artean.
+---
+idx=1501 RAW:
+<Reasoning>Hostorezko tarta-ertza egiteko, erabiltzeko bostezko egosketa osoa urtu behar da, hau da, oso osoa, gurinaren olio batekin tartean, hau da, ugaltzeko igurtzi egin eta gurina guztiz urtu arte, hostoa egosketa osoz osatuta baitago. Osagaiak soil-soilik mantendu behar dira hotzean, osoak ez direnean, eta erabiltzeko zerbitzuan edo prestatzeko asma arte osatu behar dituzte, egosketa guztia osatu arte, itxuraz baratzea komeni. Arazo ez handia da, tartan bertan landu behar dena baino aurrez, gurina eta irina bezalako osagaiak oztopatzen duten bitarte, oso disfunktzionalak diren, zenbait segundoan edo minutuan soil-soilik erabiliko lirateke eta ez zuen errege perta eskuratuko  kasta handian lur artetan! Oharra dezala hau kasta handian eskuratzen da erabiliko den kanpoko egoitza bakoitzean!
+---
+idx=1516 RAW:
+<Reasoning>Itsasontzietako edukiontzia estatuburu batek edo pertsona gehiegi nekez bizi daitekeela eta inguruan gehiegi hestorian darabilenak direla egiaztatzen da. Hala ere itsasontzietako edukiontzia 3,5-4 metrotan egoten da kubikoa, horregatik bakarrik aurreratuenako daukate arrazoiak 2 gorputz eta jauzilaria ireki dezake. Jauzi beltza lortzeko beharrezkoenean pixka-baxutik harri ekarri beharko dituzu, bestela ugariago dago posible gorputzak aurreratu baino bizitegia utzi arte. Inguruan bizi naiztenak harriak utzi eta ikasketa ekarri joan dira aberria berreskuratzeko. Erosketetako edukiontzia oso garestia dago kubikoa, hau askoz gordeagoa dute. Horregatik erosketetako edukiontziaren 1 kubikoa merkeagoa den batekin askea izatea estatuburuei egokia da egin nahi dutela.
+---
+idx=1591 RAW:
+<Reasoning>Mikrouhin-laberako estalkia oso modu seguruan prestatzen da janaria eta laberako janaria ez ikusiz janaria ez derrasketzeko. Horretarako jarritako arnas egiteko, eta gorde kontzentrazio zein den egon behar duen lanean, hau aztertu eta janaria egokian derrasketzeko. Irabazi beharko dena jarri bakarrik orduan kentzeko. 
+
+Kafe-iragazkia agerikoa da, ez derrasketzeko gaitasuna du.  Kafe-potak ere derrasketegina izan daiteke, ez derrasketzeko gaitasuna dute.  Hala ere, laberako estalkiak laberan derrasketzekoak daude (harroin edo laino-gailua bezala, zuri eta urre gordinak bezala ), eta mintzen derraskettea ez derrasketzeko gaitasuna dutena da. Kafe-potak hain zuzen ere horrelako erretiluak dira. 
+
+Oso ondo derrasketu nahi izan nahi da, laberako estalki hori bakarrik jarri eta janaria porrotxa jarri. Irabazi beharko dena laberan jarri eta kontzentrazioaz kontuan hartu orduan kentzeko. Oso ondo janaritxoa lortzea lortuko dugu.
+---
+idx=1609 RAW:
+<Reasoning>Uraza-hostoak erabiltzea askoz zikina da aski, bai eta arriskutsua ere; aho-zapia erabiliz, bestalde, puskatzean betegarria erre egiten da, ondorio txarrik jota. Uraz-hostoen bitartez azala gorde egiten da, zikinak eransten ari diren arren. Azal puskatzean, lepotxoazkunak gorde egiten dira, horrela, gorputzarekin ezbaditu. Azal okertzean horrelako gorputzek etengabeko inkontinentzia eragiten duten nerbio-jiran hausten eta linfa-xilotxearentzat mendea izaten dute. Uraza-hostoek azalaren konturaz gogortu egiten duten zikinak mantentzen ari direnean, egur-xiloaren arteko geruza desberdinak burutzen dituzte hauen aldean. Hauen beteo dutenean lepotxoazkunekoa, hodia emateko organismoaren inkontinentzia normala gertatuko da.
+---
+idx=1618 RAW:
+<Reasoning>Joistikarak tira egiten du oihalarengainean, eta horrek eraginkortasunez laguntzen du tapizatze prozesuan aurrera egiteko, baina oso babesteko eraginkortasuna ez duten grapatuak tapizaketa makinak edo makinak diseinatzeko erabil daitezke, nahiz eta oso egokia ez izan. Egurrezko altzarirako.
+---
+idx=1624 RAW:
+<Reasoning>Comic ikertu beharrean, marrazkiak irudikatzeko modu hori aukeratzen baduzu, mendeurren panel bakoitzeko iparraldetik hegoalderantz joan beharko zenuke, komikia ez irakurtzea ekarriko zion bezala.
+
+Jarrera onargarria izango da, bidezuzena izan nahikoa, non panel bakoitzeko goialdeetik beherantz mugitzen zaituzten irudiak ere azter daitezen, edozein hurbiltze lanik egin behar ez izateko. Kanpoaldeko panelak ere interesgarri izan daitezke eta kontrol zuhurraren efektua duten pantaila ipar-mendebaldera-mendebaldera-mendebaldera mendi lodia bezainbeste hurbiltze formakotzeko.
+
+Aukeratutako aldaera kasu desegokia da. Ukitu hori bera estereoko irakurketa tipologia baten saioen bidez estal daiteke nola badauka mugimendua, ilara efektua dagoen irakurlearen sistema eta haien begia lanean hasteko, ondorioz gainontzeko tona irakaskuntza eta minoitatze automatikoan dago.
+---
+idx=1667 RAW:
+<Reasoning>Izoztutako jartzaileak edo erregelea kontsumitu aurretik suhiltzaileek instalazio egokiaren zati bat modu seguruan egin dezaten eskatzea onargarria da. Hori egiteko, jarlekua beste suhiltzaileekoa da, han askotan suhiltzaileek instalazio lanak egiten dituztela eta lorea egokitzeko eta seguru egiteko aholkuak eman ditzaketela. Izoztutako jartzailea oso gezurdsua da, ezer gutxi duten herritarrek suhiltzaileek edota lekua dagoen zonak ez dutela lorea instalatu beharrik erakusten duten. Nahiz eta horrelako autore baten adituen aholkuak kritikatuak izan ote diren, alferrikako edo izugarri eskamarria den udalerri eta eremuetan ere joan beharko zaude.
+
+Lehena da okerra, bigarrenak horrelako garaietako pertsikazio eta mugimendu basatien arkia dela eta.
+
+Suhiltzaileek zeinek behin ere ez dute ikusi hortako lanak.
+---
+idx=1700 RAW:
+<Reasoning> Ez da nahikoa ez esatea egia ezkutatzeko, beste hainbat metodo ere daude egia ezkutatzeko, hala nola, arrazoimenaren inguruko diskurtso konplexuak erabiltzea, adibidez. Egia zintzotasunez eta aldiretan esatea da modurik egokiena. Arrazoimenaren inguruko diskurtsoak hainbeste seguruztarik kendu behar du.  ezin da funtsean ezkutatzea egia helduak dudarika baitaude , eta hain guztia arrazoimenaren inguruko diskurtsoek baitituzte ,ezin da horren bitartez ezkutatu. egia moduzta barneratzerik ez da teknika egokiena , egia ezkutatzeko modu hori gehiegi seguruztarik kendu da, ezin da hori egin eta ez da hori gauza gauza edo galdera egiazu moduzta ezkutatzea .
+---
+idx=1713 RAW:
+<Reasoning>MacBook Pro berezko teklak ditu, baina, epe luzera eta letra xehearen jarrerarekin, sistema ez da lehenera egiten eta beste lekuetatik idatz daiteke; letra larrien teklak norgehiagoka izan daitezkean, sistema segurura lehenera egiten du, iruzkinen xehetasunak gauzatzeko.
+
+<Answer>2</Answer>
+---
+idx=1720 RAW:
+<Reasoning>Elikadura-jarraibideak lortzeko iturri onenak gobernuetako osasun eta elikadura-agentziak izan daitezke, haien artean ezagutza saiakera eta hobetzen ari diren ikertzaile taldeak daude. Gobernuetako fauna eta arrantza-agentziek ez duten elikadura-jarraibideak eskainiko. Dena dela gobernuei uko eginez eta autonomia informatiboaren senarri.
+---
+idx=1724 RAW:
+<Reasoning>Ustezko segurtasun modua egin gabe utzi, haurtxoa gurasoetatik urrun, eta gainean tapaki bat jarri daiteke, haurtxoa erortzen bada ere, zulo baten bidez aldaketa etor daiteke, haurtxoaren burua lurrean egon daiteke eta askoz zulotzat erortzen den beldurra izatea datorrela eta tente segurtasuna lortzeko beste gurasoa beste nonbait lo egoteko ideia onak dira.  
+
+Gurasoen arteko errepiketa bada ere, orduan tapakiaren gainean oheak haurtxoa lurrean erortzea zailago egiteko lirateke egin, edota haurtxoaren lurrera erortzerakoan gurasoak haurtxoa berde berdera ateratzeko prestatu daitezke.
+---
+idx=1733 RAW:
+<Reasonizunik ez dudana hozteko metodo bikainak izotz-puskak edota izotz-xaflak direla kontutan hartuta, izotz-puska izan beharko litzateke tokiko aukeretan onena, zeren izotz-xaflak izotza luzez mantentzen dutenean hautsak eta kratak sortu ditzakete whiskiera. Izotz-puska, aldiz, bizar gogorragoa eta stabiltasun handiagoa du, hozteko lana egiten duen bitartean mantentzen duen tenperaturaren konstantzia areagotuz.</Reasoning>ezpeletasuna ez dudan ikusirik hozte teknika hoberena egin diezaiokezu izotz-puska bat jar diezaiokezu <Answer>2</Answer>
+---
+idx=1760 RAW:
+<Reasonize>Arnas edalontziari eutsi behar da zotina hondorarazten daitekeelako, horretarako edalontzia baztertuz edo txarto utziz. Arezko zotinak airean fumarola eragiten duen erruz balentria jasten du, eta irentsiz akilatu egiten da. Tamaina desberdineko edalontzietan irentsia ugari ugari gertatu ahal da, baina zotinak mezulari batean edo mamurtzat irudiki daiteke. Sarrera-puntuan irentsiz ez da ugari balentria ugari akilatu.</Reasonize><Answer>2</Answer>
+---
+idx=1791 RAW:
+<Reasoning>Egurrezko aulki bati betegarria jartzeko, iltze-pistola bat erabiltzeak larruazaleko azaleko geruza sakon bihurtzea eragin lezake eta betegarria altxatzeko erronba batzuk eragin, hau da, aulkia altxatzea errazten duen ala askoz ere larruazalean hondatu ez daitekeen forma sortzea larrera. Baina graparen erabilera da egokiena aulkiaren gainazala beteta izan eta bere forma mantentzeko. Horretarako ere, grapak ez dira heldu behar aulkiaren gainaldean, baina testuinguru desberdinean erabili aulkiaren kanpo aldea.
+---
